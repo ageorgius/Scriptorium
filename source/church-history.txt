@@ -1,0 +1,385 @@
+# Church history for the Scriptorium timeline (replaces the BibleWorks "Church history" collection).
+# One entry per line:  start | end | title | note
+# Dates: 1274-03-07 (day), 1274-03 (month), 1274 (year); "c." in front means about. An empty end is a single date.
+# Catholic events and saints are given full weight; Protestant events and figures are kept with their dates.
+
+# ---- The early Church ----
+64-07-19 | 68-06-09 | Persecution under Nero | Began after the Great Fire of Rome (19 July 64) and ended with Nero's death (9 June 68).
+c.64 | c.67 | Martyrdom of St Peter and St Paul at Rome | Under Nero: Peter crucified, Paul beheaded; their feast is kept on 29 June.
+c.35 | c.108 | St Ignatius of Antioch (martyr) | Bishop of Antioch; wrote seven letters on the way to his martyrdom at Rome under Trajan.
+92 | 150 | Age of the Apostolic Fathers | Clement, Ignatius, Polycarp, the Didache, Hermas and the Epistle of Barnabas: the generation after the apostles.
+92 | 101 | Pope St Clement I | Eusebius dates his episcopate from the 12th year of Domitian (92) to the 3rd year of Trajan (101).
+c.96 | | St Clement writes to the Corinthians (1 Clement) | The earliest Christian letter outside the New Testament, sent by the Church of Rome to restore order at Corinth.
+98 | 117 | Persecution under Trajan | Pliny the Younger's letter to Trajan (about 112) and the emperor's reply set the rule: Christians were not sought out, but punished if accused and they refused to sacrifice.
+c.69 | 155-02-23 | St Polycarp of Smyrna (martyr) | Disciple of St John; burned at Smyrna on 23 February 155 (or 156), saying he had served Christ eighty-six years.
+100 | 150 | The Shepherd of Hermas written at Rome | The Muratorian Fragment says Hermas wrote it while his brother Pius was Bishop of Rome (about 140-154).
+c.100 | c.165 | St Justin Martyr | Philosopher and apologist; beheaded at Rome with six companions under the prefect Rusticus, about 165.
+c.130 | | The Epistle of Barnabas | Written after the Temple's fall in AD 70; its talk of rebuilding the Temple (16:4) points to about 130.
+c.130 | c.200 | The Epistle to Diognetus | An anonymous apology of the 2nd century by "a disciple of the apostles".
+c.130 | c.202 | St Irenaeus of Lyons | Heard Polycarp as a boy; Bishop of Lyons from 177/178; honoured as a martyr.
+c.115 | c.125 | Pope St Sixtus I | The Annuario Pontificio gives about 115 to about 125.
+144-07 | | Marcion breaks with the Church of Rome | He rejected the Old Testament and kept only an edited Luke and ten letters of Paul; the Church's answer helped fix the canon.
+c.150 | 325 | The Ante-Nicene Fathers | Justin, Irenaeus, Tertullian, Clement of Alexandria, Origen, Hippolytus and Cyprian, before the Council of Nicaea.
+c.155 | | St Justin's First Apology | Addressed to Antoninus Pius; it contains the earliest description of the Sunday Mass (chapters 65-67).
+c.155 | c.166 | Pope St Anicetus | Received St Polycarp at Rome; they kept different dates for Easter but remained in communion (Eusebius, Church History 5.24).
+c.156 | | Montanus begins prophesying in Phrygia | The "New Prophecy", later joined by Tertullian.
+c.150 | 215 | The Old Roman Creed, forerunner of the Apostles' Creed | The baptismal creed of Rome, given as questions in Hippolytus's Apostolic Tradition (about 215). The present wording of the Apostles' Creed appears about 710-724.
+161 | 180 | Persecution under Marcus Aurelius | Local persecutions, among them the martyrs of Lyons and Vienne (177) and St Justin at Rome.
+177 | | Martyrs of Lyons and Vienne | Bishop Pothinus, Blandina and their companions; the letter of their churches is preserved by Eusebius (5.1).
+c.177 | | Celsus writes The True Word against the Christians | Known from Origen's reply, written about seventy years later.
+c.180 | | St Irenaeus writes Against Heresies | Against the Gnostics; appeals to the succession of bishops and to the Church of Rome.
+189 | 199 | Pope St Victor I | Pressed the Roman date of Easter on the churches of Asia (about 190); Irenaeus urged peace.
+c.155 | c.220 | Tertullian | Born at Carthage; the first major Latin Christian writer; later joined the Montanists.
+c.150 | c.215 | Clement of Alexandria | Head of the catechetical school of Alexandria; left in the persecution of 202.
+c.185 | c.253 | Origen | Scholar of Alexandria and Caesarea; tortured under Decius and died at Tyre.
+c.170 | 235 | St Hippolytus of Rome (martyr) | Exiled to Sardinia with Pope St Pontian in 235, where both died; reconciled to the Church before his death.
+202 | 211 | Persecution under Septimius Severus | An edict of 202 forbade conversion; among its martyrs were Perpetua and Felicity at Carthage.
+203-03-07 | | Sts Perpetua and Felicity martyred at Carthage | Perpetua's own prison diary survives in the Passion of Perpetua and Felicity.
+c.200 | 258-09-14 | St Cyprian of Carthage (martyr) | Bishop of Carthage from 248/249; wrote On the Unity of the Catholic Church; beheaded on 14 September 258.
+250-01 | 251-06 | Persecution under Decius | Everyone had to sacrifice and obtain a certificate; it ended with Decius's death in battle in June 251.
+250-01-20 | | Pope St Fabian martyred | The first martyr of the Decian persecution at Rome.
+251 | | Novatian's schism at Rome | Against Pope St Cornelius, over the readmission of those who had lapsed in persecution.
+c.248 | | Origen writes Against Celsus | A reply in eight books to Celsus's attack on Christianity.
+257 | 260 | Persecution under Valerian | Aimed at bishops and clergy; it ended when Valerian was captured by the Persians.
+258-08-06 | | Pope St Sixtus II and his deacons martyred | Seized while celebrating in the catacomb of Callixtus.
+258-08-10 | | St Lawrence the deacon martyred at Rome | Executed four days after Pope Sixtus II.
+c.251 | 356-01-17 | St Anthony of Egypt, father of monks | Withdrew to the desert about 270; his Life by St Athanasius spread the monastic ideal.
+c.260 | c.339 | Eusebius of Caesarea | Bishop and the first historian of the Church (Church History).
+303-02-23 | 311-04-30 | The Great Persecution under Diocletian and Galerius | Began with the destruction of the church at Nicomedia; Galerius's edict of toleration ended it in the East on 30 April 311.
+312-10-28 | | Battle of the Milvian Bridge | Constantine defeats Maxentius under the sign of Christ.
+313-02 | | Edict of Milan | Constantine and Licinius grant freedom of worship and restore Church property.
+c.250 | c.325 | Lactantius | Latin apologist; tutor to Constantine's son Crispus at Trier in old age.
+c.315 | 403 | St Epiphanius of Salamis | Bishop in Cyprus; wrote the Panarion against eighty heresies.
+318 | 381 | The Arian controversy | From Arius's condemnation at Alexandria to the Council of Constantinople.
+
+# ---- The Fathers and the first councils ----
+325 | c.750 | The Nicene and Post-Nicene Fathers | From Nicaea to St John Damascene, the last of the Greek Fathers.
+325-05-20 | 325-07-25 | First Council of Nicaea (1st ecumenical) | Condemned Arius and defined the Son as "consubstantial" with the Father; fixed the rule for the date of Easter.
+c.296 | 373-05-02 | St Athanasius of Alexandria | Bishop from 8 June 328; exiled five times for defending the Nicene faith; Doctor of the Church.
+330-05-11 | | Constantinople dedicated as the new capital | Constantine's city on the site of Byzantium.
+c.329 | 379-01-01 | St Basil the Great | Bishop of Caesarea in Cappadocia; author of the monastic Rules; Doctor of the Church.
+c.329 | 390 | St Gregory Nazianzen | "The Theologian"; Bishop of Constantinople in 380-381; Doctor of the Church.
+c.335 | c.395 | St Gregory of Nyssa | Brother of St Basil; theologian of the Trinity.
+c.339 | 397-04-04 | St Ambrose of Milan | Made bishop on 7 December 374 while still a catechumen; baptized St Augustine; Doctor of the Church.
+c.347 | 420-09-30 | St Jerome | Translator of the Vulgate; lived at Bethlehem from 386; Doctor of the Church.
+c.347 | 407-09-14 | St John Chrysostom | Preacher of Antioch and Bishop of Constantinople; died in exile at Comana; Doctor of the Church.
+354-11-13 | 430-08-28 | St Augustine of Hippo | Born at Thagaste; Bishop of Hippo from 395/396; died while the Vandals besieged the city; Doctor of the Church.
+362 | 381 | The Apollinarian heresy | Apollinaris denied that Christ had a human mind; condemned at Rome (377) and Constantinople (381).
+363 | | Council of Laodicea | A regional council in Phrygia, usually dated 363-364; its canon 60 lists the books of Scripture.
+380-02-27 | | Edict of Thessalonica | Theodosius I makes the Catholic faith of Rome and Alexandria the religion of the Empire.
+381-05 | 381-07-09 | First Council of Constantinople (2nd ecumenical) | Affirmed the divinity of the Holy Spirit and completed the Nicene Creed.
+382 | | Council of Rome under Pope St Damasus | Listed the books of Scripture; Damasus asked St Jerome to revise the Latin Bible.
+382 | c.405 | St Jerome's Vulgate | The Latin translation, begun at Rome with the Gospels and finished at Bethlehem.
+386-08 | | St Augustine's conversion in the garden at Milan | "Take up and read" (Confessions 8.12).
+387-04-24 | | St Ambrose baptizes St Augustine at the Easter Vigil | At Milan, on the night of 24-25 April 387.
+390 | | Theodosius does public penance before St Ambrose | For the massacre at Thessalonica; he was readmitted at Christmas 390.
+393-10-08 | | Synod of Hippo | Under Aurelius of Carthage, with St Augustine present; listed the canon of Scripture including the deuterocanonical books.
+c.394 | 407 | The Origenist controversies | Jerome against Rufinus, and Theophilus of Alexandria against John Chrysostom.
+c.335 | | (Gregory of Nyssa, see above) |
+397-08-28 | | Third Council of Carthage confirms the canon | The same list of books as Hippo, to be confirmed by the Church across the sea.
+410-08-24 | | Alaric and the Visigoths sack Rome | The occasion of St Augustine's City of God (413-426).
+411 | 431 | The Pelagian controversy | Pelagius denied original sin and the need of grace; opposed by St Augustine.
+418-05-01 | | Council of Carthage condemns Pelagianism | Confirmed by Pope St Zosimus.
+428 | 431 | The Nestorian controversy | Nestorius, Bishop of Constantinople, refused Mary the title Mother of God.
+431-06-22 | 431-07 | Council of Ephesus (3rd ecumenical) | Proclaimed Mary Theotokos, Mother of God, and condemned Nestorius; led by St Cyril of Alexandria.
+432 | 461-03-17 | St Patrick's mission in Ireland | The traditional dates of his coming to Ireland and of his death.
+440-09-29 | 461-11-10 | Pope St Leo the Great | His Tome defined the two natures of Christ; Doctor of the Church.
+449-08 | | The "Robber Synod" of Ephesus | Restored Eutyches by force; annulled by Chalcedon.
+451-10-08 | 451-11-01 | Council of Chalcedon (4th ecumenical) | Christ one person in two natures; "Peter has spoken through Leo".
+451 | 519 | The Monophysite controversy | Opposition to Chalcedon in Egypt and Syria; the Acacian schism with Rome ended in 519.
+452 | | Pope St Leo meets Attila | At the Mincio near Mantua; Attila withdrew from Italy.
+c.480 | c.547 | St Benedict of Nursia | Father of Western monks; his Rule (about 530); died at Monte Cassino, traditionally on 21 March.
+496-12-25 | | Baptism of Clovis by St Remigius at Reims | The traditional date; the Franks become Catholic.
+c.529 | | St Benedict founds Monte Cassino |
+553-05-05 | 553-06-02 | Second Council of Constantinople (5th ecumenical) | Condemned the "Three Chapters".
+590-09-03 | 604-03-12 | Pope St Gregory the Great | Reformed the liturgy and chant; sent missionaries to England; Doctor of the Church.
+597 | | St Augustine of Canterbury lands in Kent | Sent by St Gregory the Great; King Ethelbert is baptized.
+664 | | Synod of Whitby | Northumbria adopts the Roman date of Easter.
+680-11-07 | 681-09-16 | Third Council of Constantinople (6th ecumenical) | Christ has two wills, divine and human; condemned Monothelitism.
+c.673 | 735-05-26 | St Bede the Venerable | Monk of Jarrow; Ecclesiastical History of the English People (731); Doctor of the Church.
+658 | 739-11-07 | St Willibrord, apostle of the Frisians | Mission from 690; first Bishop of Utrecht.
+c.675 | 754-06-05 | St Boniface, apostle of Germany (martyr) | Martyred at Dokkum in Frisia.
+c.675 | 749 | St John Damascene | Defender of holy images; last of the Greek Fathers; Doctor of the Church.
+732-10 | | Battle of Tours (Poitiers) | Charles Martel halts the Arab advance into Gaul.
+741 | 752 | Pope St Zachary | Approved Pepin's kingship of the Franks.
+756 | | Donation of Pepin: the Papal States | Pepin gives the lands taken from the Lombards to the Pope.
+750 | 800 | The "Donation of Constantine" forged | A forgery claiming Constantine gave the West to Pope Sylvester; Lorenzo Valla proved it false in 1440.
+787-09-24 | 787-10-23 | Second Council of Nicaea (7th ecumenical) | Restored the veneration of holy images.
+
+# ---- The Middle Ages ----
+800-12-25 | | Charlemagne crowned Emperor by Pope Leo III | In St Peter's on Christmas Day.
+858-04-24 | 867-11-13 | Pope St Nicholas I the Great | Upheld the rights of the Holy See against Photius and the Frankish kings.
+863 | | Sts Cyril and Methodius begin their mission to the Slavs | They gave the Slavs a liturgy and an alphabet.
+869-10-05 | 870-02-28 | Fourth Council of Constantinople (8th ecumenical) | Ended the schism of Photius.
+904 | 964 | The "dark age" of the papacy | The saeculum obscurum, when Roman noble families controlled papal elections.
+910 | | Abbey of Cluny founded | By William of Aquitaine, free of lay control; the centre of monastic reform.
+996-05-03 | 999-02-18 | Pope Gregory V | The first German pope.
+999-04-02 | 1003-05-12 | Pope Sylvester II (Gerbert of Aurillac) | Scholar and mathematician; pope at the millennium.
+1032 | 1048 | Benedict IX | Pope three times (1032-1044, 1045, 1047-1048).
+1045-01 | 1045-03 | Sylvester III | Set up against Benedict IX; later deposed.
+1045-05-01 | 1046-12-20 | Pope Gregory VI | Bought the papacy from Benedict IX to remove him; resigned at the Synod of Sutri.
+1046-12-25 | 1047-10-09 | Pope Clement II | Crowned Henry III emperor; began the reform.
+1049-02-12 | 1054-04-19 | Pope St Leo IX | Leader of the Gregorian reform against simony.
+1054-07-16 | | The East-West Schism | Cardinal Humbert lays a bull of excommunication on the altar of Hagia Sophia; the mutual excommunications were lifted on 7 December 1965.
+1055-04-13 | 1057-07-28 | Pope Victor II |
+1057-08-02 | 1058-03-29 | Pope Stephen IX (X) |
+1058-04-05 | 1059-01-24 | Benedict X, antipope |
+1059-01-24 | 1061-07-27 | Pope Nicholas II |
+1059-04-13 | | Lateran Synod: popes to be elected by the cardinals | The decree In nomine Domini.
+1061-09-30 | 1073-04-21 | Pope Alexander II |
+1061-10-28 | 1064 | Honorius II, antipope | Deposed at the Council of Mantua.
+c.1015 | 1085-05-25 | Pope St Gregory VII (Hildebrand) | Pope from 22 April 1073; died in exile at Salerno.
+1075-02 | | Lay investiture forbidden | Gregory VII's Lenten synod; the Dictatus Papae.
+1076-02 | 1077-01-28 | Henry IV excommunicated; penance at Canossa | Absolved by Gregory VII on 28 January 1077.
+c.1033 | 1109-04-21 | St Anselm of Canterbury | "Faith seeking understanding"; Doctor of the Church.
+1079 | 1142-04-21 | Peter Abelard | Logician and teacher at Paris; condemned at Sens (1141).
+1088-03-12 | 1099-07-29 | Blessed Urban II | Launched the First Crusade.
+1095-11-27 | | Urban II calls the First Crusade at Clermont |
+1098-03-21 | | Cîteaux founded: the Cistercians |
+1099-07-15 | | The crusaders take Jerusalem |
+1090 | 1153-08-20 | St Bernard of Clairvaux | Abbot, preacher of the Second Crusade; Doctor of the Church.
+1122-09-23 | | Concordat of Worms | Ends the investiture controversy.
+1123-03 | 1123-04 | First Lateran Council (9th ecumenical) | Confirmed the Concordat of Worms.
+1139-04 | | Second Lateran Council (10th ecumenical) | Ended the schism of Anacletus II.
+c.1140 | 1229 | The Cathars (Albigensians) in southern France | A dualist sect; ended by the Albigensian Crusade and the Inquisition.
+1159-09-07 | 1181-08-30 | Pope Alexander III |
+1159-09-07 | 1164-04-20 | Victor IV, antipope |
+1160-03-24 | 1177-07-24 | Frederick Barbarossa excommunicated | Reconciled with Alexander III at the Peace of Venice.
+1164-04-22 | 1168-09-20 | Paschal III, antipope |
+1168-09 | 1178-08-29 | Callixtus III, antipope |
+1170-12-29 | | St Thomas Becket martyred in Canterbury Cathedral |
+c.1173 | | Peter Waldo and the Waldensians | Began as lay preachers of poverty at Lyon; condemned in 1184.
+1179-03 | | Third Lateran Council (11th ecumenical) | Required a two-thirds majority of the cardinals to elect a pope.
+1179-09-29 | 1180-01 | Innocent III, antipope |
+c.1181 | 1226-10-03 | St Francis of Assisi | Founder of the Friars Minor; received the stigmata (1224).
+1170 | 1221-08-06 | St Dominic | Founder of the Order of Preachers.
+1198-01-08 | 1216-07-16 | Pope Innocent III | The height of papal authority; called the Fourth Lateran Council.
+c.1200 | 1280-11-15 | St Albert the Great | Dominican, teacher of St Thomas Aquinas; Doctor of the Church.
+1208-03-23 | 1214-07 | England under interdict | Over King John's refusal of Stephen Langton as Archbishop of Canterbury.
+1209-11 | 1213-05-15 | King John excommunicated | He submitted and made England a fief of the Holy See.
+1209 | | Innocent III approves the Rule of St Francis |
+1209-07-22 | 1229-04-12 | The Albigensian Crusade | From the sack of Béziers to the Treaty of Paris.
+1215-11-11 | 1215-11-30 | Fourth Lateran Council (12th ecumenical) | Defined transubstantiation; required yearly confession and Easter communion.
+1216-12-22 | | The Order of Preachers (Dominicans) confirmed | By Honorius III.
+1223-11-29 | | The Rule of the Friars Minor confirmed | Honorius III's bull Solet annuere.
+1194-07-16 | 1253-08-11 | St Clare of Assisi | Founder of the Poor Clares.
+1195 | 1231-06-13 | St Anthony of Padua | Franciscan preacher; Doctor of the Church.
+1231 | | The medieval Inquisition | Gregory IX entrusts heresy trials to papal inquisitors, chiefly Dominicans.
+1245-06-28 | 1245-07-17 | First Council of Lyons (13th ecumenical) | Deposed the Emperor Frederick II.
+1225 | 1274-03-07 | St Thomas Aquinas | Dominican; the Summa Theologiae; Doctor of the Church.
+1221 | 1274-07-15 | St Bonaventure | Minister General of the Franciscans; Doctor of the Church.
+1264-08-11 | | The feast of Corpus Christi extended to the whole Church | Urban IV's bull Transiturus; St Thomas wrote its Office.
+1274-05-07 | 1274-07-17 | Second Council of Lyons (14th ecumenical) | A short-lived reunion with the Greeks.
+c.1266 | 1308-11-08 | Blessed John Duns Scotus | Franciscan theologian of the Immaculate Conception.
+1294-12-24 | 1303-10-11 | Pope Boniface VIII | Proclaimed the first Jubilee (1300).
+1302-11-18 | | Boniface VIII's bull Unam Sanctam |
+1303-09-07 | | The outrage at Anagni | Philip IV's men seize Boniface VIII, who died a month later.
+1309 | 1377-01-17 | The popes at Avignon ("Babylonian captivity") | Ended when Gregory XI returned to Rome, urged by St Catherine of Siena.
+1311-10-16 | 1312-05-06 | Council of Vienne (15th ecumenical) | Suppressed the Knights Templar.
+1347-03-25 | 1380-04-29 | St Catherine of Siena | Mystic and counsellor of popes; Doctor of the Church.
+c.1328 | 1384-12-31 | John Wycliffe | Oxford theologian; denied transubstantiation; condemned at Constance (1415).
+1340-10 | 1384-08-20 | Gerard Groote | Founder of the Devotio Moderna.
+c.1380 | | The Brethren of the Common Life | Founded by Groote's followers at Deventer.
+c.1382 | | The Wycliffite Bible; the Lollards | English translations made by Wycliffe's followers.
+1378-04-08 | 1417-11-11 | The Western Schism | Two, and from 1409 three, rival claimants to the papacy; ended by the Council of Constance.
+c.1380 | 1471-07-25 | Thomas à Kempis | Canon of Mount St Agnes; The Imitation of Christ (about 1418-1427).
+1409-03-25 | 1409-08-07 | Council of Pisa | Tried to end the schism, but added a third claimant.
+1414-11-05 | 1418-04-22 | Council of Constance (16th ecumenical) | Ended the Western Schism; condemned Wycliffe and Hus.
+1415-07-06 | | Jan Hus burned at Constance |
+1417-11-11 | 1431-02-20 | Pope Martin V | His election ended the Western Schism.
+c.1412 | 1431-05-30 | St Joan of Arc | Burned at Rouen; declared innocent in 1456; canonized 1920.
+1431-07-23 | 1449-04-25 | Council of Basel | Its loyal members moved with Eugene IV to Ferrara and Florence.
+1438 | 1445 | Council of Florence (17th ecumenical) | Brief reunion with the Greeks (6 July 1439), Armenians and Copts.
+c.1455 | | The Gutenberg Bible printed at Mainz | The first major printed book: the Latin Vulgate.
+1453-05-29 | | The Turks take Constantinople |
+1452-09-21 | 1498-05-23 | Girolamo Savonarola | Dominican preacher of Florence; hanged and burned.
+1481 | | John of Wesel dies in prison at Mainz | A theologian condemned for questioning indulgences.
+
+# ---- Reformation and Catholic Reformation ----
+c.1466 | 1536-07-12 | Erasmus of Rotterdam | Humanist; printed the Greek New Testament (1516).
+1478-02-07 | 1535-07-06 | St Thomas More (martyr) | Lord Chancellor; beheaded for refusing the Oath of Supremacy.
+c.1469 | 1535-06-22 | St John Fisher (martyr) | Bishop of Rochester and cardinal; beheaded for the same refusal.
+1512-05-03 | 1517-03-16 | Fifth Lateran Council (18th ecumenical) |
+1513-03-09 | 1521-12-01 | Pope Leo X |
+1483-11-10 | 1546-02-18 | Martin Luther |
+1484-01-01 | 1531-10-11 | Ulrich Zwingli | Reformer of Zurich; killed at the battle of Kappel.
+1489 | 1565-09-13 | Guillaume Farel | Reformer of Geneva and Neuchâtel.
+1489-07-02 | 1556-03-21 | Thomas Cranmer | Archbishop of Canterbury; author of the Book of Common Prayer; burned at Oxford under Mary I.
+1491-11-11 | 1551-02-28 | Martin Bucer | Reformer of Strasbourg; died at Cambridge.
+1491 | 1556-07-31 | St Ignatius of Loyola | Founder of the Society of Jesus; the Spiritual Exercises.
+c.1494 | 1536-10-06 | William Tyndale | Translator of the English New Testament; strangled and burned at Vilvoorde.
+1497-02-16 | 1560-04-19 | Philipp Melanchthon |
+1509-07-10 | 1564-05-27 | John Calvin |
+c.1514 | 1572-11-24 | John Knox |
+1517 | 1555 | The Protestant Reformation | From the 95 Theses to the Peace of Augsburg.
+1517-10-31 | | Luther's 95 Theses on indulgences |
+1518 | | Zwingli attacks the sale of indulgences |
+1519-06-27 | 1519-07-16 | The Leipzig Disputation | Luther and Karlstadt against Johann Eck.
+1519-06-24 | 1605-10-13 | Theodore Beza | Calvin's successor at Geneva.
+1520-06-15 | | Leo X's bull Exsurge Domine against Luther | Luther burned it at Wittenberg on 10 December 1520.
+1521-01-03 | | Luther excommunicated | The bull Decet Romanum Pontificem.
+1521-04-17 | 1521-05-25 | Diet of Worms | Luther refuses to recant (17-18 April); the Edict of Worms (25 May). He was hidden in the Wartburg until March 1522.
+1522-01-09 | 1523-09-14 | Pope Adrian VI | Admitted the faults of the Curia at the Diet of Nuremberg.
+1525-01-21 | | The first Anabaptist baptisms at Zurich | Conrad Grebel baptizes George Blaurock.
+1526 | | Tyndale's New Testament printed at Worms | A first printing at Cologne (1525) was interrupted.
+1529-10-01 | 1529-10-04 | The Marburg Colloquy | Luther and Zwingli fail to agree on the Eucharist.
+1530-06-25 | | The Augsburg Confession read at the Diet of Augsburg | Drafted by Melanchthon.
+1531-12-09 | 1531-12-12 | Our Lady of Guadalupe appears to St Juan Diego | At Tepeyac, near Mexico City.
+1534-08-15 | | St Ignatius and his companions take vows at Montmartre |
+1534-10-13 | 1549-11-10 | Pope Paul III | Called the Council of Trent; approved the Jesuits.
+1534-11 | | Act of Supremacy: the Church of England | Henry VIII declared Supreme Head of the Church in England.
+1535-10-04 | | The Coverdale Bible | The first complete printed English Bible.
+1536-03 | | Calvin's Institutes of the Christian Religion | The first edition, at Basel.
+1536-05-21 | | Geneva votes to accept the Reformation |
+1536 | 1538-04 | Calvin in Geneva | Expelled with Farel in April 1538.
+1538 | 1541 | Calvin in Strasbourg |
+1541-09-13 | 1564-05-27 | Calvin in Geneva again |
+1536 | 1600 | The spread of Protestantism |
+1540-09-27 | | The Society of Jesus approved | Paul III's bull Regimini militantis Ecclesiae.
+1540 | 1570 | The German, Hungarian and Dutch Reformed Churches begin |
+1545 | 1648 | The Catholic Reformation (Counter-Reformation) | From the Council of Trent to the Peace of Westphalia.
+1545-12-13 | 1563-12-04 | Council of Trent (19th ecumenical) | Defined Scripture and Tradition, the canon, justification and the seven sacraments.
+1546 | 1547-04-24 | The Schmalkaldic War | Charles V defeats the Lutheran princes at Mühlberg.
+1549-01-21 | 1552 | Acts of Uniformity and the Book of Common Prayer |
+1553-10-27 | | Michael Servetus burned at Geneva | For denying the Trinity.
+1553-06 | | The Forty-two Articles |
+1555-10-16 | | Latimer and Ridley burned at Oxford | Under Mary I.
+1555-09-25 | | The Peace of Augsburg | "Cuius regio, eius religio".
+1559-05 | | The Gallic Confession; the Huguenots |
+1559-05-02 | | Knox returns to Scotland |
+1559-06-05 | | The Geneva Academy founded |
+1559-05-08 | | Elizabeth's Act of Supremacy and the Elizabethan Settlement |
+c.1560 | | Puritanism begins |
+1560-08 | | The Scots Confession: the Church of Scotland |
+1560-10-10 | 1609-10-19 | Jacobus Arminius |
+1561 | | The Belgic Confession |
+1562-03-01 | 1598-04-13 | The French Wars of Religion | From the massacre at Vassy to the Edict of Nantes.
+1563-01 | | The Heidelberg Catechism |
+1563 | | The Thirty-nine Articles |
+1566-01-07 | 1572-05-01 | Pope St Pius V | Published the Roman Catechism (1566), Breviary (1568) and Missal (1570).
+1568 | | The English College at Douai founded | By William Allen; the Douay-Rheims Bible was made there.
+1568 | 1648 | The Revolt of the Netherlands |
+1570-07-14 | | Quo primum: the Roman Missal of St Pius V | The Missal of the Council of Trent, in use until the 1962 edition.
+1571-10-07 | | The Battle of Lepanto | Attributed to the Rosary; the origin of the feast of Our Lady of the Rosary.
+1572-08-24 | | The St Bartholomew's Day Massacre |
+c.1575 | | Socinianism | Laelius and Faustus Socinus deny the Trinity.
+1577-05-29 | | The Formula of Concord |
+1581 | | Robert Browne: the Congregationalists |
+1581-12-01 | | St Edmund Campion martyred at Tyburn |
+1582-02-24 | | The Gregorian calendar | Thursday 4 October 1582 was followed by Friday 15 October.
+1582 | 1610 | The Douay-Rheims Bible | New Testament at Rheims (1582); Old Testament at Douai (1609-1610).
+1515-03-28 | 1582-10-04 | St Teresa of Avila | Reformer of the Carmelites; Doctor of the Church.
+1542-06-24 | 1591-12-14 | St John of the Cross | Doctor of the Church.
+1538-10-02 | 1584-11-03 | St Charles Borromeo | Archbishop of Milan; model bishop of the Tridentine reform.
+1515-07-21 | 1595-05-26 | St Philip Neri | Founder of the Oratory (1575).
+1506-04-07 | 1552-12-03 | St Francis Xavier | Missionary to India and Japan.
+1521-05-08 | 1597-12-21 | St Peter Canisius | Jesuit; his catechisms; Doctor of the Church.
+1542-10-04 | 1621-09-17 | St Robert Bellarmine | Jesuit controversialist; Doctor of the Church.
+1567-08-21 | 1622-12-28 | St Francis de Sales | Bishop of Geneva; Introduction to the Devout Life; Doctor of the Church.
+1584-07-10 | | William the Silent assassinated |
+1598-04-13 | | The Edict of Nantes | Toleration for the Huguenots in France.
+
+# ---- The modern Church ----
+c.1606 | | The Separatist congregation at Scrooby | Smyth, Brewster and Robinson.
+1607-05-14 | | Jamestown: the Church of England in America |
+1611 | | The King James Bible |
+1612 | | Thomas Helwys founds the first Baptist church in England | At Spitalfields, London.
+1618-05-23 | 1648-10-24 | The Thirty Years' War |
+1618-11-13 | 1619-05-29 | The Synod of Dort |
+1620 | | The Pilgrims: Congregational churches in America |
+1622-01-06 | | Congregation for the Propagation of the Faith founded | By Gregory XV, to direct the missions.
+1581-04-24 | 1660-09-27 | St Vincent de Paul | Founder of the Congregation of the Mission and the Daughters of Charity.
+1628-10-28 | | La Rochelle surrenders | The Huguenot stronghold falls to Richelieu.
+1633 | | The Particular Baptists |
+c.1638 | | The first Baptist church in America | At Providence, with Roger Williams.
+1642 | 1649 | The North American Martyrs | Sts Isaac Jogues, Jean de Brébeuf and companions.
+1643-07-01 | 1649 | The Westminster Assembly |
+1647 | | George Fox: the Quakers |
+1648-10-24 | | The Peace of Westphalia |
+1650 | 1800 | Deism prospers |
+1658-10 | | The Savoy Declaration |
+1661 | | The Quakers established in America |
+1662-08-24 | | The Great Ejection | The Act of Uniformity takes effect; the persecution of the Covenanters.
+1667 | | John Milton's Paradise Lost |
+1670 | 1727 | Pietism | Spener, Francke, Zinzendorf.
+1673-12-27 | 1675-06 | St Margaret Mary: the revelations of the Sacred Heart | At Paray-le-Monial.
+1678 | | John Bunyan's Pilgrim's Progress |
+1685-10-22 | | The Edict of Nantes revoked | The Edict of Fontainebleau.
+1689-05-24 | | The Toleration Act |
+1696-09-27 | 1787-08-01 | St Alphonsus Liguori | Founder of the Redemptorists; Doctor of the Church.
+1713-09-08 | | Clement XI's bull Unigenitus condemns Jansenism |
+1703-06-17 | 1791-03-02 | John Wesley |
+1703 | 1764 | Gilbert Tennent |
+1703-10-05 | 1758-03-22 | Jonathan Edwards |
+1714-12-16 | 1770-09-30 | George Whitefield |
+1715 | | Antoine Court restores the Reformed Church of France |
+1726 | | William Tennent founds the Log College |
+1727-08-13 | | The Moravian revival at Herrnhut | Under Count Zinzendorf.
+1729 | | The Adopting Act (Presbyterian) |
+1735 | 1744 | The Great Awakening |
+1738-05-24 | | Wesley's conversion at Aldersgate: Methodism |
+1745-08-20 | 1816-03-31 | Francis Asbury |
+1761-08-17 | 1834-06-09 | William Carey |
+1773-07-21 | 1814-08-07 | The Society of Jesus suppressed | By Clement XIV; restored by Pius VII.
+1790-07-12 | | The Civil Constitution of the Clergy | The French Revolution's attempt to make the Church a department of state.
+1801-07-15 | | The Concordat of 1801 | Between Pius VII and Napoleon.
+1792-08-29 | 1875-08-16 | Charles Finney |
+1800 | 1835 | The Second Great Awakening |
+1801 | | The Plan of Union |
+1812 | | Princeton Seminary founded |
+1772-04-17 | 1851-10-22 | Archibald Alexander | First professor at Princeton Seminary (1812).
+1812-12-09 | 1862-08-01 | James H. Thornwell |
+1786-05-08 | 1859-08-04 | St John Vianney, the Curé of Ars | Patron of parish priests.
+1801-02-21 | 1890-08-11 | St John Henry Newman | Received into the Catholic Church on 9 October 1845; cardinal 1879.
+1833-07-14 | | The Oxford Movement begins | John Keble's Assize Sermon.
+c.1827 | | John N. Darby and the Plymouth Brethren |
+1820-03-05 | 1898-01-03 | Robert L. Dabney |
+1820-06-21 | 1894-11-17 | W. G. T. Shedd |
+1797-12-27 | 1878-06-19 | Charles Hodge |
+1822 | 1834-12-07 | Edward Irving, minister in London |
+1825-05 | | The American Unitarian Association |
+1830-04-06 | | The Church of Jesus Christ of Latter-day Saints organized |
+1834 | | The Secession from the Dutch Reformed Church | The origin of the Christian Reformed churches.
+1836-04-11 | | George Müller opens his orphanage |
+1837-10-29 | 1920-11-08 | Abraham Kuyper |
+1837-02-05 | 1899-12-22 | Dwight L. Moody |
+1843-05-18 | | The Disruption: the Free Church of Scotland | Led by Thomas Chalmers.
+1846-06-16 | 1878-02-07 | Blessed Pope Pius IX | The longest pontificate after St Peter's.
+1848-03 | | Spiritualism on the rise |
+1851-11-05 | 1921-02-16 | B. B. Warfield |
+1854-12-08 | | The Immaculate Conception defined | Pius IX's bull Ineffabilis Deus.
+1858-02-11 | 1858-07-16 | Our Lady appears to St Bernadette at Lourdes | "I am the Immaculate Conception" (25 March).
+1863-05-21 | | The Seventh-day Adventists organized | After the "Great Disappointment" of 22 October 1844.
+1869-12-08 | 1870-10-20 | First Vatican Council (20th ecumenical) | Defined papal infallibility (Pastor aeternus, 18 July 1870); suspended when Rome fell.
+c.1872 | | Charles Russell: the Jehovah's Witnesses |
+1873-01-02 | 1897-09-30 | St Thérèse of Lisieux | The "Little Way"; Doctor of the Church.
+1878 | | The Salvation Army |
+1878-02-20 | 1903-07-20 | Pope Leo XIII | Revived the study of St Thomas (1879); Rerum novarum (1891).
+1879 | | Christian Science |
+1881-07-28 | 1937-01-01 | J. Gresham Machen |
+1891-05-15 | | Leo XIII's encyclical Rerum novarum | On capital and labour.
+1895-05-03 | 1987-04-17 | Cornelius Van Til |
+1898-10-14 | 1975-05-08 | John Murray |
+1900-10-31 | | The United Free Church of Scotland |
+1903-08-04 | 1914-08-20 | Pope St Pius X | Frequent communion; Pascendi against Modernism (1907).
+1910 | 1915 | The Fundamentals: Fundamentalism |
+1917-05-13 | 1917-10-13 | Our Lady appears at Fatima | The miracle of the sun on 13 October.
+1917-05-27 | | The Code of Canon Law |
+1929-02-11 | | The Lateran Treaty: Vatican City |
+1936-06-11 | | Machen leaves the Presbyterian Church; the Orthodox Presbyterian Church |
+1939-03-02 | 1958-10-09 | Pope Pius XII |
+1949-09-25 | | Billy Graham's Los Angeles crusade |
+1950-11-01 | | The Assumption of Our Lady defined | Pius XII's Munificentissimus Deus.
+1958-10-28 | 1963-06-03 | Pope St John XXIII |
+1962-06-23 | | The Roman Missal of 1962 | The last edition of the Missal of the Council of Trent.
+1962-10-11 | 1965-12-08 | Second Vatican Council (21st ecumenical) |
+1963-06-21 | 1978-08-06 | Pope St Paul VI |
+1968-07-25 | | Paul VI's encyclical Humanae vitae |
+1969-11-30 | | The new Order of Mass comes into use | Promulgated on 3 April 1969; in use from the First Sunday of Advent.
+1978-10-16 | 2005-04-02 | Pope St John Paul II |
+1992-10-11 | | The Catechism of the Catholic Church |
+2005-04-19 | 2013-02-28 | Pope Benedict XVI | Resigned; died 31 December 2022.
+2007-07-07 | | Summorum Pontificum | Benedict XVI frees the celebration of the 1962 Missal.
+2013-03-13 | 2025-04-21 | Pope Francis |
+2021-07-16 | | Traditionis custodes | Francis restricts the celebration of the 1962 Missal.
+2025-05-08 | | Pope Leo XIV elected |

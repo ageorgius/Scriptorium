@@ -1,0 +1,171 @@
+{
+ "_about": "Firmer dates for the timeline entries BibleWorks marked uncertain. Each gives the best-supported date or range, a clear title, and what the date rests on. Negative years are BC.",
+ "WILDRNSS-3": {
+  "title": "Psalm 90, the prayer of Moses",
+  "start": -1446,
+  "end": -1406,
+  "dating": "Its title, \"A prayer of Moses, the man of God\", places it in his lifetime; it is set here in the forty years in the wilderness (Num 14:33-34)."
+ },
+ "PROMLAND-13": {
+  "title": "Samson judges Israel (20 years)",
+  "start": -1075,
+  "end": -1055,
+  "dating": "Twenty years (Judg 15:20; 16:31), within the forty years of Philistine rule (Judg 13:1) that ended with Samuel's victory at Mizpah."
+ },
+ "PROMLAND-14": {
+  "title": "Samuel judges Israel",
+  "start": -1069,
+  "end": -1015,
+  "dating": "From the victory at Mizpah, twenty years after the ark came to Kiriath-jearim (1 Sam 7:2-13), to his death in Saul's last years (1 Sam 25:1)."
+ },
+ "KINGS-4": {
+  "title": "Psalms of David",
+  "start": -1025,
+  "end": -970,
+  "dating": "David's life, from his anointing by Samuel (1 Sam 16) to his death after forty years as king (1 Kgs 2:10-11)."
+ },
+ "KINGS-23": {
+  "title": "Obadiah prophesies against Edom",
+  "start": -848,
+  "end": -841,
+  "dating": "Set in the reign of Jehoram of Judah, when Edom revolted and Jerusalem was plundered (2 Kgs 8:20-22; 2 Chr 21:16-17). Many modern scholars instead link it with Edom's part in the fall of Jerusalem in 586 BC."
+ },
+ "KINGS-36": {
+  "title": "Jonah, prophet under Jeroboam II",
+  "start": -793,
+  "end": -753,
+  "dating": "2 Kgs 14:25 names Jonah son of Amittai as prophet in the reign of Jeroboam II of Israel (793-753 BC)."
+ },
+ "KINGS-38": {
+  "title": "Amos prophesies, two years before the earthquake",
+  "start": -762,
+  "end": -762,
+  "dating": "Amos 1:1: under Uzziah and Jeroboam II, \"two years before the earthquake\"; excavations at Hazor and elsewhere date that earthquake to about 760 BC."
+ },
+ "ASSYR-11": {
+  "title": "Sennacherib invades Judah and besieges Jerusalem",
+  "start": -701,
+  "end": -701,
+  "dating": "Sennacherib's third campaign, 701 BC, recorded in his own annals (the Taylor Prism) and in 2 Kgs 18:13-19:36 and Isa 36-37."
+ },
+ "ASSYR-18": {
+  "title": "Nahum prophesies the fall of Nineveh",
+  "start": -663,
+  "end": -612,
+  "dating": "After the sack of Thebes (No-Amon, Nah 3:8) in 663 BC and before Nineveh fell in 612 BC."
+ },
+ "ASSYR-19": {
+  "title": "Manasseh taken to Babylon by the Assyrians",
+  "start": -648,
+  "end": -648,
+  "dating": "2 Chr 33:11. Most likely when Ashurbanipal put down the Babylonian revolt of 652-648 BC and called his vassals to account."
+ },
+ "ASSYR-22": {
+  "title": "Scythian invasion of Western Asia",
+  "start": -630,
+  "end": -630,
+  "dating": "Herodotus (Histories 1.103-106) tells of a Scythian domination of Asia in the generation before the fall of Nineveh."
+ },
+ "ASSYR-26": {
+  "title": "Zephaniah prophesies",
+  "start": -630,
+  "end": -622,
+  "dating": "Zeph 1:1: in the days of Josiah (640-609 BC); the idolatry he condemns points to the years before Josiah's reform of 622 BC."
+ },
+ "ASSYR-27": {
+  "title": "Habakkuk prophesies",
+  "start": -607,
+  "end": -605,
+  "dating": "The Chaldeans are about to rise (Hab 1:6): just before or at Nebuchadnezzar's victory at Carchemish in 605 BC."
+ },
+ "BABYLON-3": {
+  "title": "Nineveh falls to the Babylonians and Medes",
+  "start": -612,
+  "end": -612,
+  "dating": "The Babylonian Chronicle dates the fall of Nineveh to Nabopolassar and the Medes in 612 BC; the last Assyrian king held out at Harran until 609 BC."
+ },
+ "BABYLON-13": {
+  "title": "Zedekiah, last King of Judah",
+  "start": -597,
+  "end": -586,
+  "dating": "Made king by Nebuchadnezzar in 597 BC (Babylonian Chronicle); eleven years (2 Kgs 24:18) to the fall of Jerusalem, dated 586 BC here (some reckon 587 BC)."
+ },
+ "BABYLON-19": {
+  "title": "Nabonidus, last King of Babylon",
+  "start": -556,
+  "end": -539,
+  "dating": "From his accession in 556 BC to the fall of Babylon to Cyrus in October 539 BC (Nabonidus Chronicle)."
+ },
+ "PERSIAN-3": {
+  "title": "Joel prophesies",
+  "start": -515,
+  "end": -400,
+  "dating": "The book names no king; the Temple is standing (Joel 1:13-14) and no Assyrian or Babylonian threat appears, so most scholars place it after the Temple was rebuilt (515 BC). An older view put it in the 9th century BC."
+ },
+ "PERSIAN-4": {
+  "title": "Cyrus becomes king of Anshan (Persia)",
+  "start": -559,
+  "end": -559,
+  "dating": "Cyrus II succeeded his father Cambyses I as king of Anshan in 559 BC."
+ },
+ "PERSIAN-5": {
+  "title": "Cyrus defeats Astyages: Media and Persia united",
+  "start": -550,
+  "end": -550,
+  "dating": "The Nabonidus Chronicle records Astyages' army turning against him and Cyrus taking Ecbatana in 550 BC."
+ },
+ "PERSIAN-19": {
+  "title": "Psalms of the return from exile (e.g. Pss 85, 126)",
+  "start": -538,
+  "end": -458,
+  "dating": "Psalms that celebrate the return (Ps 126:1, \"When the Lord brought back the captivity of Sion\"), from Cyrus's decree (538 BC) to Ezra's coming (458 BC)."
+ },
+ "PERSIAN-22": {
+  "title": "Malachi prophesies",
+  "start": -460,
+  "end": -430,
+  "dating": "The Temple is rebuilt and a Persian governor rules (Mal 1:8); the abuses he names are those Ezra and Nehemiah fought, so about 460-430 BC."
+ },
+ "PERSIAN-27": {
+  "title": "Nehemiah's second term in Jerusalem",
+  "start": -432,
+  "end": -425,
+  "dating": "He went back to Artaxerxes in the king's 32nd year, 433/432 BC, and returned \"after certain days\" (Neh 13:6-7); how long he then governed is not recorded."
+ },
+ "INTERTES-25": {
+  "title": "The Law translated into Greek at Alexandria (Septuagint)",
+  "start": -280,
+  "end": -250,
+  "dating": "The Letter of Aristeas places the translation of the Law under Ptolemy II Philadelphus (285-246 BC); the rest of the Old Testament followed over the next century."
+ },
+ "NT_DET-1": {
+  "title": "Jesus Christ",
+  "start": -5,
+  "end": 30,
+  "dating": "Born before the death of Herod the Great in 4 BC (Matt 2:1, 19), most likely 6-5 BC; crucified under Pontius Pilate, most likely on Friday 7 April AD 30 (the alternative is 3 April AD 33)."
+ },
+ "NT_DET-6": {
+  "title": "\"Forty-six years building this Temple\" (John 2:20)",
+  "start": 28,
+  "end": 28,
+  "dating": "Herod began rebuilding the Temple in his 18th year, 20/19 BC (Josephus, Antiquities 15.380); forty-six years later is the Passover of AD 28."
+ },
+ "NT_DET-34": {
+  "title": "Paul's last journeys: Macedonia, Asia Minor, Crete and perhaps Spain",
+  "start": 64,
+  "end": 67,
+  "dating": "After his release in Rome: Crete (Titus 1:5), Macedonia (1 Tim 1:3), Nicopolis (Titus 3:12). Spain was his plan (Rom 15:24, 28), and Clement of Rome says he reached \"the limits of the West\" (1 Clement 5)."
+ },
+ "NT_DET-40": {
+  "title": "Death of James the Just",
+  "start": 62,
+  "end": 62,
+  "dating": "Josephus (Antiquities 20.200) says the high priest Ananus had James stoned in the interval between the death of Festus and the arrival of Albinus, AD 62."
+ },
+ "NT_DET-44": {
+  "title": "John writes the Apocalypse on Patmos",
+  "start": 95,
+  "end": 95,
+  "dating": "St Irenaeus says the vision was seen \"towards the end of Domitian's reign\" (Against Heresies 5.30.3), AD 95-96. Some date it to about AD 68, after Nero."
+ }
+}

@@ -1,0 +1,911 @@
+{
+ "about": "Site plans, maps and models added 18 November 2026 (Wikimedia Commons; each keeps its own licence).",
+ "items": [
+  {
+   "id": "plan-holyland-model-temple",
+   "title": "Herod’s Temple and the city — Holyland Model",
+   "site": "Temple Mount (depicted subject)",
+   "region": "Temple & Tabernacle",
+   "type": "Modern reconstruction",
+   "description": "The Second Temple and its courts in the Holyland Model of Jerusalem (scale 1:50), built under Michael Avi-Yonah from archaeology and Josephus, now at the Israel Museum: Jerusalem as it stood before AD 66.",
+   "location": [
+    35.2354,
+    31.778
+   ],
+   "bbox": null,
+   "placeId": "atlas-temple-model",
+   "relatedPlaceIds": [
+    "atlas-temple-model"
+   ],
+   "image": "holyland-model-temple.jpg",
+   "thumb": "holyland-model-temple-thumb.jpg",
+   "credit": "Berthold Werner",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Mark 13:1-2",
+    "John 2:19-21",
+    "Luke 21:5-6"
+   ],
+   "priority": 30000
+  },
+  {
+   "id": "plan-holyland-model-antonia",
+   "title": "Antonia Fortress — Holyland Model",
+   "site": "Antonia Fortress",
+   "region": "Jerusalem & the Passion",
+   "type": "Modern reconstruction",
+   "description": "Herod’s fortress at the north-west corner of the Temple courts, where the Roman cohort was garrisoned and Paul was brought after his arrest; one traditional site of the Praetorium.",
+   "location": [
+    35.234303,
+    31.780094
+   ],
+   "bbox": null,
+   "placeId": "af58391",
+   "relatedPlaceIds": [
+    "af58391"
+   ],
+   "image": "holyland-model-antonia.jpg",
+   "thumb": "holyland-model-antonia-thumb.jpg",
+   "credit": "Ariely",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Antonia_Fortress.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:The_Antonia_Fortress.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Acts 21:31-40",
+    "Acts 22:24",
+    "John 19:13"
+   ],
+   "priority": 29999
+  },
+  {
+   "id": "plan-holyland-model-bethesda",
+   "title": "Pool of Bethesda — Holyland Model",
+   "site": "Pool of Bethesda",
+   "region": "Jerusalem & the Passion",
+   "type": "Modern reconstruction",
+   "description": "The twin pools with their five porches, as reconstructed in the Holyland Model: the setting of the healing of the man who had been ill thirty-eight years.",
+   "location": [
+    35.235833,
+    31.781389
+   ],
+   "bbox": null,
+   "placeId": "a0aa8cf",
+   "relatedPlaceIds": [
+    "a0aa8cf"
+   ],
+   "image": "holyland-model-bethesda.jpg",
+   "thumb": "holyland-model-bethesda-thumb.jpg",
+   "credit": "Ariely",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pool_of_Bethesda2.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Pool_of_Bethesda2.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "John 5:1-15"
+   ],
+   "priority": 29998
+  },
+  {
+   "id": "plan-herods-temple-courts",
+   "title": "Herod’s Temple and its courts — plan",
+   "site": "Temple Mount (historical context)",
+   "region": "Temple & Tabernacle",
+   "type": "Historical plan",
+   "description": "Plan of the Temple, its inner courts and the Court of the Gentiles, with Solomon’s Porch and the Royal Porch (Hastings’ Dictionary of the Bible, 1909; Encyclopaedia Britannica, 1911).",
+   "location": [
+    35.2354,
+    31.778
+   ],
+   "bbox": null,
+   "placeId": "atlas-temple-plan",
+   "relatedPlaceIds": [
+    "atlas-temple-plan"
+   ],
+   "image": "plan-herods-temple-courts.jpg",
+   "thumb": "plan-herods-temple-courts-thumb.jpg",
+   "credit": "From the Dictionary of the Bible (1909)",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EB1911_Temple_-_Plan_of_Herod%27s_Temple_and_Courts.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:EB1911_Temple_-_Plan_of_Herod%27s_Temple_and_Courts.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "John 10:22-23",
+    "Acts 3:1-11",
+    "Acts 21:26-30"
+   ],
+   "priority": 29997
+  },
+  {
+   "id": "plan-hezekiahs-tunnel",
+   "title": "Hezekiah’s Tunnel, Gihon to Siloam — plan",
+   "site": "Pool of Siloam",
+   "region": "Jerusalem & the Passion",
+   "type": "Site plan",
+   "description": "The course of the tunnel cut under the City of David to bring the water of the Gihon Spring to the Pool of Siloam.",
+   "location": [
+    35.235,
+    31.770556
+   ],
+   "bbox": null,
+   "placeId": "a294859",
+   "relatedPlaceIds": [
+    "a294859"
+   ],
+   "image": "plan-hezekiahs-tunnel.jpg",
+   "thumb": "plan-hezekiahs-tunnel-thumb.jpg",
+   "credit": "FlorinCB",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siloam_map.svg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Siloam_map.svg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "2 Kings 20:20",
+    "2 Chronicles 32:30",
+    "Isaiah 22:9-11",
+    "John 9:7"
+   ],
+   "priority": 29996
+  },
+  {
+   "id": "plan-madaba-map-jerusalem",
+   "title": "Jerusalem on the Madaba Map, 6th century",
+   "site": "Jerusalem",
+   "region": "Jerusalem & the Passion",
+   "type": "Ancient map",
+   "description": "The mosaic map in the church of St George at Madaba (c. AD 560–565), the oldest surviving map of the Holy Land: Jerusalem with its walls, the colonnaded Cardo and the Church of the Holy Sepulchre at its centre.",
+   "location": [
+    35.232,
+    31.7776
+   ],
+   "bbox": null,
+   "placeId": "a15257a",
+   "relatedPlaceIds": [
+    "a15257a"
+   ],
+   "image": "plan-madaba-map-jerusalem.jpg",
+   "thumb": "plan-madaba-map-jerusalem-thumb.jpg",
+   "credit": "Unknown author",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madaba_map.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Madaba_map.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [],
+   "priority": 29995
+  },
+  {
+   "id": "plan-cenacle-1620",
+   "title": "Cenacle (Upper Room) — plan and section, 1620",
+   "site": "Mount Zion",
+   "region": "Jerusalem & the Passion",
+   "type": "Historical plan",
+   "description": "Plan and elevation of the church of the Holy Cenacle on Mount Zion, engraved by Jacques Callot after Fra Bernardino Amico’s survey of the holy places (Trattato delle piante, 1620).",
+   "location": [
+    35.229,
+    31.7718
+   ],
+   "bbox": null,
+   "placeId": "abd9596",
+   "relatedPlaceIds": [
+    "abd9596"
+   ],
+   "image": "plan-cenacle-1620.jpg",
+   "thumb": "plan-cenacle-1620-thumb.jpg",
+   "credit": "Callot, Jacques (Nancy, en 1592 - Nancy, 25–03–1635), graveur",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Voyage_en_Terre_Sainte,_Onzi%C3%A8me_planche._Lieure_320-321_Plan_et_%C3%A9l%C3%A9vation_de_l%27%C3%A9glise_du_Saint_C%C3%A9nacle,_GDUT10672.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Voyage_en_Terre_Sainte,_Onzi%C3%A8me_planche._Lieure_320-321_Plan_et_%C3%A9l%C3%A9vation_de_l%27%C3%A9glise_du_Saint_C%C3%A9nacle,_GDUT10672.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Mark 14:12-16",
+    "Luke 22:7-20",
+    "Acts 1:13-14",
+    "Acts 2:1-4"
+   ],
+   "priority": 29994
+  },
+  {
+   "id": "plan-nativity-constantine",
+   "title": "Church of the Nativity — Constantine’s basilica (c. 333)",
+   "site": "Church of the Nativity",
+   "region": "Bethlehem",
+   "type": "Site plan",
+   "description": "Plan of the first basilica built by Constantine and St Helena over the grotto of the Nativity, with the octagon above the cave.",
+   "location": [
+    35.2075,
+    31.7043
+   ],
+   "bbox": null,
+   "placeId": "atlas-nativity",
+   "relatedPlaceIds": [
+    "atlas-nativity"
+   ],
+   "image": "plan-nativity-constantine.jpg",
+   "thumb": "plan-nativity-constantine-thumb.jpg",
+   "credit": "Unknown author",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity_4th_C_plan_ca._333_CE_Bethlehem.JPG",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity_4th_C_plan_ca._333_CE_Bethlehem.JPG",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Matthew 2:1-12",
+    "Luke 2:1-20"
+   ],
+   "priority": 29993
+  },
+  {
+   "id": "plan-chapel-ascension-1615",
+   "title": "Chapel of the Ascension, Mount of Olives — 1615",
+   "site": "Mount of Olives",
+   "region": "Jerusalem & the Passion",
+   "type": "Historical illustration",
+   "description": "The site of the Ascension on the Mount of Olives and the domed chapel over it, from George Sandys’ Relation of a Journey (London, 1615).",
+   "location": [
+    35.24462,
+    31.77862
+   ],
+   "bbox": null,
+   "placeId": "atlas-nav-olives",
+   "relatedPlaceIds": [
+    "atlas-nav-olives"
+   ],
+   "image": "plan-chapel-ascension-1615.jpg",
+   "thumb": "plan-chapel-ascension-1615-thumb.jpg",
+   "credit": "George Sandys",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Chapel_of_the_Ascension_-_Sandys_George_-_1615.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:The_Chapel_of_the_Ascension_-_Sandys_George_-_1615.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Luke 24:50-52",
+    "Acts 1:9-12"
+   ],
+   "priority": 29992
+  },
+  {
+   "id": "plan-solomons-temple",
+   "title": "Solomon’s Temple — ground plan",
+   "site": "Temple Mount (historical context)",
+   "region": "Temple & Tabernacle",
+   "type": "Historical plan",
+   "description": "The Holy Place (hekal) and Holy of Holies (debir) with the side chambers and porch, drawn to scale from 1 Kings 6 (A. R. S. Kennedy, Encyclopaedia Britannica, 1911).",
+   "location": [
+    35.2354,
+    31.778
+   ],
+   "bbox": null,
+   "placeId": "atlas-temple-plan",
+   "relatedPlaceIds": [
+    "atlas-temple-plan"
+   ],
+   "image": "plan-solomons-temple.jpg",
+   "thumb": "plan-solomons-temple-thumb.jpg",
+   "credit": "Archibald Robert Stirling Kennedy",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:EB1911_Temple_-_Ground_Plan_of_Solomon%27s_Temple.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:EB1911_Temple_-_Ground_Plan_of_Solomon%27s_Temple.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "1 Kings 6:1-38",
+    "2 Chronicles 3:1-17"
+   ],
+   "priority": 29991
+  },
+  {
+   "id": "plan-ezekiels-temple",
+   "title": "Ezekiel’s Temple — ground plan",
+   "site": "Temple Mount (historical context)",
+   "region": "Temple & Tabernacle",
+   "type": "Historical plan",
+   "description": "The temple of Ezekiel’s vision (Ezek 40–48), with its gates, inner and outer courts, chambers and kitchens (A. C. Gaebelein, 1918).",
+   "location": [
+    35.2354,
+    31.778
+   ],
+   "bbox": null,
+   "placeId": "atlas-temple-plan",
+   "relatedPlaceIds": [
+    "atlas-temple-plan"
+   ],
+   "image": "plan-ezekiels-temple.jpg",
+   "thumb": "plan-ezekiels-temple-thumb.jpg",
+   "credit": "Arno Clemens Gaebelein (1861-1945)",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ground_Plan_of_Ezekiel%27s_Temple.png",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Ground_Plan_of_Ezekiel%27s_Temple.png",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Ezekiel 40:1-49",
+    "Ezekiel 41:1-26",
+    "Ezekiel 42:1-20",
+    "Ezekiel 43:1-12"
+   ],
+   "priority": 29990
+  },
+  {
+   "id": "plan-ezekiels-temple-chipiez",
+   "title": "Ezekiel’s Temple — reconstruction by Chipiez",
+   "site": "Temple Mount (historical context)",
+   "region": "Temple & Tabernacle",
+   "type": "Historical reconstruction",
+   "description": "A bird’s-eye reconstruction of the temple of Ezekiel’s vision by the French architect Charles Chipiez (Perrot and Chipiez, 1887).",
+   "location": [
+    35.2354,
+    31.778
+   ],
+   "bbox": null,
+   "placeId": "atlas-temple-plan",
+   "relatedPlaceIds": [
+    "atlas-temple-plan"
+   ],
+   "image": "plan-ezekiels-temple-chipiez.jpg",
+   "thumb": "plan-ezekiels-temple-chipiez-thumb.jpg",
+   "credit": "Charles Chipiez",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Visionary_Ezekiel_Temple.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Visionary_Ezekiel_Temple.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Ezekiel 40:1-49",
+    "Ezekiel 47:1-12"
+   ],
+   "priority": 29989
+  },
+  {
+   "id": "plan-tabernacle",
+   "title": "The Tabernacle — plan",
+   "site": "Tabernacle (plan)",
+   "region": "Temple & Tabernacle",
+   "type": "Site plan",
+   "description": "The court of the Tabernacle with the altar of holocausts and the laver, the Holy Place with the table, lampstand and altar of incense, and the Holy of Holies with the Ark.",
+   "location": [
+    34.989,
+    29.789
+   ],
+   "bbox": null,
+   "placeId": "atlas-tabernacle-model",
+   "relatedPlaceIds": [
+    "atlas-tabernacle-model"
+   ],
+   "image": "plan-tabernacle.jpg",
+   "thumb": "plan-tabernacle-thumb.jpg",
+   "credit": "Adik86",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tabernacle.png",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Tabernacle.png",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Exodus 26:1-37",
+    "Exodus 27:9-19",
+    "Exodus 40:17-33"
+   ],
+   "priority": 29988
+  },
+  {
+   "id": "plan-megiddo",
+   "title": "Megiddo — plan of the city",
+   "site": "Tel Megiddo",
+   "region": "Galilee & the North",
+   "type": "Site plan",
+   "description": "The Iron Age city on the mound of Megiddo, with its gate, palaces, stables and water system (blue: 9th century BC; yellow: 8th century BC). Labels in French.",
+   "location": [
+    35.1847,
+    32.5853
+   ],
+   "bbox": null,
+   "placeId": "a8554e3",
+   "relatedPlaceIds": [
+    "a8554e3"
+   ],
+   "image": "plan-megiddo.jpg",
+   "thumb": "plan-megiddo-thumb.jpg",
+   "credit": "Xentyr",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plan_de_Megiddo.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Plan_de_Megiddo.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Judges 5:19",
+    "1 Kings 9:15",
+    "2 Kings 23:29-30",
+    "Apocalypse 16:16"
+   ],
+   "priority": 29987
+  },
+  {
+   "id": "plan-model-megiddo",
+   "title": "Megiddo — model of the mound",
+   "site": "Tel Megiddo",
+   "region": "Galilee & the North",
+   "type": "Modern reconstruction",
+   "description": "Model of the excavated mound at the Megiddo visitors’ centre, guarding the pass from the coast into the Jezreel valley.",
+   "location": [
+    35.1847,
+    32.5853
+   ],
+   "bbox": null,
+   "placeId": "a8554e3",
+   "relatedPlaceIds": [
+    "a8554e3"
+   ],
+   "image": "model-megiddo.jpg",
+   "thumb": "model-megiddo-thumb.jpg",
+   "credit": "James Emery from Douglasville, United States",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Megiddo_Model_0661_(520316241).jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Megiddo_Model_0661_(520316241).jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "1 Kings 9:15",
+    "2 Kings 23:29-30"
+   ],
+   "priority": 29986
+  },
+  {
+   "id": "plan-nineveh",
+   "title": "Nineveh — city walls and gates",
+   "site": "Nineveh",
+   "region": "Wider biblical world",
+   "type": "Site plan",
+   "description": "Plan of the walls and fifteen gates of Sennacherib’s Nineveh, with the mounds of Kuyunjik and Nebi Yunus and the Khosr river (after J. E. Reade, 1978).",
+   "location": [
+    43.152,
+    36.359
+   ],
+   "bbox": null,
+   "placeId": "a70fd5d",
+   "relatedPlaceIds": [
+    "a70fd5d"
+   ],
+   "image": "plan-nineveh.jpg",
+   "thumb": "plan-nineveh-thumb.jpg",
+   "credit": "Fredarch (talk)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nineveh_map_city_walls_%26_gates.JPG",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Nineveh_map_city_walls_%26_gates.JPG",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Jonah 3:1-10",
+    "Nahum 3:1-7",
+    "2 Kings 19:36"
+   ],
+   "priority": 29985
+  },
+  {
+   "id": "plan-babylon-koldewey",
+   "title": "Babylon — plan of the inner city",
+   "site": "Babylon",
+   "region": "Wider biblical world",
+   "type": "Historical plan",
+   "description": "The inner city of Babylon beside the Euphrates, with the palaces, the processional way, the Ishtar Gate and the temple tower Etemenanki, from Robert Koldewey’s excavations (1899–1917).",
+   "location": [
+    44.4209,
+    32.5363
+   ],
+   "bbox": null,
+   "placeId": "a217d18",
+   "relatedPlaceIds": [
+    "a217d18"
+   ],
+   "image": "plan-babylon-koldewey.jpg",
+   "thumb": "plan-babylon-koldewey-thumb.jpg",
+   "credit": "Robert Koldewey (Schriftleiter: Friedrich Schultze und Richard Bergius)",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baylon_2443.png",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Baylon_2443.png",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "2 Kings 24:10-16",
+    "Jeremiah 51:58"
+   ],
+   "priority": 29984
+  },
+  {
+   "id": "plan-model-ishtar-gate",
+   "title": "Babylon — the Ishtar Gate, reconstructed",
+   "site": "Babylon",
+   "region": "Wider biblical world",
+   "type": "Modern reconstruction",
+   "description": "Nebuchadnezzar’s gate of glazed brick, the entrance of the processional way into Babylon, rebuilt from the excavated bricks in the Pergamon Museum, Berlin.",
+   "location": [
+    44.4209,
+    32.5363
+   ],
+   "bbox": null,
+   "placeId": "a217d18",
+   "relatedPlaceIds": [
+    "a217d18"
+   ],
+   "image": "model-ishtar-gate.jpg",
+   "thumb": "model-ishtar-gate-thumb.jpg",
+   "credit": "Kurt Kaiser",
+   "license": "CC0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_in_the_Pergamon_Museum_-.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Ishtar_Gate_in_the_Pergamon_Museum_-.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Jeremiah 50:1-3",
+    "2 Kings 25:8-11"
+   ],
+   "priority": 29983
+  },
+  {
+   "id": "plan-masada",
+   "title": "Masada — plan of Herod’s fortress",
+   "site": "Masada",
+   "region": "Judea & the Dead Sea",
+   "type": "Site plan",
+   "description": "Plan of the rock fortress above the Dead Sea: Herod’s northern palace, the storerooms, baths, synagogue and the Roman siege ramp of AD 73–74 (Josephus, Jewish War 7.8–9). Labels in French.",
+   "location": [
+    35.3536,
+    31.3156
+   ],
+   "bbox": null,
+   "placeId": "atlas-m88807a",
+   "relatedPlaceIds": [
+    "atlas-m88807a"
+   ],
+   "image": "plan-masada.jpg",
+   "thumb": "plan-masada-thumb.jpg",
+   "credit": "Kordas, gracias a los inestimables consejos de Chabacano",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Masada.svg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Masada.svg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [],
+   "priority": 29982
+  },
+  {
+   "id": "plan-model-masada",
+   "title": "Masada — model",
+   "site": "Masada",
+   "region": "Judea & the Dead Sea",
+   "type": "Modern reconstruction",
+   "description": "Model of the fortress at the Masada visitors’ centre, showing the northern palace hanging over the cliff.",
+   "location": [
+    35.3536,
+    31.3156
+   ],
+   "bbox": null,
+   "placeId": "atlas-m88807a",
+   "relatedPlaceIds": [
+    "atlas-m88807a"
+   ],
+   "image": "model-masada.jpg",
+   "thumb": "model-masada-thumb.jpg",
+   "credit": "Ted Chi from HsinChu, Taiwan",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scale_model_of_Masada_-_Ted_Chi.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Scale_model_of_Masada_-_Ted_Chi.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [],
+   "priority": 29981
+  },
+  {
+   "id": "plan-model-herodium",
+   "title": "Herodium — model of Herod’s palace-fortress",
+   "site": "Herodium",
+   "region": "Bethlehem",
+   "type": "Modern reconstruction",
+   "description": "Model of the round palace-fortress Herod the Great built on an artificial hill south-east of Bethlehem, where he was buried (Josephus, Antiquities 17.199).",
+   "location": [
+    35.2414,
+    31.6658
+   ],
+   "bbox": null,
+   "placeId": "atlas-ma33a49",
+   "relatedPlaceIds": [
+    "atlas-ma33a49"
+   ],
+   "image": "model-herodium.jpg",
+   "thumb": "model-herodium-thumb.jpg",
+   "credit": "Deror_avi",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herodion_model_IMG_9557.JPG",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Herodion_model_IMG_9557.JPG",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Matthew 2:1-3",
+    "Matthew 2:16-19"
+   ],
+   "priority": 29980
+  },
+  {
+   "id": "plan-old-st-peters",
+   "title": "Old St Peter’s, Rome — Alfarano’s plan",
+   "site": "Rome",
+   "region": "Wider biblical world",
+   "type": "Historical plan",
+   "description": "Constantine’s basilica over the tomb of St Peter, with the new basilica drawn over it: the plan made by Tiberio Alfarano in 1571–1590, while the old church was being taken down.",
+   "location": [
+    12.4534,
+    41.9022
+   ],
+   "bbox": null,
+   "placeId": "afc8e7a",
+   "relatedPlaceIds": [
+    "afc8e7a"
+   ],
+   "image": "plan-old-st-peters.jpg",
+   "thumb": "plan-old-st-peters-thumb.jpg",
+   "credit": "Tiberio Alfarano",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:TiberioAlfarano.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:TiberioAlfarano.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "John 21:18-19",
+    "2 Peter 1:14",
+    "Matthew 16:18"
+   ],
+   "priority": 29979
+  },
+  {
+   "id": "plan-drawing-old-st-peters-1450",
+   "title": "Old St Peter’s, Rome, about 1450 — reconstruction",
+   "site": "Rome",
+   "region": "Wider biblical world",
+   "type": "Historical reconstruction",
+   "description": "Bird’s-eye reconstruction of the Constantinian basilica, its atrium and surrounding buildings as they stood in the mid-15th century (H. W. Brewer, 1891).",
+   "location": [
+    12.4534,
+    41.9022
+   ],
+   "bbox": null,
+   "placeId": "afc8e7a",
+   "relatedPlaceIds": [
+    "afc8e7a"
+   ],
+   "image": "drawing-old-st-peters-1450.jpg",
+   "thumb": "drawing-old-st-peters-1450-thumb.jpg",
+   "credit": "H.W. Brewer (1836 – 1903)",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_1450.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_1450.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "John 21:18-19",
+    "Matthew 16:18"
+   ],
+   "priority": 29978
+  },
+  {
+   "id": "plan-tomb-of-st-peter",
+   "title": "Tomb of St Peter — section beneath the basilica",
+   "site": "Rome",
+   "region": "Wider biblical world",
+   "type": "Site plan",
+   "description": "Section through the Vatican hill showing the tomb of St Peter in the ancient necropolis, the Red Wall and the ‘trophy of Gaius’, and the altars of the Constantinian and present basilicas above it.",
+   "location": [
+    12.4534,
+    41.9022
+   ],
+   "bbox": null,
+   "placeId": "afc8e7a",
+   "relatedPlaceIds": [
+    "afc8e7a"
+   ],
+   "image": "plan-tomb-of-st-peter.jpg",
+   "thumb": "plan-tomb-of-st-peter-thumb.jpg",
+   "credit": "JMvanDijk",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apostle_Peters_Tomb.svg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Apostle_Peters_Tomb.svg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "John 21:18-19",
+    "2 Peter 1:14"
+   ],
+   "priority": 29977
+  },
+  {
+   "id": "plan-ephesus",
+   "title": "Ephesus — plan of the city",
+   "site": "Ephesus",
+   "region": "Asia Minor & Greece",
+   "type": "Site plan",
+   "description": "The historical topography of Ephesus: the Artemision, the harbour, the theatre of the riot against Paul, the Church of Mary (council of 431) and the basilica of St John on Ayasuluk hill. Labels in French.",
+   "location": [
+    27.3417,
+    37.9411
+   ],
+   "bbox": null,
+   "placeId": "a5feb15",
+   "relatedPlaceIds": [
+    "a5feb15"
+   ],
+   "image": "plan-ephesus.jpg",
+   "thumb": "plan-ephesus-thumb.jpg",
+   "credit": "Marsyas",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ephesos_overall_plan.svg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Ephesos_overall_plan.svg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Acts 19:23-41",
+    "Ephesians 1:1",
+    "Apocalypse 2:1-7"
+   ],
+   "priority": 29976
+  },
+  {
+   "id": "plan-corinth",
+   "title": "Corinth — plan of the forum",
+   "site": "Corinth",
+   "region": "Asia Minor & Greece",
+   "type": "Site plan",
+   "description": "The Roman forum of Corinth with the temple of Apollo, the shops and basilicas, and the bema where Paul was brought before the proconsul Gallio.",
+   "location": [
+    22.8789,
+    37.9057
+   ],
+   "bbox": null,
+   "placeId": "a6f437a",
+   "relatedPlaceIds": [
+    "a6f437a"
+   ],
+   "image": "plan-corinth.jpg",
+   "thumb": "plan-corinth-thumb.jpg",
+   "credit": "Tomisti",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plan_Ancient_Corinth_colored.svg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Plan_Ancient_Corinth_colored.svg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Acts 18:1-17",
+    "1 Corinthians 1:2"
+   ],
+   "priority": 29975
+  },
+  {
+   "id": "plan-athens",
+   "title": "Athens — map of the ancient city",
+   "site": "Athens",
+   "region": "Asia Minor & Greece",
+   "type": "Map",
+   "description": "Ancient Athens within its walls: the Acropolis, the Agora where Paul disputed daily, and the hill of the Areopagus where he spoke of the Unknown God.",
+   "location": [
+    23.7257,
+    37.9715
+   ],
+   "bbox": null,
+   "placeId": "a1fe6e7",
+   "relatedPlaceIds": [
+    "a1fe6e7"
+   ],
+   "image": "plan-athens.jpg",
+   "thumb": "plan-athens-thumb.jpg",
+   "credit": "Singinglemon",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_ancient_athens.png",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Map_ancient_athens.png",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Acts 17:16-34"
+   ],
+   "priority": 29974
+  },
+  {
+   "id": "plan-philippi",
+   "title": "Philippi — plan of the site",
+   "site": "Philippi",
+   "region": "Asia Minor & Greece",
+   "type": "Site plan",
+   "description": "The Roman colony of Philippi: the forum, the theatre, the Via Egnatia and the early Christian basilicas, near the river where Lydia was baptised.",
+   "location": [
+    24.2868,
+    41.0121
+   ],
+   "bbox": null,
+   "placeId": "a49e1d0",
+   "relatedPlaceIds": [
+    "a49e1d0"
+   ],
+   "image": "plan-philippi.jpg",
+   "thumb": "plan-philippi-thumb.jpg",
+   "credit": "Borvan53",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philippi_archeological_site-en.png",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Philippi_archeological_site-en.png",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Acts 16:11-40",
+    "Philippians 1:1"
+   ],
+   "priority": 29973
+  },
+  {
+   "id": "plan-model-caesarea",
+   "title": "Caesarea Maritima — reconstruction of Herod’s city",
+   "site": "Caesarea Maritima",
+   "region": "Judea & the Dead Sea",
+   "type": "Modern reconstruction",
+   "description": "Model of Herod’s harbour city, with the harbour of Sebastos, the temple of Rome and Augustus, the theatre and the promontory palace where Paul was held two years.",
+   "location": [
+    34.8919,
+    32.5
+   ],
+   "bbox": null,
+   "placeId": "a58735e",
+   "relatedPlaceIds": [
+    "a58735e"
+   ],
+   "image": "model-caesarea.jpg",
+   "thumb": "model-caesarea-thumb.jpg",
+   "credit": "Davide Mauro",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reconstruction_of_Caesarea_Maritima.jpg",
+   "sourceLabel": "Wikimedia Commons",
+   "originalUrl": "https://commons.wikimedia.org/wiki/File:Reconstruction_of_Caesarea_Maritima.jpg",
+   "modifications": "Resized for offline viewing; no content added or removed.",
+   "refs": [
+    "Acts 10:1-48",
+    "Acts 12:19-23",
+    "Acts 23:23-35",
+    "Acts 25:1-12"
+   ],
+   "priority": 29972
+  }
+ ],
+ "places": []
+}

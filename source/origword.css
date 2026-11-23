@@ -1,0 +1,23 @@
+/* Original word (origword.js): the verse in the language it was translated from, under the Word tab. */
+.ow-box{margin-top:22px;padding-top:16px;border-top:1px solid var(--line)}
+.ow-tabs{display:flex;gap:6px;margin:8px 0 4px}
+.ow-tab{font-size:11px;padding:5px 11px}
+.ow-tab[aria-selected="true"]{background:var(--green);color:#fff;border-color:var(--green)}
+.ow-head{display:flex;align-items:center;gap:6px;margin:10px 0 2px;font:15px var(--serif)}
+.ow-head small{margin-left:auto;font:10px var(--sans);color:var(--muted);text-align:right}
+.ow-step{padding:2px 9px;font-size:14px;line-height:1.2}
+.ow-note{margin:2px 0 4px}
+.ow-words{display:flex;flex-wrap:wrap;gap:4px;margin:6px 0 10px}
+.ow-word{display:inline-flex;flex-direction:column;align-items:center;padding:4px 7px;border-radius:5px;line-height:1.25;max-width:100%}
+.ow-word .ow-w{font:17px 'Palatino Linotype','Times New Roman',serif}
+.ow-words.Hebrew .ow-word .ow-w{font:20px 'SBL Hebrew','Times New Roman',serif}
+.ow-word small{font:9px var(--sans);color:var(--muted);max-width:90px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ow-word.match{border-color:var(--gold);box-shadow:inset 0 -2px 0 var(--gold)}
+.ow-word.chosen{background:#dbe6cc;border-color:#90a776}
+.ow-lemma{font:26px/1.5 'Palatino Linotype','SBL Hebrew','Times New Roman',serif;margin:4px 0 0}
+[data-theme="dark"] .ow-word.chosen{background:#3c5245;border-color:#7d9b6e}
+[data-theme="dark"] .ow-tab[aria-selected="true"]{color:#17291e}
+/* lexicon-rank.js: the folded "Other entries" of Brown–Driver–Briggs */
+.definition-more{margin:10px 0 4px;border-top:1px dashed var(--line);padding-top:6px}
+.definition-more>summary{font-size:11px;color:var(--muted)}
+.definition-more .definition-entry{margin-left:10px}

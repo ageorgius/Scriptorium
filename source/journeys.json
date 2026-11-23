@@ -1,0 +1,7964 @@
+{
+ "version": "2026.11.05.2",
+ "note": "Hand-traced from the biblical text. Lines join places in order of travel; they are not roads or sea lanes. Identifications follow the Bible map’s OpenBible.info data (CC BY 4.0). Tribal territory points are approximate.",
+ "events": [
+  {
+   "id": "abraham",
+   "title": "Abraham’s journey",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Genesis 11–23",
+   "intro": "From Ur to Canaan, down to Egypt and back, ending at Hebron.",
+   "timeline": [
+    "PSTFLOOD-9"
+   ],
+   "steps": [
+    {
+     "ref": "Genesis 11:31",
+     "refs": [
+      "Genesis 11:31"
+     ],
+     "note": "Terah sets out from Ur with Abram and Sarai",
+     "ch": [
+      [
+       "Gen",
+       11,
+       31,
+       11,
+       31
+      ]
+     ],
+     "place": "a6cf75c"
+    },
+    {
+     "ref": "Genesis 11:31–32",
+     "refs": [
+      "Genesis 11:31–32"
+     ],
+     "note": "They settle in Haran; Terah dies",
+     "ch": [
+      [
+       "Gen",
+       11,
+       31,
+       11,
+       32
+      ]
+     ],
+     "place": "a6d9af3"
+    },
+    {
+     "ref": "Genesis 12:6–7",
+     "refs": [
+      "Genesis 12:6–7"
+     ],
+     "note": "The Lord appears at the oak of Moreh",
+     "ch": [
+      [
+       "Gen",
+       12,
+       6,
+       12,
+       7
+      ]
+     ],
+     "place": "adf74d4"
+    },
+    {
+     "ref": "Genesis 12:8",
+     "refs": [
+      "Genesis 12:8"
+     ],
+     "note": "Abram builds an altar between Bethel and Ai",
+     "ch": [
+      [
+       "Gen",
+       12,
+       8,
+       12,
+       8
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "Genesis 12:10",
+     "refs": [
+      "Genesis 12:10"
+     ],
+     "note": "Famine drives Abram down to Egypt",
+     "ch": [
+      [
+       "Gen",
+       12,
+       10,
+       12,
+       10
+      ]
+     ],
+     "place": "af301ca"
+    },
+    {
+     "ref": "Genesis 13:3–4",
+     "refs": [
+      "Genesis 13:3–4"
+     ],
+     "note": "He returns to the altar at Bethel",
+     "ch": [
+      [
+       "Gen",
+       13,
+       3,
+       13,
+       4
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "Genesis 13:18",
+     "refs": [
+      "Genesis 13:18"
+     ],
+     "note": "He settles by the oaks of Mamre at Hebron",
+     "ch": [
+      [
+       "Gen",
+       13,
+       18,
+       13,
+       18
+      ]
+     ],
+     "place": "aeb9e97"
+    },
+    {
+     "ref": "Genesis 20:1",
+     "refs": [
+      "Genesis 20:1"
+     ],
+     "note": "He sojourns in Gerar",
+     "ch": [
+      [
+       "Gen",
+       20,
+       1,
+       20,
+       1
+      ]
+     ],
+     "place": "a3f5814"
+    },
+    {
+     "ref": "Genesis 21:31–33",
+     "refs": [
+      "Genesis 21:31–33"
+     ],
+     "note": "The covenant well at Beersheba",
+     "ch": [
+      [
+       "Gen",
+       21,
+       31,
+       21,
+       33
+      ]
+     ],
+     "place": "ad2f6c2"
+    },
+    {
+     "ref": "Genesis 22:2",
+     "refs": [
+      "Genesis 22:2"
+     ],
+     "note": "The offering of Isaac on Moriah",
+     "ch": [
+      [
+       "Gen",
+       22,
+       2,
+       22,
+       2
+      ]
+     ],
+     "place": "aac1fcf"
+    },
+    {
+     "ref": "Genesis 22:19",
+     "refs": [
+      "Genesis 22:19"
+     ],
+     "note": "Abraham returns to Beersheba",
+     "ch": [
+      [
+       "Gen",
+       22,
+       19,
+       22,
+       19
+      ]
+     ],
+     "place": "ad2f6c2"
+    },
+    {
+     "ref": "Genesis 23:2",
+     "refs": [
+      "Genesis 23:2"
+     ],
+     "note": "Sarah dies and is buried at Hebron",
+     "ch": [
+      [
+       "Gen",
+       23,
+       2,
+       23,
+       2
+      ]
+     ],
+     "place": "a85151a"
+    }
+   ]
+  },
+  {
+   "id": "lot",
+   "title": "Lot and the cities of the plain",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Genesis 13; 19",
+   "intro": "Lot parts from Abram, settles near Sodom, and escapes to Zoar.",
+   "timeline": [
+    "PSTFLOOD-9"
+   ],
+   "steps": [
+    {
+     "ref": "Genesis 13:3–9",
+     "refs": [
+      "Genesis 13:3–9"
+     ],
+     "note": "Abram and Lot part company near Bethel",
+     "ch": [
+      [
+       "Gen",
+       13,
+       3,
+       13,
+       9
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "Genesis 13:11–12",
+     "refs": [
+      "Genesis 13:11–12"
+     ],
+     "note": "Lot moves his tent as far as Sodom",
+     "ch": [
+      [
+       "Gen",
+       13,
+       11,
+       13,
+       12
+      ]
+     ],
+     "place": "a0aa664"
+    },
+    {
+     "ref": "Genesis 19:22–23",
+     "refs": [
+      "Genesis 19:22–23"
+     ],
+     "note": "Lot flees to Zoar as Sodom is destroyed",
+     "ch": [
+      [
+       "Gen",
+       19,
+       22,
+       19,
+       23
+      ]
+     ],
+     "place": "aacfcda"
+    }
+   ]
+  },
+  {
+   "id": "jacob",
+   "title": "Jacob’s flight and return",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Genesis 28–35",
+   "intro": "Jacob flees to Haran, then returns with his family to Canaan.",
+   "timeline": [
+    "PSTFLOOD-12"
+   ],
+   "steps": [
+    {
+     "ref": "Genesis 28:10",
+     "refs": [
+      "Genesis 28:10"
+     ],
+     "note": "Jacob leaves Beersheba",
+     "ch": [
+      [
+       "Gen",
+       28,
+       10,
+       28,
+       10
+      ]
+     ],
+     "place": "ad2f6c2"
+    },
+    {
+     "ref": "Genesis 28:19",
+     "refs": [
+      "Genesis 28:19"
+     ],
+     "note": "The ladder to heaven at Bethel",
+     "ch": [
+      [
+       "Gen",
+       28,
+       19,
+       28,
+       19
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "Genesis 29:4",
+     "refs": [
+      "Genesis 29:4"
+     ],
+     "note": "Twenty years with Laban near Haran",
+     "ch": [
+      [
+       "Gen",
+       29,
+       4,
+       29,
+       4
+      ]
+     ],
+     "place": "a6d9af3"
+    },
+    {
+     "ref": "Genesis 32:2",
+     "refs": [
+      "Genesis 32:2"
+     ],
+     "note": "Angels of God meet him at Mahanaim",
+     "ch": [
+      [
+       "Gen",
+       32,
+       2,
+       32,
+       2
+      ]
+     ],
+     "place": "ae5bfe9"
+    },
+    {
+     "ref": "Genesis 32:30–31",
+     "refs": [
+      "Genesis 32:30–31"
+     ],
+     "note": "He wrestles with God at Penuel",
+     "ch": [
+      [
+       "Gen",
+       32,
+       30,
+       32,
+       31
+      ]
+     ],
+     "place": "a8a9ff9"
+    },
+    {
+     "ref": "Genesis 33:17",
+     "refs": [
+      "Genesis 33:17"
+     ],
+     "note": "He builds booths at Succoth",
+     "ch": [
+      [
+       "Gen",
+       33,
+       17,
+       33,
+       17
+      ]
+     ],
+     "place": "a0905b5"
+    },
+    {
+     "ref": "Genesis 33:18",
+     "refs": [
+      "Genesis 33:18"
+     ],
+     "note": "He camps before Shechem",
+     "ch": [
+      [
+       "Gen",
+       33,
+       18,
+       33,
+       18
+      ]
+     ],
+     "place": "adf74d4"
+    },
+    {
+     "ref": "Genesis 35:6–7",
+     "refs": [
+      "Genesis 35:6–7"
+     ],
+     "note": "He returns to Bethel",
+     "ch": [
+      [
+       "Gen",
+       35,
+       6,
+       35,
+       7
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "Genesis 35:19",
+     "refs": [
+      "Genesis 35:19"
+     ],
+     "note": "Rachel dies on the way to Ephrath",
+     "ch": [
+      [
+       "Gen",
+       35,
+       19,
+       35,
+       19
+      ]
+     ],
+     "place": "a112427"
+    },
+    {
+     "ref": "Genesis 35:27",
+     "refs": [
+      "Genesis 35:27"
+     ],
+     "note": "Jacob comes home to Isaac at Mamre",
+     "ch": [
+      [
+       "Gen",
+       35,
+       27,
+       35,
+       27
+      ]
+     ],
+     "place": "aeb9e97"
+    }
+   ]
+  },
+  {
+   "id": "joseph",
+   "title": "Joseph sold into Egypt",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Genesis 37–39",
+   "intro": "Joseph looks for his brothers, is sold to traders, and is taken down to Egypt.",
+   "timeline": [
+    "PSTFLOOD-13"
+   ],
+   "steps": [
+    {
+     "ref": "Genesis 37:14",
+     "refs": [
+      "Genesis 37:14"
+     ],
+     "note": "Jacob sends Joseph from the valley of Hebron",
+     "ch": [
+      [
+       "Gen",
+       37,
+       14,
+       37,
+       14
+      ]
+     ],
+     "place": "a85151a"
+    },
+    {
+     "ref": "Genesis 37:14–16",
+     "refs": [
+      "Genesis 37:14–16"
+     ],
+     "note": "He searches for his brothers near Shechem",
+     "ch": [
+      [
+       "Gen",
+       37,
+       14,
+       37,
+       16
+      ]
+     ],
+     "place": "adf74d4"
+    },
+    {
+     "ref": "Genesis 37:17–28",
+     "refs": [
+      "Genesis 37:17–28"
+     ],
+     "note": "At Dothan he is thrown into a pit and sold",
+     "ch": [
+      [
+       "Gen",
+       37,
+       17,
+       37,
+       28
+      ]
+     ],
+     "place": "ab635e4"
+    },
+    {
+     "ref": "Genesis 39:1",
+     "refs": [
+      "Genesis 39:1"
+     ],
+     "note": "He is sold to Potiphar in Egypt",
+     "ch": [
+      [
+       "Gen",
+       39,
+       1,
+       39,
+       1
+      ]
+     ],
+     "place": "af301ca"
+    }
+   ]
+  },
+  {
+   "id": "moses",
+   "title": "Moses in Midian and his return",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Exodus 2–4",
+   "intro": "Moses flees Pharaoh, meets God at the burning bush, and goes back to Egypt.",
+   "timeline": [
+    "PSTFLOOD-15"
+   ],
+   "steps": [
+    {
+     "ref": "Exodus 2:11–15",
+     "refs": [
+      "Exodus 2:11–15"
+     ],
+     "note": "Moses kills an Egyptian and flees",
+     "ch": [
+      [
+       "Exo",
+       2,
+       11,
+       2,
+       15
+      ]
+     ],
+     "place": "af301ca"
+    },
+    {
+     "ref": "Exodus 2:15–21",
+     "refs": [
+      "Exodus 2:15–21"
+     ],
+     "note": "He settles in Midian and marries Zipporah",
+     "ch": [
+      [
+       "Exo",
+       2,
+       15,
+       2,
+       21
+      ]
+     ],
+     "place": "acc6d8e"
+    },
+    {
+     "ref": "Exodus 3:1–6",
+     "refs": [
+      "Exodus 3:1–6"
+     ],
+     "note": "The burning bush at Horeb",
+     "ch": [
+      [
+       "Exo",
+       3,
+       1,
+       3,
+       6
+      ]
+     ],
+     "place": "a9bb03e"
+    },
+    {
+     "ref": "Exodus 4:20",
+     "refs": [
+      "Exodus 4:20"
+     ],
+     "note": "He returns to Egypt with his family",
+     "ch": [
+      [
+       "Exo",
+       4,
+       20,
+       4,
+       20
+      ]
+     ],
+     "place": "af301ca"
+    }
+   ]
+  },
+  {
+   "id": "ruth",
+   "title": "Naomi and Ruth",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Ruth 1–4",
+   "intro": "A family leaves Bethlehem in famine; Naomi returns with Ruth.",
+   "timeline": [
+    "PROMLAND-4"
+   ],
+   "steps": [
+    {
+     "ref": "Ruth 1:1",
+     "refs": [
+      "Ruth 1:1"
+     ],
+     "note": "Elimelech’s family leaves Bethlehem in a famine",
+     "ch": [
+      [
+       "Rut",
+       1,
+       1,
+       1,
+       1
+      ]
+     ],
+     "place": "a112427"
+    },
+    {
+     "ref": "Ruth 1:2–5",
+     "refs": [
+      "Ruth 1:2–5"
+     ],
+     "note": "They live in Moab; Naomi is widowed",
+     "ch": [
+      [
+       "Rut",
+       1,
+       2,
+       1,
+       5
+      ]
+     ],
+     "place": "aa0b1d6"
+    },
+    {
+     "ref": "Ruth 1:19–22",
+     "refs": [
+      "Ruth 1:19–22"
+     ],
+     "note": "Naomi returns with Ruth at the barley harvest",
+     "ch": [
+      [
+       "Rut",
+       1,
+       19,
+       1,
+       22
+      ]
+     ],
+     "place": "a112427"
+    }
+   ]
+  },
+  {
+   "id": "ark",
+   "title": "Journey of the Ark of the Covenant",
+   "kind": "people",
+   "testament": "OT",
+   "span": "1 Samuel 4 – 2 Samuel 6",
+   "intro": "Captured in battle, the Ark passes through Philistine cities before David brings it to Jerusalem.",
+   "timeline": [
+    "PROMLAND-14",
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 4:3–4",
+     "refs": [
+      "1 Samuel 4:3–4"
+     ],
+     "note": "The Ark is brought from Shiloh to the camp",
+     "ch": [
+      [
+       "1Sa",
+       4,
+       3,
+       4,
+       4
+      ]
+     ],
+     "place": "aa4680a"
+    },
+    {
+     "ref": "1 Samuel 4:10–11",
+     "refs": [
+      "1 Samuel 4:10–11"
+     ],
+     "note": "Israel is defeated at Ebenezer; the Ark is taken",
+     "ch": [
+      [
+       "1Sa",
+       4,
+       10,
+       4,
+       11
+      ]
+     ],
+     "place": "abfdefc",
+     "battle": true
+    },
+    {
+     "ref": "1 Samuel 5:1–2",
+     "refs": [
+      "1 Samuel 5:1–2"
+     ],
+     "note": "It is set beside Dagon in Ashdod",
+     "ch": [
+      [
+       "1Sa",
+       5,
+       1,
+       5,
+       2
+      ]
+     ],
+     "place": "a30c937",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 5:8",
+     "refs": [
+      "1 Samuel 5:8"
+     ],
+     "note": "It is moved to Gath",
+     "ch": [
+      [
+       "1Sa",
+       5,
+       8,
+       5,
+       8
+      ]
+     ],
+     "place": "a18873f",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 5:10",
+     "refs": [
+      "1 Samuel 5:10"
+     ],
+     "note": "It is sent on to Ekron",
+     "ch": [
+      [
+       "1Sa",
+       5,
+       10,
+       5,
+       10
+      ]
+     ],
+     "place": "a3fc47a",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 6:12",
+     "refs": [
+      "1 Samuel 6:12"
+     ],
+     "note": "The cows take it to Beth-shemesh",
+     "ch": [
+      [
+       "1Sa",
+       6,
+       12,
+       6,
+       12
+      ]
+     ],
+     "place": "a3b5b53"
+    },
+    {
+     "ref": "1 Samuel 7:1–2",
+     "refs": [
+      "1 Samuel 7:1–2"
+     ],
+     "note": "Twenty years at Kiriath-jearim",
+     "ch": [
+      [
+       "1Sa",
+       7,
+       1,
+       7,
+       2
+      ]
+     ],
+     "place": "a9bba61"
+    },
+    {
+     "ref": "2 Samuel 6:12–17",
+     "refs": [
+      "2 Samuel 6:12–17"
+     ],
+     "note": "David brings it up to Jerusalem",
+     "ch": [
+      [
+       "2Sa",
+       6,
+       12,
+       6,
+       17
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "samuel",
+   "title": "Samuel’s circuit",
+   "kind": "people",
+   "testament": "OT",
+   "span": "1 Samuel 7:15–17",
+   "intro": "Each year Samuel judged Israel in a circuit from his home at Ramah.",
+   "timeline": [
+    "PROMLAND-14"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 7:17",
+     "refs": [
+      "1 Samuel 7:17"
+     ],
+     "note": "Samuel’s home at Ramah",
+     "ch": [
+      [
+       "1Sa",
+       7,
+       17,
+       7,
+       17
+      ]
+     ],
+     "place": "a6d57ed"
+    },
+    {
+     "ref": "1 Samuel 7:16",
+     "refs": [
+      "1 Samuel 7:16"
+     ],
+     "note": "Bethel",
+     "ch": [
+      [
+       "1Sa",
+       7,
+       16,
+       7,
+       16
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "1 Samuel 7:16",
+     "refs": [
+      "1 Samuel 7:16"
+     ],
+     "note": "Gilgal",
+     "ch": [
+      [
+       "1Sa",
+       7,
+       16,
+       7,
+       16
+      ]
+     ],
+     "place": "ab94aea"
+    },
+    {
+     "ref": "1 Samuel 7:16",
+     "refs": [
+      "1 Samuel 7:16"
+     ],
+     "note": "Mizpah",
+     "ch": [
+      [
+       "1Sa",
+       7,
+       16,
+       7,
+       16
+      ]
+     ],
+     "place": "a736f6c"
+    },
+    {
+     "ref": "1 Samuel 7:17",
+     "refs": [
+      "1 Samuel 7:17"
+     ],
+     "note": "Back to Ramah",
+     "ch": [
+      [
+       "1Sa",
+       7,
+       17,
+       7,
+       17
+      ]
+     ],
+     "place": "a6d57ed"
+    }
+   ]
+  },
+  {
+   "id": "david-flight",
+   "title": "David flees from Saul",
+   "kind": "people",
+   "testament": "OT",
+   "span": "1 Samuel 19–27",
+   "intro": "Hunted by Saul, David moves from refuge to refuge in Judah and Philistia.",
+   "timeline": [
+    "KINGS-2",
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 19:10–12",
+     "refs": [
+      "1 Samuel 19:10–12"
+     ],
+     "note": "David escapes from Saul at Gibeah",
+     "ch": [
+      [
+       "1Sa",
+       19,
+       10,
+       19,
+       12
+      ]
+     ],
+     "place": "ac24f5f"
+    },
+    {
+     "ref": "1 Samuel 19:18",
+     "refs": [
+      "1 Samuel 19:18"
+     ],
+     "note": "He goes to Samuel at Ramah",
+     "ch": [
+      [
+       "1Sa",
+       19,
+       18,
+       19,
+       18
+      ]
+     ],
+     "place": "a6d57ed"
+    },
+    {
+     "ref": "1 Samuel 21:1–6",
+     "refs": [
+      "1 Samuel 21:1–6"
+     ],
+     "note": "The holy bread at Nob",
+     "ch": [
+      [
+       "1Sa",
+       21,
+       1,
+       21,
+       6
+      ]
+     ],
+     "place": "afdda14"
+    },
+    {
+     "ref": "1 Samuel 21:10–15",
+     "refs": [
+      "1 Samuel 21:10–15"
+     ],
+     "note": "He feigns madness before Achish of Gath",
+     "ch": [
+      [
+       "1Sa",
+       21,
+       10,
+       21,
+       15
+      ]
+     ],
+     "place": "a18873f"
+    },
+    {
+     "ref": "1 Samuel 22:1–2",
+     "refs": [
+      "1 Samuel 22:1–2"
+     ],
+     "note": "The cave of Adullam",
+     "ch": [
+      [
+       "1Sa",
+       22,
+       1,
+       22,
+       2
+      ]
+     ],
+     "place": "af82614"
+    },
+    {
+     "ref": "1 Samuel 22:3–4",
+     "refs": [
+      "1 Samuel 22:3–4"
+     ],
+     "note": "He leaves his parents with the king of Moab at Mizpeh",
+     "ch": [
+      [
+       "1Sa",
+       22,
+       3,
+       22,
+       4
+      ]
+     ],
+     "place": "ac702f1"
+    },
+    {
+     "ref": "1 Samuel 23:1–5",
+     "refs": [
+      "1 Samuel 23:1–5"
+     ],
+     "note": "He saves Keilah from the Philistines",
+     "ch": [
+      [
+       "1Sa",
+       23,
+       1,
+       23,
+       5
+      ]
+     ],
+     "place": "ad9df93",
+     "battle": true
+    },
+    {
+     "ref": "1 Samuel 23:14–18",
+     "refs": [
+      "1 Samuel 23:14–18"
+     ],
+     "note": "Hiding in the wilderness of Ziph",
+     "ch": [
+      [
+       "1Sa",
+       23,
+       14,
+       23,
+       18
+      ]
+     ],
+     "place": "a9b852f"
+    },
+    {
+     "ref": "1 Samuel 23:24–28",
+     "refs": [
+      "1 Samuel 23:24–28"
+     ],
+     "note": "Saul nearly catches him at Maon",
+     "ch": [
+      [
+       "1Sa",
+       23,
+       24,
+       23,
+       28
+      ]
+     ],
+     "place": "a6845b1"
+    },
+    {
+     "ref": "1 Samuel 24:1–7",
+     "refs": [
+      "1 Samuel 24:1–7"
+     ],
+     "note": "He spares Saul in a cave at En-gedi",
+     "ch": [
+      [
+       "1Sa",
+       24,
+       1,
+       24,
+       7
+      ]
+     ],
+     "place": "a51df0e"
+    },
+    {
+     "ref": "1 Samuel 27:2–3",
+     "refs": [
+      "1 Samuel 27:2–3"
+     ],
+     "note": "He goes over to Achish of Gath",
+     "ch": [
+      [
+       "1Sa",
+       27,
+       2,
+       27,
+       3
+      ]
+     ],
+     "place": "a18873f"
+    },
+    {
+     "ref": "1 Samuel 27:6",
+     "refs": [
+      "1 Samuel 27:6"
+     ],
+     "note": "Achish gives him Ziklag",
+     "ch": [
+      [
+       "1Sa",
+       27,
+       6,
+       27,
+       6
+      ]
+     ],
+     "place": "a0ed7ff"
+    }
+   ]
+  },
+  {
+   "id": "david-king",
+   "title": "David becomes king",
+   "kind": "people",
+   "testament": "OT",
+   "span": "2 Samuel 2–5",
+   "intro": "From Ziklag to Hebron, then to Jerusalem as king of all Israel.",
+   "timeline": [
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "2 Samuel 1:1",
+     "refs": [
+      "2 Samuel 1:1"
+     ],
+     "note": "David at Ziklag hears of Saul’s death",
+     "ch": [
+      [
+       "2Sa",
+       1,
+       1,
+       1,
+       1
+      ]
+     ],
+     "place": "a0ed7ff"
+    },
+    {
+     "ref": "2 Samuel 2:1–4",
+     "refs": [
+      "2 Samuel 2:1–4"
+     ],
+     "note": "Anointed king of Judah at Hebron",
+     "ch": [
+      [
+       "2Sa",
+       2,
+       1,
+       2,
+       4
+      ]
+     ],
+     "place": "a85151a"
+    },
+    {
+     "ref": "2 Samuel 5:3",
+     "refs": [
+      "2 Samuel 5:3"
+     ],
+     "note": "Anointed king over all Israel",
+     "ch": [
+      [
+       "2Sa",
+       5,
+       3,
+       5,
+       3
+      ]
+     ],
+     "place": "a85151a"
+    },
+    {
+     "ref": "2 Samuel 5:6–9",
+     "refs": [
+      "2 Samuel 5:6–9"
+     ],
+     "note": "He takes the stronghold of Zion",
+     "ch": [
+      [
+       "2Sa",
+       5,
+       6,
+       5,
+       9
+      ]
+     ],
+     "place": "a15257a",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "absalom",
+   "title": "David flees from Absalom",
+   "kind": "people",
+   "testament": "OT",
+   "span": "2 Samuel 15–20",
+   "intro": "Absalom seizes Jerusalem; David crosses the Jordan, then returns after the battle.",
+   "timeline": [
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "2 Samuel 15:14",
+     "refs": [
+      "2 Samuel 15:14"
+     ],
+     "note": "David leaves Jerusalem",
+     "ch": [
+      [
+       "2Sa",
+       15,
+       14,
+       15,
+       14
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "2 Samuel 15:30",
+     "refs": [
+      "2 Samuel 15:30"
+     ],
+     "note": "He weeps as he climbs the Mount of Olives",
+     "ch": [
+      [
+       "2Sa",
+       15,
+       30,
+       15,
+       30
+      ]
+     ],
+     "place": "ac2c4c5"
+    },
+    {
+     "ref": "2 Samuel 16:5–13",
+     "refs": [
+      "2 Samuel 16:5–13"
+     ],
+     "note": "Shimei curses him at Bahurim",
+     "ch": [
+      [
+       "2Sa",
+       16,
+       5,
+       16,
+       13
+      ]
+     ],
+     "place": "a9ed5a4"
+    },
+    {
+     "ref": "2 Samuel 17:22",
+     "refs": [
+      "2 Samuel 17:22"
+     ],
+     "note": "He crosses the Jordan by night",
+     "ch": [
+      [
+       "2Sa",
+       17,
+       22,
+       17,
+       22
+      ]
+     ],
+     "place": "ae686c9"
+    },
+    {
+     "ref": "2 Samuel 17:24–27",
+     "refs": [
+      "2 Samuel 17:24–27"
+     ],
+     "note": "He waits at Mahanaim",
+     "ch": [
+      [
+       "2Sa",
+       17,
+       24,
+       17,
+       27
+      ]
+     ],
+     "place": "ae5bfe9"
+    },
+    {
+     "ref": "2 Samuel 18:6–15",
+     "refs": [
+      "2 Samuel 18:6–15"
+     ],
+     "note": "Battle in the forest of Ephraim; Absalom dies",
+     "ch": [
+      [
+       "2Sa",
+       18,
+       6,
+       18,
+       15
+      ]
+     ],
+     "place": "ae5bfe9",
+     "battle": true
+    },
+    {
+     "ref": "2 Samuel 19:15",
+     "refs": [
+      "2 Samuel 19:15"
+     ],
+     "note": "Judah meets the king at Gilgal",
+     "ch": [
+      [
+       "2Sa",
+       19,
+       15,
+       19,
+       15
+      ]
+     ],
+     "place": "ab94aea"
+    },
+    {
+     "ref": "2 Samuel 20:3",
+     "refs": [
+      "2 Samuel 20:3"
+     ],
+     "note": "David returns to Jerusalem",
+     "ch": [
+      [
+       "2Sa",
+       20,
+       3,
+       20,
+       3
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "elijah",
+   "title": "Elijah and Elisha",
+   "kind": "people",
+   "testament": "OT",
+   "span": "1 Kings 17 – 2 Kings 2",
+   "intro": "Elijah’s ministry, from the brook Cherith to his taking up beyond the Jordan.",
+   "timeline": [
+    "KINGS-21"
+   ],
+   "steps": [
+    {
+     "ref": "1 Kings 17:3–5",
+     "refs": [
+      "1 Kings 17:3–5"
+     ],
+     "note": "Ravens feed Elijah at the brook Cherith",
+     "ch": [
+      [
+       "1Ki",
+       17,
+       3,
+       17,
+       5
+      ]
+     ],
+     "place": "aa7bee8"
+    },
+    {
+     "ref": "1 Kings 17:9–10",
+     "refs": [
+      "1 Kings 17:9–10"
+     ],
+     "note": "The widow of Zarephath",
+     "ch": [
+      [
+       "1Ki",
+       17,
+       9,
+       17,
+       10
+      ]
+     ],
+     "place": "a6fa2d3"
+    },
+    {
+     "ref": "1 Kings 18:19–20",
+     "refs": [
+      "1 Kings 18:19–20"
+     ],
+     "note": "Fire falls on Mount Carmel",
+     "ch": [
+      [
+       "1Ki",
+       18,
+       19,
+       18,
+       20
+      ]
+     ],
+     "place": "a3e21c6"
+    },
+    {
+     "ref": "1 Kings 18:45–46",
+     "refs": [
+      "1 Kings 18:45–46"
+     ],
+     "note": "Elijah runs ahead of Ahab to Jezreel",
+     "ch": [
+      [
+       "1Ki",
+       18,
+       45,
+       18,
+       46
+      ]
+     ],
+     "place": "ae0bf4a"
+    },
+    {
+     "ref": "1 Kings 19:3",
+     "refs": [
+      "1 Kings 19:3"
+     ],
+     "note": "He flees to Beersheba",
+     "ch": [
+      [
+       "1Ki",
+       19,
+       3,
+       19,
+       3
+      ]
+     ],
+     "place": "ad2f6c2"
+    },
+    {
+     "ref": "1 Kings 19:8",
+     "refs": [
+      "1 Kings 19:8"
+     ],
+     "note": "The still small voice at Horeb",
+     "ch": [
+      [
+       "1Ki",
+       19,
+       8,
+       19,
+       8
+      ]
+     ],
+     "place": "a9bb03e"
+    },
+    {
+     "ref": "1 Kings 19:16–19",
+     "refs": [
+      "1 Kings 19:16–19"
+     ],
+     "note": "He calls Elisha from Abel-meholah",
+     "ch": [
+      [
+       "1Ki",
+       19,
+       16,
+       19,
+       19
+      ]
+     ],
+     "place": "a5a1bdd"
+    },
+    {
+     "ref": "2 Kings 2:2",
+     "refs": [
+      "2 Kings 2:2"
+     ],
+     "note": "Elijah and Elisha go to Bethel",
+     "ch": [
+      [
+       "2Ki",
+       2,
+       2,
+       2,
+       2
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "2 Kings 2:4",
+     "refs": [
+      "2 Kings 2:4"
+     ],
+     "note": "On to Jericho",
+     "ch": [
+      [
+       "2Ki",
+       2,
+       4,
+       2,
+       4
+      ]
+     ],
+     "place": "a231f80"
+    },
+    {
+     "ref": "2 Kings 2:7–11",
+     "refs": [
+      "2 Kings 2:7–11"
+     ],
+     "note": "Elijah is taken up beyond the Jordan",
+     "ch": [
+      [
+       "2Ki",
+       2,
+       7,
+       2,
+       11
+      ]
+     ],
+     "place": "ae686c9"
+    }
+   ]
+  },
+  {
+   "id": "naaman",
+   "title": "Naaman is healed",
+   "kind": "people",
+   "testament": "OT",
+   "span": "2 Kings 5",
+   "intro": "The Aramean commander travels to Israel and washes in the Jordan.",
+   "timeline": [
+    "KINGS-26"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 5:1–5",
+     "refs": [
+      "2 Kings 5:1–5"
+     ],
+     "note": "Naaman sets out from Damascus",
+     "ch": [
+      [
+       "2Ki",
+       5,
+       1,
+       5,
+       5
+      ]
+     ],
+     "place": "a69c1d4"
+    },
+    {
+     "ref": "2 Kings 5:6–8",
+     "refs": [
+      "2 Kings 5:6–8"
+     ],
+     "note": "The king of Israel in Samaria; Elisha sends for him",
+     "ch": [
+      [
+       "2Ki",
+       5,
+       6,
+       5,
+       8
+      ]
+     ],
+     "place": "a041bb3"
+    },
+    {
+     "ref": "2 Kings 5:14",
+     "refs": [
+      "2 Kings 5:14"
+     ],
+     "note": "He dips seven times in the Jordan",
+     "ch": [
+      [
+       "2Ki",
+       5,
+       14,
+       5,
+       14
+      ]
+     ],
+     "place": "ae686c9"
+    },
+    {
+     "ref": "2 Kings 5:19",
+     "refs": [
+      "2 Kings 5:19"
+     ],
+     "note": "He goes home in peace",
+     "ch": [
+      [
+       "2Ki",
+       5,
+       19,
+       5,
+       19
+      ]
+     ],
+     "place": "a69c1d4"
+    }
+   ]
+  },
+  {
+   "id": "jonah",
+   "title": "Jonah",
+   "kind": "people",
+   "testament": "OT",
+   "span": "Jonah 1–3",
+   "intro": "Jonah sails from Joppa for Tarshish, far to the west, but is sent to Nineveh.",
+   "timeline": [
+    "KINGS-36"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 14:25",
+     "refs": [
+      "2 Kings 14:25"
+     ],
+     "note": "Jonah son of Amittai, of Gath-hepher",
+     "ch": [
+      [
+       "2Ki",
+       14,
+       25,
+       14,
+       25
+      ]
+     ],
+     "place": "ac51cec"
+    },
+    {
+     "ref": "Jonah 1:3",
+     "refs": [
+      "Jonah 1:3"
+     ],
+     "note": "He boards a ship at Joppa, bound for Tarshish",
+     "ch": [
+      [
+       "Jon",
+       1,
+       3,
+       1,
+       3
+      ]
+     ],
+     "place": "ae023a9"
+    },
+    {
+     "ref": "Jonah 3:3",
+     "refs": [
+      "Jonah 3:3"
+     ],
+     "note": "He goes to Nineveh and preaches",
+     "ch": [
+      [
+       "Jon",
+       3,
+       3,
+       3,
+       3
+      ]
+     ],
+     "place": "a70fd5d"
+    }
+   ]
+  },
+  {
+   "id": "kings",
+   "title": "Abram rescues Lot",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Genesis 14",
+   "intro": "Four eastern kings defeat the kings of the plain and carry off Lot; Abram pursues them north.",
+   "timeline": [
+    "PSTFLOOD-9"
+   ],
+   "steps": [
+    {
+     "ref": "Genesis 14:1",
+     "refs": [
+      "Genesis 14:1"
+     ],
+     "note": "Four kings from Shinar, Elam and beyond",
+     "ch": [
+      [
+       "Gen",
+       14,
+       1,
+       14,
+       1
+      ]
+     ],
+     "place": "af725b1",
+     "enemy": true
+    },
+    {
+     "ref": "Genesis 14:8–12",
+     "refs": [
+      "Genesis 14:8–12"
+     ],
+     "note": "Battle in the Valley of Siddim; Lot is taken",
+     "ch": [
+      [
+       "Gen",
+       14,
+       8,
+       14,
+       12
+      ]
+     ],
+     "place": "a4a5cce",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "Genesis 14:13",
+     "refs": [
+      "Genesis 14:13"
+     ],
+     "note": "Word reaches Abram at Mamre",
+     "ch": [
+      [
+       "Gen",
+       14,
+       13,
+       14,
+       13
+      ]
+     ],
+     "place": "aeb9e97",
+     "jump": true
+    },
+    {
+     "ref": "Genesis 14:14",
+     "refs": [
+      "Genesis 14:14"
+     ],
+     "note": "Abram pursues them as far as Dan",
+     "ch": [
+      [
+       "Gen",
+       14,
+       14,
+       14,
+       14
+      ]
+     ],
+     "place": "a513646"
+    },
+    {
+     "ref": "Genesis 14:15",
+     "refs": [
+      "Genesis 14:15"
+     ],
+     "note": "A night attack; pursuit to Hobah",
+     "ch": [
+      [
+       "Gen",
+       14,
+       15,
+       14,
+       15
+      ]
+     ],
+     "place": "a6779cd",
+     "battle": true
+    },
+    {
+     "ref": "Genesis 14:17–20",
+     "refs": [
+      "Genesis 14:17–20"
+     ],
+     "note": "Melchizedek of Salem blesses Abram",
+     "ch": [
+      [
+       "Gen",
+       14,
+       17,
+       14,
+       20
+      ]
+     ],
+     "place": "aad7e4e"
+    }
+   ]
+  },
+  {
+   "id": "amalek",
+   "title": "Battle with Amalek",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Exodus 17:8–16",
+   "intro": "Joshua fights Amalek while Moses’ hands are held up.",
+   "timeline": [
+    "WILDRNSS-1"
+   ],
+   "steps": [
+    {
+     "ref": "Exodus 17:8–13",
+     "refs": [
+      "Exodus 17:8–13"
+     ],
+     "note": "Amalek attacks Israel at Rephidim",
+     "ch": [
+      [
+       "Exo",
+       17,
+       8,
+       17,
+       13
+      ]
+     ],
+     "place": "a05ebb7",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "hormah",
+   "title": "Defeat and victory at Hormah",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Numbers 14; 21",
+   "intro": "Israel is driven back at Hormah, and later destroys the cities of Arad.",
+   "timeline": [
+    "WILDRNSS-2"
+   ],
+   "steps": [
+    {
+     "ref": "Numbers 14:40–44",
+     "refs": [
+      "Numbers 14:40–44"
+     ],
+     "note": "Israel presumes to go up from Kadesh",
+     "ch": [
+      [
+       "Num",
+       14,
+       40,
+       14,
+       44
+      ]
+     ],
+     "place": "ac2cef0"
+    },
+    {
+     "ref": "Numbers 14:45",
+     "refs": [
+      "Numbers 14:45"
+     ],
+     "note": "Amalekites and Canaanites beat them back to Hormah",
+     "ch": [
+      [
+       "Num",
+       14,
+       45,
+       14,
+       45
+      ]
+     ],
+     "place": "ada25df",
+     "battle": true
+    },
+    {
+     "ref": "Numbers 21:1",
+     "refs": [
+      "Numbers 21:1"
+     ],
+     "note": "The king of Arad attacks Israel",
+     "ch": [
+      [
+       "Num",
+       21,
+       1,
+       21,
+       1
+      ]
+     ],
+     "place": "abc358b",
+     "battle": true,
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "Numbers 21:3",
+     "refs": [
+      "Numbers 21:3"
+     ],
+     "note": "Israel devotes the cities to destruction: Hormah",
+     "ch": [
+      [
+       "Num",
+       21,
+       3,
+       21,
+       3
+      ]
+     ],
+     "place": "ada25df",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "sihon-og",
+   "title": "Victory over Sihon and Og",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Numbers 21:21–35",
+   "intro": "The Amorite kings refuse passage and are defeated east of the Jordan.",
+   "timeline": [
+    "WILDRNSS-2"
+   ],
+   "steps": [
+    {
+     "ref": "Numbers 21:13",
+     "refs": [
+      "Numbers 21:13"
+     ],
+     "note": "Israel camps beyond the Arnon",
+     "ch": [
+      [
+       "Num",
+       21,
+       13,
+       21,
+       13
+      ]
+     ],
+     "place": "a4cc324"
+    },
+    {
+     "ref": "Numbers 21:23–24",
+     "refs": [
+      "Numbers 21:23–24"
+     ],
+     "note": "Sihon is defeated at Jahaz",
+     "ch": [
+      [
+       "Num",
+       21,
+       23,
+       21,
+       24
+      ]
+     ],
+     "place": "ad9b1cd",
+     "battle": true
+    },
+    {
+     "ref": "Numbers 21:25–26",
+     "refs": [
+      "Numbers 21:25–26"
+     ],
+     "note": "Israel takes Heshbon, Sihon’s city",
+     "ch": [
+      [
+       "Num",
+       21,
+       25,
+       21,
+       26
+      ]
+     ],
+     "place": "abf2fc1"
+    },
+    {
+     "ref": "Numbers 21:32",
+     "refs": [
+      "Numbers 21:32"
+     ],
+     "note": "Jazer is captured",
+     "ch": [
+      [
+       "Num",
+       21,
+       32,
+       21,
+       32
+      ]
+     ],
+     "place": "a095b6e",
+     "battle": true
+    },
+    {
+     "ref": "Numbers 21:33–35",
+     "refs": [
+      "Numbers 21:33–35"
+     ],
+     "note": "Og king of Bashan is defeated at Edrei",
+     "ch": [
+      [
+       "Num",
+       21,
+       33,
+       21,
+       35
+      ]
+     ],
+     "place": "aaa6f7a",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "conquest-centre",
+   "title": "Jericho and Ai",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Joshua 5–9",
+   "intro": "Joshua’s first campaign from the camp at Gilgal.",
+   "timeline": [
+    "PROMLAND-2",
+    "PROMLAND-1"
+   ],
+   "steps": [
+    {
+     "ref": "Joshua 5:10",
+     "refs": [
+      "Joshua 5:10"
+     ],
+     "note": "The camp at Gilgal",
+     "ch": [
+      [
+       "Jos",
+       5,
+       10,
+       5,
+       10
+      ]
+     ],
+     "place": "ab94aea"
+    },
+    {
+     "ref": "Joshua 6:20",
+     "refs": [
+      "Joshua 6:20"
+     ],
+     "note": "The walls of Jericho fall",
+     "ch": [
+      [
+       "Jos",
+       6,
+       20,
+       6,
+       20
+      ]
+     ],
+     "place": "a231f80",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 7:4–5",
+     "refs": [
+      "Joshua 7:4–5"
+     ],
+     "note": "Defeat at Ai after Achan’s sin",
+     "ch": [
+      [
+       "Jos",
+       7,
+       4,
+       7,
+       5
+      ]
+     ],
+     "place": "a7e13e1",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 8:19–28",
+     "refs": [
+      "Joshua 8:19–28"
+     ],
+     "note": "The ambush takes Ai",
+     "ch": [
+      [
+       "Jos",
+       8,
+       19,
+       8,
+       28
+      ]
+     ],
+     "place": "a7e13e1",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 8:30–35",
+     "refs": [
+      "Joshua 8:30–35"
+     ],
+     "note": "The altar and the Law read at Mount Ebal",
+     "ch": [
+      [
+       "Jos",
+       8,
+       30,
+       8,
+       35
+      ]
+     ],
+     "place": "aa5cc66"
+    },
+    {
+     "ref": "Joshua 9:6",
+     "refs": [
+      "Joshua 9:6"
+     ],
+     "note": "Back to the camp at Gilgal",
+     "ch": [
+      [
+       "Jos",
+       9,
+       6,
+       9,
+       6
+      ]
+     ],
+     "place": "ab94aea"
+    }
+   ]
+  },
+  {
+   "id": "conquest-south",
+   "title": "The southern campaign",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Joshua 10",
+   "intro": "Joshua marches by night to save Gibeon, then takes the cities of the south.",
+   "timeline": [
+    "PROMLAND-1"
+   ],
+   "steps": [
+    {
+     "ref": "Joshua 10:9",
+     "refs": [
+      "Joshua 10:9"
+     ],
+     "note": "An all-night march from Gilgal",
+     "ch": [
+      [
+       "Jos",
+       10,
+       9,
+       10,
+       9
+      ]
+     ],
+     "place": "ab94aea"
+    },
+    {
+     "ref": "Joshua 10:10",
+     "refs": [
+      "Joshua 10:10"
+     ],
+     "note": "The five kings routed at Gibeon; the sun stands still",
+     "ch": [
+      [
+       "Jos",
+       10,
+       10,
+       10,
+       10
+      ]
+     ],
+     "place": "aede336",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:10–11",
+     "refs": [
+      "Joshua 10:10–11"
+     ],
+     "note": "Hailstones on the descent of Beth-horon",
+     "ch": [
+      [
+       "Jos",
+       10,
+       10,
+       10,
+       11
+      ]
+     ],
+     "place": "a75b45e"
+    },
+    {
+     "ref": "Joshua 10:10–11",
+     "refs": [
+      "Joshua 10:10–11"
+     ],
+     "note": "Pursuit as far as Azekah",
+     "ch": [
+      [
+       "Jos",
+       10,
+       10,
+       10,
+       11
+      ]
+     ],
+     "place": "af2ca0c"
+    },
+    {
+     "ref": "Joshua 10:16–28",
+     "refs": [
+      "Joshua 10:16–28"
+     ],
+     "note": "The kings in the cave at Makkedah",
+     "ch": [
+      [
+       "Jos",
+       10,
+       16,
+       10,
+       28
+      ]
+     ],
+     "place": "abf8e4e",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:29–30",
+     "refs": [
+      "Joshua 10:29–30"
+     ],
+     "note": "Libnah",
+     "ch": [
+      [
+       "Jos",
+       10,
+       29,
+       10,
+       30
+      ]
+     ],
+     "place": "a97b595",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:31–32",
+     "refs": [
+      "Joshua 10:31–32"
+     ],
+     "note": "Lachish, taken on the second day",
+     "ch": [
+      [
+       "Jos",
+       10,
+       31,
+       10,
+       32
+      ]
+     ],
+     "place": "a3cc590",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:34–35",
+     "refs": [
+      "Joshua 10:34–35"
+     ],
+     "note": "Eglon",
+     "ch": [
+      [
+       "Jos",
+       10,
+       34,
+       10,
+       35
+      ]
+     ],
+     "place": "a244d8f",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:36–37",
+     "refs": [
+      "Joshua 10:36–37"
+     ],
+     "note": "Hebron",
+     "ch": [
+      [
+       "Jos",
+       10,
+       36,
+       10,
+       37
+      ]
+     ],
+     "place": "a85151a",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:38–39",
+     "refs": [
+      "Joshua 10:38–39"
+     ],
+     "note": "Debir",
+     "ch": [
+      [
+       "Jos",
+       10,
+       38,
+       10,
+       39
+      ]
+     ],
+     "place": "ad2048e",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 10:43",
+     "refs": [
+      "Joshua 10:43"
+     ],
+     "note": "Return to Gilgal",
+     "ch": [
+      [
+       "Jos",
+       10,
+       43,
+       10,
+       43
+      ]
+     ],
+     "place": "ab94aea"
+    }
+   ]
+  },
+  {
+   "id": "conquest-north",
+   "title": "The northern campaign",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Joshua 11",
+   "intro": "Jabin of Hazor gathers the northern kings and is defeated.",
+   "timeline": [
+    "PROMLAND-3"
+   ],
+   "steps": [
+    {
+     "ref": "Joshua 10:43",
+     "refs": [
+      "Joshua 10:43"
+     ],
+     "note": "Israel sets out from Gilgal",
+     "ch": [
+      [
+       "Jos",
+       10,
+       43,
+       10,
+       43
+      ]
+     ],
+     "place": "ab94aea"
+    },
+    {
+     "ref": "Joshua 11:5–7",
+     "refs": [
+      "Joshua 11:5–7"
+     ],
+     "note": "Surprise attack at the waters of Merom",
+     "ch": [
+      [
+       "Jos",
+       11,
+       5,
+       11,
+       7
+      ]
+     ],
+     "place": "a6ee047",
+     "battle": true
+    },
+    {
+     "ref": "Joshua 11:8",
+     "refs": [
+      "Joshua 11:8"
+     ],
+     "note": "Pursuit as far as Great Sidon",
+     "ch": [
+      [
+       "Jos",
+       11,
+       8,
+       11,
+       8
+      ]
+     ],
+     "place": "a98e4d7"
+    },
+    {
+     "ref": "Joshua 11:10–11",
+     "refs": [
+      "Joshua 11:10–11"
+     ],
+     "note": "Hazor is captured and burned",
+     "ch": [
+      [
+       "Jos",
+       11,
+       10,
+       11,
+       11
+      ]
+     ],
+     "place": "a6f33c5",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "deborah",
+   "title": "Deborah and Barak against Sisera",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Judges 4–5",
+   "intro": "Barak musters at Kedesh, descends from Mount Tabor and routs Sisera by the Kishon.",
+   "timeline": [
+    "PROMLAND-8"
+   ],
+   "steps": [
+    {
+     "ref": "Judges 4:10",
+     "refs": [
+      "Judges 4:10"
+     ],
+     "note": "Barak summons Zebulun and Naphtali to Kedesh",
+     "ch": [
+      [
+       "Jdg",
+       4,
+       10,
+       4,
+       10
+      ]
+     ],
+     "place": "a321cb8"
+    },
+    {
+     "ref": "Judges 4:12–14",
+     "refs": [
+      "Judges 4:12–14"
+     ],
+     "note": "Ten thousand go down from Mount Tabor",
+     "ch": [
+      [
+       "Jdg",
+       4,
+       12,
+       4,
+       14
+      ]
+     ],
+     "place": "acd63ee"
+    },
+    {
+     "ref": "Judges 4:13",
+     "refs": [
+      "Judges 4:13"
+     ],
+     "note": "Sisera’s chariots come from Harosheth-hagoyim",
+     "ch": [
+      [
+       "Jdg",
+       4,
+       13,
+       4,
+       13
+      ]
+     ],
+     "place": "a49c017",
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "Judges 4:15; 5:21",
+     "refs": [
+      "Judges 4:15",
+      "Judges 5:21"
+     ],
+     "note": "The rout by the river Kishon",
+     "ch": [
+      [
+       "Jdg",
+       4,
+       15,
+       4,
+       15
+      ],
+      [
+       "Jdg",
+       5,
+       21,
+       5,
+       21
+      ]
+     ],
+     "place": "a5a6458",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "Judges 4:16",
+     "refs": [
+      "Judges 4:16"
+     ],
+     "note": "Barak pursues to Harosheth-hagoyim",
+     "ch": [
+      [
+       "Jdg",
+       4,
+       16,
+       4,
+       16
+      ]
+     ],
+     "place": "a49c017"
+    },
+    {
+     "ref": "Judges 4:17–21",
+     "refs": [
+      "Judges 4:17–21"
+     ],
+     "note": "Sisera flees and is killed by Jael near Kedesh",
+     "ch": [
+      [
+       "Jdg",
+       4,
+       17,
+       4,
+       21
+      ]
+     ],
+     "place": "a321cb8",
+     "jump": true
+    }
+   ]
+  },
+  {
+   "id": "gideon",
+   "title": "Gideon against Midian",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Judges 7–8",
+   "intro": "Three hundred men surprise the Midianite camp and chase them across the Jordan.",
+   "timeline": [
+    "PROMLAND-9"
+   ],
+   "steps": [
+    {
+     "ref": "Judges 7:1–7",
+     "refs": [
+      "Judges 7:1–7"
+     ],
+     "note": "Gideon camps at the spring of Harod",
+     "ch": [
+      [
+       "Jdg",
+       7,
+       1,
+       7,
+       7
+      ]
+     ],
+     "place": "ae3cace"
+    },
+    {
+     "ref": "Judges 7:19–22",
+     "refs": [
+      "Judges 7:19–22"
+     ],
+     "note": "Torches and trumpets at the camp by the hill of Moreh",
+     "ch": [
+      [
+       "Jdg",
+       7,
+       19,
+       7,
+       22
+      ]
+     ],
+     "place": "a772880",
+     "battle": true
+    },
+    {
+     "ref": "Judges 7:22",
+     "refs": [
+      "Judges 7:22"
+     ],
+     "note": "Midian flees toward Beth-shittah",
+     "ch": [
+      [
+       "Jdg",
+       7,
+       22,
+       7,
+       22
+      ]
+     ],
+     "place": "a83d789"
+    },
+    {
+     "ref": "Judges 7:22",
+     "refs": [
+      "Judges 7:22"
+     ],
+     "note": "and the border of Abel-meholah",
+     "ch": [
+      [
+       "Jdg",
+       7,
+       22,
+       7,
+       22
+      ]
+     ],
+     "place": "a5a1bdd"
+    },
+    {
+     "ref": "Judges 8:5–7",
+     "refs": [
+      "Judges 8:5–7"
+     ],
+     "note": "Succoth refuses bread",
+     "ch": [
+      [
+       "Jdg",
+       8,
+       5,
+       8,
+       7
+      ]
+     ],
+     "place": "a0905b5"
+    },
+    {
+     "ref": "Judges 8:8–9",
+     "refs": [
+      "Judges 8:8–9"
+     ],
+     "note": "Penuel refuses too",
+     "ch": [
+      [
+       "Jdg",
+       8,
+       8,
+       8,
+       9
+      ]
+     ],
+     "place": "a8a9ff9"
+    },
+    {
+     "ref": "Judges 8:10–12",
+     "refs": [
+      "Judges 8:10–12"
+     ],
+     "note": "Zebah and Zalmunna caught at Karkor",
+     "ch": [
+      [
+       "Jdg",
+       8,
+       10,
+       8,
+       12
+      ]
+     ],
+     "place": "a0415e8",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "jephthah",
+   "title": "Jephthah against Ammon",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Judges 11",
+   "intro": "Jephthah marches from Mizpah in Gilead and subdues the Ammonites.",
+   "timeline": [
+    "PROMLAND-11"
+   ],
+   "steps": [
+    {
+     "ref": "Judges 11:29",
+     "refs": [
+      "Judges 11:29"
+     ],
+     "note": "Jephthah sets out from Mizpah of Gilead",
+     "ch": [
+      [
+       "Jdg",
+       11,
+       29,
+       11,
+       29
+      ]
+     ],
+     "place": "a0f8af9"
+    },
+    {
+     "ref": "Judges 11:33",
+     "refs": [
+      "Judges 11:33"
+     ],
+     "note": "He strikes Ammon from Aroer",
+     "ch": [
+      [
+       "Jdg",
+       11,
+       33,
+       11,
+       33
+      ]
+     ],
+     "place": "af74969",
+     "battle": true
+    },
+    {
+     "ref": "Judges 11:33",
+     "refs": [
+      "Judges 11:33"
+     ],
+     "note": "to Minnith, twenty cities",
+     "ch": [
+      [
+       "Jdg",
+       11,
+       33,
+       11,
+       33
+      ]
+     ],
+     "place": "a222545"
+    },
+    {
+     "ref": "Judges 11:34",
+     "refs": [
+      "Judges 11:34"
+     ],
+     "note": "His daughter comes out to meet him at Mizpah",
+     "ch": [
+      [
+       "Jdg",
+       11,
+       34,
+       11,
+       34
+      ]
+     ],
+     "place": "a0f8af9"
+    }
+   ]
+  },
+  {
+   "id": "gibeah",
+   "title": "War against Benjamin",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Judges 20",
+   "intro": "The tribes gather at Mizpah and fight Benjamin at Gibeah.",
+   "timeline": [
+    "PROMLAND-5"
+   ],
+   "steps": [
+    {
+     "ref": "Judges 20:1",
+     "refs": [
+      "Judges 20:1"
+     ],
+     "note": "The tribes assemble at Mizpah",
+     "ch": [
+      [
+       "Jdg",
+       20,
+       1,
+       20,
+       1
+      ]
+     ],
+     "place": "a736f6c"
+    },
+    {
+     "ref": "Judges 20:18",
+     "refs": [
+      "Judges 20:18"
+     ],
+     "note": "They inquire of God at Bethel",
+     "ch": [
+      [
+       "Jdg",
+       20,
+       18,
+       20,
+       18
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "Judges 20:19–48",
+     "refs": [
+      "Judges 20:19–48"
+     ],
+     "note": "Three battles at Gibeah",
+     "ch": [
+      [
+       "Jdg",
+       20,
+       19,
+       20,
+       48
+      ]
+     ],
+     "place": "ac24f5f",
+     "battle": true
+    },
+    {
+     "ref": "Judges 20:47",
+     "refs": [
+      "Judges 20:47"
+     ],
+     "note": "Six hundred Benjaminites flee to the rock of Rimmon",
+     "ch": [
+      [
+       "Jdg",
+       20,
+       47,
+       20,
+       47
+      ]
+     ],
+     "place": "a45acc3"
+    }
+   ]
+  },
+  {
+   "id": "ebenezer",
+   "title": "Battle of Ebenezer",
+   "kind": "war",
+   "testament": "OT",
+   "span": "1 Samuel 4",
+   "intro": "The Philistines at Aphek defeat Israel and capture the Ark.",
+   "timeline": [
+    "PROMLAND-14"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 4:1",
+     "refs": [
+      "1 Samuel 4:1"
+     ],
+     "note": "The Philistines camp at Aphek",
+     "ch": [
+      [
+       "1Sa",
+       4,
+       1,
+       4,
+       1
+      ]
+     ],
+     "place": "a7b2e63",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 4:1–11",
+     "refs": [
+      "1 Samuel 4:1–11"
+     ],
+     "note": "Israel is defeated at Ebenezer; the Ark is taken",
+     "ch": [
+      [
+       "1Sa",
+       4,
+       1,
+       4,
+       11
+      ]
+     ],
+     "place": "abfdefc",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 4:12–18",
+     "refs": [
+      "1 Samuel 4:12–18"
+     ],
+     "note": "A runner brings the news to Eli at Shiloh",
+     "ch": [
+      [
+       "1Sa",
+       4,
+       12,
+       4,
+       18
+      ]
+     ],
+     "place": "aa4680a",
+     "jump": true
+    }
+   ]
+  },
+  {
+   "id": "jabesh",
+   "title": "Saul rescues Jabesh-gilead",
+   "kind": "war",
+   "testament": "OT",
+   "span": "1 Samuel 11",
+   "intro": "Saul musters Israel at Bezek and breaks the Ammonite siege.",
+   "timeline": [
+    "KINGS-2"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 11:4–7",
+     "refs": [
+      "1 Samuel 11:4–7"
+     ],
+     "note": "News reaches Saul at Gibeah",
+     "ch": [
+      [
+       "1Sa",
+       11,
+       4,
+       11,
+       7
+      ]
+     ],
+     "place": "ac24f5f"
+    },
+    {
+     "ref": "1 Samuel 11:8",
+     "refs": [
+      "1 Samuel 11:8"
+     ],
+     "note": "He musters Israel at Bezek",
+     "ch": [
+      [
+       "1Sa",
+       11,
+       8,
+       11,
+       8
+      ]
+     ],
+     "place": "af48fdd"
+    },
+    {
+     "ref": "1 Samuel 11:11",
+     "refs": [
+      "1 Samuel 11:11"
+     ],
+     "note": "He strikes the Ammonites at Jabesh-gilead",
+     "ch": [
+      [
+       "1Sa",
+       11,
+       11,
+       11,
+       11
+      ]
+     ],
+     "place": "af92088",
+     "battle": true
+    },
+    {
+     "ref": "1 Samuel 11:14–15",
+     "refs": [
+      "1 Samuel 11:14–15"
+     ],
+     "note": "Saul is made king at Gilgal",
+     "ch": [
+      [
+       "1Sa",
+       11,
+       14,
+       11,
+       15
+      ]
+     ],
+     "place": "ab94aea"
+    }
+   ]
+  },
+  {
+   "id": "michmash",
+   "title": "Jonathan at Michmash",
+   "kind": "war",
+   "testament": "OT",
+   "span": "1 Samuel 13–14",
+   "intro": "Jonathan climbs to the Philistine outpost and the Philistines flee.",
+   "timeline": [
+    "KINGS-2"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 13:8–15",
+     "refs": [
+      "1 Samuel 13:8–15"
+     ],
+     "note": "Saul waits for Samuel at Gilgal",
+     "ch": [
+      [
+       "1Sa",
+       13,
+       8,
+       13,
+       15
+      ]
+     ],
+     "place": "ab94aea"
+    },
+    {
+     "ref": "1 Samuel 13:16",
+     "refs": [
+      "1 Samuel 13:16"
+     ],
+     "note": "Saul and Jonathan at Geba",
+     "ch": [
+      [
+       "1Sa",
+       13,
+       16,
+       13,
+       16
+      ]
+     ],
+     "place": "a264254"
+    },
+    {
+     "ref": "1 Samuel 14:13–15",
+     "refs": [
+      "1 Samuel 14:13–15"
+     ],
+     "note": "Jonathan’s attack on the outpost at Michmash",
+     "ch": [
+      [
+       "1Sa",
+       14,
+       13,
+       14,
+       15
+      ]
+     ],
+     "place": "adea06c",
+     "battle": true
+    },
+    {
+     "ref": "1 Samuel 14:23",
+     "refs": [
+      "1 Samuel 14:23"
+     ],
+     "note": "The battle passes beyond Beth-aven",
+     "ch": [
+      [
+       "1Sa",
+       14,
+       23,
+       14,
+       23
+      ]
+     ],
+     "place": "a03cb21"
+    },
+    {
+     "ref": "1 Samuel 14:31",
+     "refs": [
+      "1 Samuel 14:31"
+     ],
+     "note": "The Philistines are struck down as far as Aijalon",
+     "ch": [
+      [
+       "1Sa",
+       14,
+       31,
+       14,
+       31
+      ]
+     ],
+     "place": "a1c600b"
+    }
+   ]
+  },
+  {
+   "id": "goliath",
+   "title": "David and Goliath",
+   "kind": "war",
+   "testament": "OT",
+   "span": "1 Samuel 17",
+   "intro": "Israel faces the Philistines across the Valley of Elah.",
+   "timeline": [
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 17:1",
+     "refs": [
+      "1 Samuel 17:1"
+     ],
+     "note": "The Philistines gather at Socoh",
+     "ch": [
+      [
+       "1Sa",
+       17,
+       1,
+       17,
+       1
+      ]
+     ],
+     "place": "a39a6b9",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 17:2–51",
+     "refs": [
+      "1 Samuel 17:2–51"
+     ],
+     "note": "David kills Goliath in the Valley of Elah",
+     "ch": [
+      [
+       "1Sa",
+       17,
+       2,
+       17,
+       51
+      ]
+     ],
+     "place": "ab183f8",
+     "battle": true
+    },
+    {
+     "ref": "1 Samuel 17:52",
+     "refs": [
+      "1 Samuel 17:52"
+     ],
+     "note": "Israel pursues the Philistines to Gath",
+     "ch": [
+      [
+       "1Sa",
+       17,
+       52,
+       17,
+       52
+      ]
+     ],
+     "place": "a18873f"
+    },
+    {
+     "ref": "1 Samuel 17:52",
+     "refs": [
+      "1 Samuel 17:52"
+     ],
+     "note": "and to the gates of Ekron",
+     "ch": [
+      [
+       "1Sa",
+       17,
+       52,
+       17,
+       52
+      ]
+     ],
+     "place": "a3fc47a"
+    }
+   ]
+  },
+  {
+   "id": "gilboa",
+   "title": "Battle of Mount Gilboa",
+   "kind": "war",
+   "testament": "OT",
+   "span": "1 Samuel 28–31",
+   "intro": "The Philistines march north; Saul and his sons fall on Gilboa.",
+   "timeline": [
+    "KINGS-2"
+   ],
+   "steps": [
+    {
+     "ref": "1 Samuel 29:1",
+     "refs": [
+      "1 Samuel 29:1"
+     ],
+     "note": "The Philistines muster at Aphek",
+     "ch": [
+      [
+       "1Sa",
+       29,
+       1,
+       29,
+       1
+      ]
+     ],
+     "place": "a7b2e63",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 28:4",
+     "refs": [
+      "1 Samuel 28:4"
+     ],
+     "note": "They camp at Shunem",
+     "ch": [
+      [
+       "1Sa",
+       28,
+       4,
+       28,
+       4
+      ]
+     ],
+     "place": "ac86af5",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 28:4",
+     "refs": [
+      "1 Samuel 28:4"
+     ],
+     "note": "Saul camps on Gilboa",
+     "ch": [
+      [
+       "1Sa",
+       28,
+       4,
+       28,
+       4
+      ]
+     ],
+     "place": "acf57c5",
+     "jump": true
+    },
+    {
+     "ref": "1 Samuel 28:7–25",
+     "refs": [
+      "1 Samuel 28:7–25"
+     ],
+     "note": "Saul visits the medium at En-dor",
+     "ch": [
+      [
+       "1Sa",
+       28,
+       7,
+       28,
+       25
+      ]
+     ],
+     "place": "aca444b"
+    },
+    {
+     "ref": "1 Samuel 31:1–6",
+     "refs": [
+      "1 Samuel 31:1–6"
+     ],
+     "note": "Saul and his sons die on Mount Gilboa",
+     "ch": [
+      [
+       "1Sa",
+       31,
+       1,
+       31,
+       6
+      ]
+     ],
+     "place": "acf57c5",
+     "battle": true
+    },
+    {
+     "ref": "1 Samuel 31:10",
+     "refs": [
+      "1 Samuel 31:10"
+     ],
+     "note": "Their bodies are hung on the wall of Beth-shan",
+     "ch": [
+      [
+       "1Sa",
+       31,
+       10,
+       31,
+       10
+      ]
+     ],
+     "place": "a2a8df0",
+     "enemy": true
+    },
+    {
+     "ref": "1 Samuel 31:11–13",
+     "refs": [
+      "1 Samuel 31:11–13"
+     ],
+     "note": "The men of Jabesh-gilead bury them",
+     "ch": [
+      [
+       "1Sa",
+       31,
+       11,
+       31,
+       13
+      ]
+     ],
+     "place": "af92088"
+    }
+   ]
+  },
+  {
+   "id": "david-wars",
+   "title": "David’s wars with the Philistines",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Samuel 5",
+   "intro": "After taking Jerusalem, David twice defeats the Philistines in the Valley of Rephaim.",
+   "timeline": [
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "2 Samuel 5:6–9",
+     "refs": [
+      "2 Samuel 5:6–9"
+     ],
+     "note": "David takes Jerusalem",
+     "ch": [
+      [
+       "2Sa",
+       5,
+       6,
+       5,
+       9
+      ]
+     ],
+     "place": "a15257a",
+     "battle": true
+    },
+    {
+     "ref": "2 Samuel 5:18",
+     "refs": [
+      "2 Samuel 5:18"
+     ],
+     "note": "The Philistines spread out in the Valley of Rephaim",
+     "ch": [
+      [
+       "2Sa",
+       5,
+       18,
+       5,
+       18
+      ]
+     ],
+     "place": "a7559e6",
+     "enemy": true
+    },
+    {
+     "ref": "2 Samuel 5:20",
+     "refs": [
+      "2 Samuel 5:20"
+     ],
+     "note": "The Lord breaks through at Baal-perazim",
+     "ch": [
+      [
+       "2Sa",
+       5,
+       20,
+       5,
+       20
+      ]
+     ],
+     "place": "a6bf059",
+     "battle": true
+    },
+    {
+     "ref": "2 Samuel 5:25",
+     "refs": [
+      "2 Samuel 5:25"
+     ],
+     "note": "David strikes them as far as Gezer",
+     "ch": [
+      [
+       "2Sa",
+       5,
+       25,
+       5,
+       25
+      ]
+     ],
+     "place": "aed6538",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "rabbah",
+   "title": "Siege of Rabbah",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Samuel 11–12",
+   "intro": "While Joab besieges the Ammonite capital, David stays in Jerusalem.",
+   "timeline": [
+    "KINGS-3"
+   ],
+   "steps": [
+    {
+     "ref": "2 Samuel 11:1",
+     "refs": [
+      "2 Samuel 11:1"
+     ],
+     "note": "David sends Joab out in the spring",
+     "ch": [
+      [
+       "2Sa",
+       11,
+       1,
+       11,
+       1
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "2 Samuel 11:1; 12:26–29",
+     "refs": [
+      "2 Samuel 11:1",
+      "2 Samuel 12:26–29"
+     ],
+     "note": "Rabbah is besieged and taken",
+     "ch": [
+      [
+       "2Sa",
+       11,
+       1,
+       11,
+       1
+      ],
+      [
+       "2Sa",
+       12,
+       26,
+       12,
+       29
+      ]
+     ],
+     "place": "ae067b5",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "aram",
+   "title": "Ahab’s wars with Aram",
+   "kind": "war",
+   "testament": "OT",
+   "span": "1 Kings 20; 22",
+   "intro": "Ben-hadad besieges Samaria and is beaten at Aphek; Ahab later dies at Ramoth-gilead.",
+   "timeline": [
+    "KINGS-21"
+   ],
+   "steps": [
+    {
+     "ref": "1 Kings 20:1",
+     "refs": [
+      "1 Kings 20:1"
+     ],
+     "note": "Ben-hadad of Damascus gathers his army",
+     "ch": [
+      [
+       "1Ki",
+       20,
+       1,
+       20,
+       1
+      ]
+     ],
+     "place": "a69c1d4",
+     "enemy": true
+    },
+    {
+     "ref": "1 Kings 20:1–21",
+     "refs": [
+      "1 Kings 20:1–21"
+     ],
+     "note": "Siege of Samaria; Aram is routed",
+     "ch": [
+      [
+       "1Ki",
+       20,
+       1,
+       20,
+       21
+      ]
+     ],
+     "place": "a041bb3",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "1 Kings 20:26–30",
+     "refs": [
+      "1 Kings 20:26–30"
+     ],
+     "note": "Aram defeated again at Aphek",
+     "ch": [
+      [
+       "1Ki",
+       20,
+       26,
+       20,
+       30
+      ]
+     ],
+     "place": "a6fc60d",
+     "battle": true
+    },
+    {
+     "ref": "1 Kings 22:10",
+     "refs": [
+      "1 Kings 22:10"
+     ],
+     "note": "Ahab and Jehoshaphat at Samaria",
+     "ch": [
+      [
+       "1Ki",
+       22,
+       10,
+       22,
+       10
+      ]
+     ],
+     "place": "a041bb3",
+     "jump": true
+    },
+    {
+     "ref": "1 Kings 22:29–35",
+     "refs": [
+      "1 Kings 22:29–35"
+     ],
+     "note": "Ahab is killed at Ramoth-gilead",
+     "ch": [
+      [
+       "1Ki",
+       22,
+       29,
+       22,
+       35
+      ]
+     ],
+     "place": "a2fe63c",
+     "battle": true
+    },
+    {
+     "ref": "1 Kings 22:37",
+     "refs": [
+      "1 Kings 22:37"
+     ],
+     "note": "He is buried in Samaria",
+     "ch": [
+      [
+       "1Ki",
+       22,
+       37,
+       22,
+       37
+      ]
+     ],
+     "place": "a041bb3"
+    }
+   ]
+  },
+  {
+   "id": "mesha",
+   "title": "War against Mesha of Moab",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Kings 3",
+   "intro": "Israel, Judah and Edom go round by the wilderness of Edom to attack Moab.",
+   "timeline": [
+    "KINGS-26"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 3:6",
+     "refs": [
+      "2 Kings 3:6"
+     ],
+     "note": "Jehoram musters Israel at Samaria",
+     "ch": [
+      [
+       "2Ki",
+       3,
+       6,
+       3,
+       6
+      ]
+     ],
+     "place": "a041bb3"
+    },
+    {
+     "ref": "2 Kings 3:8–20",
+     "refs": [
+      "2 Kings 3:8–20"
+     ],
+     "note": "Seven days through the wilderness of Edom",
+     "ch": [
+      [
+       "2Ki",
+       3,
+       8,
+       3,
+       20
+      ]
+     ],
+     "place": "a2735ff"
+    },
+    {
+     "ref": "2 Kings 3:25–27",
+     "refs": [
+      "2 Kings 3:25–27"
+     ],
+     "note": "The siege of Kir-hareseth",
+     "ch": [
+      [
+       "2Ki",
+       3,
+       25,
+       3,
+       27
+      ]
+     ],
+     "place": "ab55371",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "jehu",
+   "title": "Jehu’s revolt",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Kings 9–10",
+   "intro": "Anointed at Ramoth-gilead, Jehu drives to Jezreel and destroys the house of Ahab.",
+   "timeline": [
+    "KINGS-29"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 9:1–13",
+     "refs": [
+      "2 Kings 9:1–13"
+     ],
+     "note": "Jehu is anointed at Ramoth-gilead",
+     "ch": [
+      [
+       "2Ki",
+       9,
+       1,
+       9,
+       13
+      ]
+     ],
+     "place": "a2fe63c"
+    },
+    {
+     "ref": "2 Kings 9:16–37",
+     "refs": [
+      "2 Kings 9:16–37"
+     ],
+     "note": "Joram and Jezebel are killed at Jezreel",
+     "ch": [
+      [
+       "2Ki",
+       9,
+       16,
+       9,
+       37
+      ]
+     ],
+     "place": "ae0bf4a",
+     "battle": true
+    },
+    {
+     "ref": "2 Kings 10:17",
+     "refs": [
+      "2 Kings 10:17"
+     ],
+     "note": "He strikes Ahab’s house in Samaria",
+     "ch": [
+      [
+       "2Ki",
+       10,
+       17,
+       10,
+       17
+      ]
+     ],
+     "place": "a041bb3",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "jehoshaphat",
+   "title": "Jehoshaphat at the Valley of Beracah",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Chronicles 20",
+   "intro": "Moab, Ammon and Mount Seir come up by En-gedi; Judah goes out singing.",
+   "timeline": [
+    "KINGS-22"
+   ],
+   "steps": [
+    {
+     "ref": "2 Chronicles 20:2",
+     "refs": [
+      "2 Chronicles 20:2"
+     ],
+     "note": "A great army at Hazazon-tamar, that is En-gedi",
+     "ch": [
+      [
+       "2Ch",
+       20,
+       2,
+       20,
+       2
+      ]
+     ],
+     "place": "a51df0e",
+     "enemy": true
+    },
+    {
+     "ref": "2 Chronicles 20:16",
+     "refs": [
+      "2 Chronicles 20:16"
+     ],
+     "note": "They come up by the ascent of Ziz",
+     "ch": [
+      [
+       "2Ch",
+       20,
+       16,
+       20,
+       16
+      ]
+     ],
+     "place": "a4446f1",
+     "enemy": true
+    },
+    {
+     "ref": "2 Chronicles 20:20",
+     "refs": [
+      "2 Chronicles 20:20"
+     ],
+     "note": "Judah sets out from Jerusalem",
+     "ch": [
+      [
+       "2Ch",
+       20,
+       20,
+       20,
+       20
+      ]
+     ],
+     "place": "a15257a",
+     "jump": true
+    },
+    {
+     "ref": "2 Chronicles 20:20–23",
+     "refs": [
+      "2 Chronicles 20:20–23"
+     ],
+     "note": "The enemies destroy one another near Tekoa",
+     "ch": [
+      [
+       "2Ch",
+       20,
+       20,
+       20,
+       23
+      ]
+     ],
+     "place": "a2e3aa0",
+     "battle": true
+    },
+    {
+     "ref": "2 Chronicles 20:26",
+     "refs": [
+      "2 Chronicles 20:26"
+     ],
+     "note": "Blessing in the Valley of Beracah",
+     "ch": [
+      [
+       "2Ch",
+       20,
+       26,
+       20,
+       26
+      ]
+     ],
+     "place": "a71f834"
+    },
+    {
+     "ref": "2 Chronicles 20:27–28",
+     "refs": [
+      "2 Chronicles 20:27–28"
+     ],
+     "note": "They return to Jerusalem with joy",
+     "ch": [
+      [
+       "2Ch",
+       20,
+       27,
+       20,
+       28
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "samaria-falls",
+   "title": "Fall of Samaria",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Kings 17",
+   "intro": "Assyria besieges Samaria for three years and takes it.",
+   "timeline": [
+    "ASSYR-6",
+    "ASSYR-4"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 17:3",
+     "refs": [
+      "2 Kings 17:3"
+     ],
+     "note": "Shalmaneser king of Assyria comes up",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       3,
+       17,
+       3
+      ]
+     ],
+     "place": "a70fd5d",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:5–6",
+     "refs": [
+      "2 Kings 17:5–6"
+     ],
+     "note": "Samaria is besieged three years and falls",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       5,
+       17,
+       6
+      ]
+     ],
+     "place": "a041bb3",
+     "battle": true,
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "sennacherib",
+   "title": "Sennacherib’s invasion of Judah",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Kings 18–19; Isaiah 36–37",
+   "intro": "Assyria takes Lachish and threatens Jerusalem, then withdraws.",
+   "timeline": [
+    "ASSYR-12"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 18:13",
+     "refs": [
+      "2 Kings 18:13"
+     ],
+     "note": "Sennacherib comes against the fortified cities of Judah",
+     "ch": [
+      [
+       "2Ki",
+       18,
+       13,
+       18,
+       13
+      ]
+     ],
+     "place": "a70fd5d",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 18:14–17",
+     "refs": [
+      "2 Kings 18:14–17"
+     ],
+     "note": "Siege of Lachish; envoys sent to Jerusalem",
+     "ch": [
+      [
+       "2Ki",
+       18,
+       14,
+       18,
+       17
+      ]
+     ],
+     "place": "a3cc590",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 18:17 – 19:35",
+     "refs": [
+      "2 Kings 18:17 – 19:35"
+     ],
+     "note": "Jerusalem threatened; the angel strikes the camp",
+     "ch": [
+      [
+       "2Ki",
+       18,
+       17,
+       19,
+       35
+      ]
+     ],
+     "place": "a15257a",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 19:8",
+     "refs": [
+      "2 Kings 19:8"
+     ],
+     "note": "The king fights against Libnah",
+     "ch": [
+      [
+       "2Ki",
+       19,
+       8,
+       19,
+       8
+      ]
+     ],
+     "place": "a97b595",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 19:36",
+     "refs": [
+      "2 Kings 19:36"
+     ],
+     "note": "Sennacherib returns to Nineveh",
+     "ch": [
+      [
+       "2Ki",
+       19,
+       36,
+       19,
+       36
+      ]
+     ],
+     "place": "a70fd5d",
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "megiddo",
+   "title": "Josiah falls at Megiddo",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Kings 23:29–30; 2 Chronicles 35:20–24",
+   "intro": "Pharaoh Neco marches north toward Carchemish; Josiah goes out to stop him.",
+   "timeline": [
+    "BABYLON-6"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 23:29",
+     "refs": [
+      "2 Kings 23:29"
+     ],
+     "note": "Pharaoh Neco marches out of Egypt",
+     "ch": [
+      [
+       "2Ki",
+       23,
+       29,
+       23,
+       29
+      ]
+     ],
+     "place": "af301ca",
+     "enemy": true
+    },
+    {
+     "ref": "2 Chronicles 35:22–23",
+     "refs": [
+      "2 Chronicles 35:22–23"
+     ],
+     "note": "Battle in the plain of Megiddo",
+     "ch": [
+      [
+       "2Ch",
+       35,
+       22,
+       35,
+       23
+      ]
+     ],
+     "place": "a8554e3",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Chronicles 35:20",
+     "refs": [
+      "2 Chronicles 35:20"
+     ],
+     "note": "Neco presses on toward Carchemish",
+     "ch": [
+      [
+       "2Ch",
+       35,
+       20,
+       35,
+       20
+      ]
+     ],
+     "place": "af6c730",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 23:29",
+     "refs": [
+      "2 Kings 23:29"
+     ],
+     "note": "Josiah sets out from Jerusalem",
+     "ch": [
+      [
+       "2Ki",
+       23,
+       29,
+       23,
+       29
+      ]
+     ],
+     "place": "a15257a",
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 23:29",
+     "refs": [
+      "2 Kings 23:29"
+     ],
+     "note": "Josiah is killed at Megiddo",
+     "ch": [
+      [
+       "2Ki",
+       23,
+       29,
+       23,
+       29
+      ]
+     ],
+     "place": "a8554e3",
+     "battle": true
+    },
+    {
+     "ref": "2 Kings 23:30",
+     "refs": [
+      "2 Kings 23:30"
+     ],
+     "note": "He is carried back to Jerusalem and buried",
+     "ch": [
+      [
+       "2Ki",
+       23,
+       30,
+       23,
+       30
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "carchemish",
+   "title": "Battle of Carchemish",
+   "kind": "war",
+   "testament": "OT",
+   "span": "Jeremiah 46:2",
+   "intro": "Babylon defeats Egypt on the Euphrates in the fourth year of Jehoiakim.",
+   "timeline": [
+    "BABYLON-8"
+   ],
+   "steps": [
+    {
+     "ref": "Jeremiah 46:2",
+     "refs": [
+      "Jeremiah 46:2"
+     ],
+     "note": "Pharaoh Neco’s army",
+     "ch": [
+      [
+       "Jer",
+       46,
+       2,
+       46,
+       2
+      ]
+     ],
+     "place": "af301ca",
+     "enemy": true
+    },
+    {
+     "ref": "Jeremiah 46:2–12",
+     "refs": [
+      "Jeremiah 46:2–12"
+     ],
+     "note": "Egypt is defeated at Carchemish",
+     "ch": [
+      [
+       "Jer",
+       46,
+       2,
+       46,
+       12
+      ]
+     ],
+     "place": "af6c730",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "Jeremiah 46:2",
+     "refs": [
+      "Jeremiah 46:2"
+     ],
+     "note": "Nebuchadnezzar of Babylon",
+     "ch": [
+      [
+       "Jer",
+       46,
+       2,
+       46,
+       2
+      ]
+     ],
+     "place": "a217d18",
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "Jeremiah 46:2",
+     "refs": [
+      "Jeremiah 46:2"
+     ],
+     "note": "His victory by the Euphrates",
+     "ch": [
+      [
+       "Jer",
+       46,
+       2,
+       46,
+       2
+      ]
+     ],
+     "place": "af6c730",
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "jerusalem-falls",
+   "title": "Babylon conquers Judah",
+   "kind": "war",
+   "testament": "OT",
+   "span": "2 Kings 24–25; Jeremiah 34; 39; 52",
+   "intro": "Nebuchadnezzar takes Jerusalem, then besieges and destroys it; Zedekiah is judged at Riblah.",
+   "timeline": [
+    "BABYLON-14",
+    "BABYLON-12"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 24:10",
+     "refs": [
+      "2 Kings 24:10"
+     ],
+     "note": "Nebuchadnezzar’s army comes up",
+     "ch": [
+      [
+       "2Ki",
+       24,
+       10,
+       24,
+       10
+      ]
+     ],
+     "place": "a217d18",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 24:10–16",
+     "refs": [
+      "2 Kings 24:10–16"
+     ],
+     "note": "First capture; Jehoiachin is taken to Babylon",
+     "ch": [
+      [
+       "2Ki",
+       24,
+       10,
+       24,
+       16
+      ]
+     ],
+     "place": "a15257a",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "Jeremiah 34:7",
+     "refs": [
+      "Jeremiah 34:7"
+     ],
+     "note": "Lachish holds out",
+     "ch": [
+      [
+       "Jer",
+       34,
+       7,
+       34,
+       7
+      ]
+     ],
+     "place": "a3cc590",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "Jeremiah 34:7",
+     "refs": [
+      "Jeremiah 34:7"
+     ],
+     "note": "and Azekah",
+     "ch": [
+      [
+       "Jer",
+       34,
+       7,
+       34,
+       7
+      ]
+     ],
+     "place": "af2ca0c",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 25:1–10",
+     "refs": [
+      "2 Kings 25:1–10"
+     ],
+     "note": "Jerusalem is besieged, breached and burned",
+     "ch": [
+      [
+       "2Ki",
+       25,
+       1,
+       25,
+       10
+      ]
+     ],
+     "place": "a15257a",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 25:5",
+     "refs": [
+      "2 Kings 25:5"
+     ],
+     "note": "Zedekiah is caught in the plains of Jericho",
+     "ch": [
+      [
+       "2Ki",
+       25,
+       5,
+       25,
+       5
+      ]
+     ],
+     "place": "a231f80",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 25:6–7",
+     "refs": [
+      "2 Kings 25:6–7"
+     ],
+     "note": "He is judged at Riblah",
+     "ch": [
+      [
+       "2Ki",
+       25,
+       6,
+       25,
+       7
+      ]
+     ],
+     "place": "ab2bde8",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 25:7",
+     "refs": [
+      "2 Kings 25:7"
+     ],
+     "note": "He is taken in chains to Babylon",
+     "ch": [
+      [
+       "2Ki",
+       25,
+       7,
+       25,
+       7
+      ]
+     ],
+     "place": "a217d18",
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "to-egypt",
+   "title": "Israel goes down to Egypt",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "Genesis 46–47",
+   "intro": "Jacob’s household, seventy persons, settles in Goshen.",
+   "timeline": [
+    "PSTFLOOD-14"
+   ],
+   "steps": [
+    {
+     "ref": "Genesis 37:14",
+     "refs": [
+      "Genesis 37:14"
+     ],
+     "note": "The family’s home near Hebron",
+     "ch": [
+      [
+       "Gen",
+       37,
+       14,
+       37,
+       14
+      ]
+     ],
+     "place": "a85151a"
+    },
+    {
+     "ref": "Genesis 46:1–4",
+     "refs": [
+      "Genesis 46:1–4"
+     ],
+     "note": "Sacrifices at Beersheba; “Do not be afraid to go down”",
+     "ch": [
+      [
+       "Gen",
+       46,
+       1,
+       46,
+       4
+      ]
+     ],
+     "place": "ad2f6c2"
+    },
+    {
+     "ref": "Genesis 46:28–47:6",
+     "refs": [
+      "Genesis 46:28–47:6"
+     ],
+     "note": "Joseph meets Jacob; they settle in Goshen",
+     "ch": [
+      [
+       "Gen",
+       46,
+       28,
+       47,
+       6
+      ]
+     ],
+     "place": "a60f092"
+    }
+   ]
+  },
+  {
+   "id": "exodus",
+   "title": "The Exodus and the wilderness",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "Exodus 12 – Joshua 4",
+   "intro": "Many stations are uncertain. This follows Numbers 33 using leading identifications.",
+   "timeline": [
+    "WILDRNSS-1",
+    "WILDRNSS-2",
+    "PROMLAND-2"
+   ],
+   "steps": [
+    {
+     "ref": "Exodus 12:37",
+     "refs": [
+      "Exodus 12:37"
+     ],
+     "note": "Israel sets out from Rameses",
+     "ch": [
+      [
+       "Exo",
+       12,
+       37,
+       12,
+       37
+      ]
+     ],
+     "place": "a079b21"
+    },
+    {
+     "ref": "Exodus 12:37",
+     "refs": [
+      "Exodus 12:37"
+     ],
+     "note": "First camp at Succoth",
+     "ch": [
+      [
+       "Exo",
+       12,
+       37,
+       12,
+       37
+      ]
+     ],
+     "place": "aa28709"
+    },
+    {
+     "ref": "Exodus 13:20",
+     "refs": [
+      "Exodus 13:20"
+     ],
+     "note": "Camp at Etham, at the edge of the wilderness",
+     "ch": [
+      [
+       "Exo",
+       13,
+       20,
+       13,
+       20
+      ]
+     ],
+     "place": "a27d0e0"
+    },
+    {
+     "ref": "Exodus 14:2",
+     "refs": [
+      "Exodus 14:2"
+     ],
+     "note": "Camp by the sea at Pi-hahiroth; the sea is crossed",
+     "ch": [
+      [
+       "Exo",
+       14,
+       2,
+       14,
+       2
+      ]
+     ],
+     "place": "ababfd2"
+    },
+    {
+     "ref": "Exodus 15:23",
+     "refs": [
+      "Exodus 15:23"
+     ],
+     "note": "Bitter water made sweet at Marah",
+     "ch": [
+      [
+       "Exo",
+       15,
+       23,
+       15,
+       23
+      ]
+     ],
+     "place": "ad3970d"
+    },
+    {
+     "ref": "Exodus 15:27",
+     "refs": [
+      "Exodus 15:27"
+     ],
+     "note": "Twelve springs and seventy palms at Elim",
+     "ch": [
+      [
+       "Exo",
+       15,
+       27,
+       15,
+       27
+      ]
+     ],
+     "place": "a2410c1"
+    },
+    {
+     "ref": "Exodus 16:1",
+     "refs": [
+      "Exodus 16:1"
+     ],
+     "note": "Manna in the wilderness of Sin",
+     "ch": [
+      [
+       "Exo",
+       16,
+       1,
+       16,
+       1
+      ]
+     ],
+     "place": "a0f54e4"
+    },
+    {
+     "ref": "Exodus 17:1",
+     "refs": [
+      "Exodus 17:1"
+     ],
+     "note": "Water from the rock; battle with Amalek",
+     "ch": [
+      [
+       "Exo",
+       17,
+       1,
+       17,
+       1
+      ]
+     ],
+     "place": "a05ebb7"
+    },
+    {
+     "ref": "Exodus 19:1–2",
+     "refs": [
+      "Exodus 19:1–2"
+     ],
+     "note": "The covenant at Mount Sinai",
+     "ch": [
+      [
+       "Exo",
+       19,
+       1,
+       19,
+       2
+      ]
+     ],
+     "place": "abfba2a"
+    },
+    {
+     "ref": "Numbers 13:26",
+     "refs": [
+      "Numbers 13:26"
+     ],
+     "note": "The spies report at Kadesh",
+     "ch": [
+      [
+       "Num",
+       13,
+       26,
+       13,
+       26
+      ]
+     ],
+     "place": "ac2cef0"
+    },
+    {
+     "ref": "Numbers 33:35",
+     "refs": [
+      "Numbers 33:35"
+     ],
+     "note": "Camp at Ezion-geber",
+     "ch": [
+      [
+       "Num",
+       33,
+       35,
+       33,
+       35
+      ]
+     ],
+     "place": "a8e53d5"
+    },
+    {
+     "ref": "Numbers 33:36",
+     "refs": [
+      "Numbers 33:36"
+     ],
+     "note": "Back to Kadesh, in the wilderness of Zin",
+     "ch": [
+      [
+       "Num",
+       33,
+       36,
+       33,
+       36
+      ]
+     ],
+     "place": "ac2cef0"
+    },
+    {
+     "ref": "Numbers 20:22–28",
+     "refs": [
+      "Numbers 20:22–28"
+     ],
+     "note": "Aaron dies on Mount Hor",
+     "ch": [
+      [
+       "Num",
+       20,
+       22,
+       20,
+       28
+      ]
+     ],
+     "place": "ad8027f"
+    },
+    {
+     "ref": "Numbers 21:13",
+     "refs": [
+      "Numbers 21:13"
+     ],
+     "note": "Around Edom and Moab to the Arnon",
+     "ch": [
+      [
+       "Num",
+       21,
+       13,
+       21,
+       13
+      ]
+     ],
+     "place": "a4cc324"
+    },
+    {
+     "ref": "Numbers 33:49",
+     "refs": [
+      "Numbers 33:49"
+     ],
+     "note": "Camp in the plains of Moab at Abel-shittim",
+     "ch": [
+      [
+       "Num",
+       33,
+       49,
+       33,
+       49
+      ]
+     ],
+     "place": "a51d1fa"
+    },
+    {
+     "ref": "Deuteronomy 34:1",
+     "refs": [
+      "Deuteronomy 34:1"
+     ],
+     "note": "Moses views the land from Mount Nebo",
+     "ch": [
+      [
+       "Deu",
+       34,
+       1,
+       34,
+       1
+      ]
+     ],
+     "place": "aefaa2d"
+    },
+    {
+     "ref": "Joshua 3:16–17",
+     "refs": [
+      "Joshua 3:16–17"
+     ],
+     "note": "Israel crosses the Jordan",
+     "ch": [
+      [
+       "Jos",
+       3,
+       16,
+       3,
+       17
+      ]
+     ],
+     "place": "ae686c9"
+    },
+    {
+     "ref": "Joshua 4:19",
+     "refs": [
+      "Joshua 4:19"
+     ],
+     "note": "First camp in the land at Gilgal",
+     "ch": [
+      [
+       "Jos",
+       4,
+       19,
+       4,
+       19
+      ]
+     ],
+     "place": "ab94aea"
+    }
+   ]
+  },
+  {
+   "id": "east-tribes",
+   "title": "Reuben, Gad and half Manasseh settle east of the Jordan",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "Numbers 32; Joshua 13",
+   "intro": "Two and a half tribes ask for the cattle country of Gilead and Bashan.",
+   "route": false,
+   "timeline": [
+    "WILDRNSS-2"
+   ],
+   "steps": [
+    {
+     "ref": "Numbers 32:1",
+     "refs": [
+      "Numbers 32:1"
+     ],
+     "note": "The land of Jazer and Gilead, good for cattle",
+     "ch": [
+      [
+       "Num",
+       32,
+       1,
+       32,
+       1
+      ]
+     ],
+     "place": "a095b6e"
+    },
+    {
+     "ref": "Numbers 32:37",
+     "refs": [
+      "Numbers 32:37"
+     ],
+     "note": "Reuben rebuilds Heshbon",
+     "ch": [
+      [
+       "Num",
+       32,
+       37,
+       32,
+       37
+      ]
+     ],
+     "place": "abf2fc1"
+    },
+    {
+     "ref": "Numbers 32:39–40",
+     "refs": [
+      "Numbers 32:39–40"
+     ],
+     "note": "Machir son of Manasseh takes Gilead",
+     "ch": [
+      [
+       "Num",
+       32,
+       39,
+       32,
+       40
+      ]
+     ],
+     "place": "ae73b90"
+    },
+    {
+     "ref": "Deuteronomy 3:13",
+     "refs": [
+      "Deuteronomy 3:13"
+     ],
+     "note": "Half Manasseh receives Bashan",
+     "ch": [
+      [
+       "Deu",
+       3,
+       13,
+       3,
+       13
+      ]
+     ],
+     "place": "aa7a40a"
+    }
+   ]
+  },
+  {
+   "id": "dan",
+   "title": "The tribe of Dan moves north",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "Judges 18",
+   "intro": "Unable to hold its land, Dan sends out spies and resettles at Laish.",
+   "timeline": [
+    "PROMLAND-5"
+   ],
+   "steps": [
+    {
+     "ref": "Judges 18:2",
+     "refs": [
+      "Judges 18:2"
+     ],
+     "note": "Spies set out from Zorah",
+     "ch": [
+      [
+       "Jdg",
+       18,
+       2,
+       18,
+       2
+      ]
+     ],
+     "place": "a08174b"
+    },
+    {
+     "ref": "Judges 18:11",
+     "refs": [
+      "Judges 18:11"
+     ],
+     "note": "Six hundred armed men leave Eshtaol",
+     "ch": [
+      [
+       "Jdg",
+       18,
+       11,
+       18,
+       11
+      ]
+     ],
+     "place": "a355b6e"
+    },
+    {
+     "ref": "Judges 18:12",
+     "refs": [
+      "Judges 18:12"
+     ],
+     "note": "They camp at Mahaneh-dan near Kiriath-jearim",
+     "ch": [
+      [
+       "Jdg",
+       18,
+       12,
+       18,
+       12
+      ]
+     ],
+     "place": "ab3fd96"
+    },
+    {
+     "ref": "Judges 18:13–20",
+     "refs": [
+      "Judges 18:13–20"
+     ],
+     "note": "They take Micah’s idols in the hill country of Ephraim",
+     "ch": [
+      [
+       "Jdg",
+       18,
+       13,
+       18,
+       20
+      ]
+     ],
+     "place": "ac0d1a5"
+    },
+    {
+     "ref": "Judges 18:27–29",
+     "refs": [
+      "Judges 18:27–29"
+     ],
+     "note": "They burn Laish and rebuild it as Dan",
+     "ch": [
+      [
+       "Jdg",
+       18,
+       27,
+       18,
+       29
+      ]
+     ],
+     "place": "a513646",
+     "battle": true
+    }
+   ]
+  },
+  {
+   "id": "divided",
+   "title": "The kingdom divides",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "1 Kings 12",
+   "intro": "Ten tribes reject Rehoboam at Shechem; Jeroboam sets up shrines at Bethel and Dan.",
+   "route": false,
+   "timeline": [
+    "KINGS-11"
+   ],
+   "steps": [
+    {
+     "ref": "1 Kings 12:1–16",
+     "refs": [
+      "1 Kings 12:1–16"
+     ],
+     "note": "All Israel gathers at Shechem; the ten tribes revolt",
+     "ch": [
+      [
+       "1Ki",
+       12,
+       1,
+       12,
+       16
+      ]
+     ],
+     "place": "adf74d4"
+    },
+    {
+     "ref": "1 Kings 12:18–21",
+     "refs": [
+      "1 Kings 12:18–21"
+     ],
+     "note": "Rehoboam flees to Jerusalem; Judah and Benjamin stay with him",
+     "ch": [
+      [
+       "1Ki",
+       12,
+       18,
+       12,
+       21
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "1 Kings 12:29",
+     "refs": [
+      "1 Kings 12:29"
+     ],
+     "note": "Jeroboam’s golden calf at Bethel",
+     "ch": [
+      [
+       "1Ki",
+       12,
+       29,
+       12,
+       29
+      ]
+     ],
+     "place": "a64f355"
+    },
+    {
+     "ref": "1 Kings 12:29",
+     "refs": [
+      "1 Kings 12:29"
+     ],
+     "note": "and at Dan",
+     "ch": [
+      [
+       "1Ki",
+       12,
+       29,
+       12,
+       29
+      ]
+     ],
+     "place": "a513646"
+    }
+   ]
+  },
+  {
+   "id": "north-exile-1",
+   "title": "The northern tribes deported by Tiglath-pileser",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "2 Kings 15:29; 1 Chronicles 5:26",
+   "intro": "Galilee and Gilead are taken; Reuben, Gad and half Manasseh are carried to Assyria.",
+   "timeline": [
+    "KINGS-46"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 15:29",
+     "refs": [
+      "2 Kings 15:29"
+     ],
+     "note": "Ijon is captured",
+     "ch": [
+      [
+       "2Ki",
+       15,
+       29,
+       15,
+       29
+      ]
+     ],
+     "place": "a062b95",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 15:29",
+     "refs": [
+      "2 Kings 15:29"
+     ],
+     "note": "Abel-beth-maacah",
+     "ch": [
+      [
+       "2Ki",
+       15,
+       29,
+       15,
+       29
+      ]
+     ],
+     "place": "abffcaa",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 15:29",
+     "refs": [
+      "2 Kings 15:29"
+     ],
+     "note": "Hazor",
+     "ch": [
+      [
+       "2Ki",
+       15,
+       29,
+       15,
+       29
+      ]
+     ],
+     "place": "a6f33c5",
+     "battle": true,
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 15:29",
+     "refs": [
+      "2 Kings 15:29"
+     ],
+     "note": "Gilead and Galilee, all the land of Naphtali",
+     "ch": [
+      [
+       "2Ki",
+       15,
+       29,
+       15,
+       29
+      ]
+     ],
+     "place": "ae73b90",
+     "enemy": true
+    },
+    {
+     "ref": "1 Chronicles 5:26",
+     "refs": [
+      "1 Chronicles 5:26"
+     ],
+     "note": "Carried away to Hara and the river Gozan",
+     "ch": [
+      [
+       "1Ch",
+       5,
+       26,
+       5,
+       26
+      ]
+     ],
+     "place": "a924b16",
+     "enemy": true
+    },
+    {
+     "ref": "1 Chronicles 5:26",
+     "refs": [
+      "1 Chronicles 5:26"
+     ],
+     "note": "and to Halah",
+     "ch": [
+      [
+       "1Ch",
+       5,
+       26,
+       5,
+       26
+      ]
+     ],
+     "place": "abf176f",
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "north-exile-2",
+   "title": "Israel carried away to Assyria",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "2 Kings 17:6; 18:11",
+   "intro": "After Samaria falls, its people are settled in Mesopotamia and Media.",
+   "timeline": [
+    "ASSYR-6"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 17:6",
+     "refs": [
+      "2 Kings 17:6"
+     ],
+     "note": "Samaria is taken",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       6,
+       17,
+       6
+      ]
+     ],
+     "place": "a041bb3",
+     "battle": true
+    },
+    {
+     "ref": "2 Kings 17:6",
+     "refs": [
+      "2 Kings 17:6"
+     ],
+     "note": "Settled on the Habor, the river of Gozan",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       6,
+       17,
+       6
+      ]
+     ],
+     "place": "a924b16",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:6",
+     "refs": [
+      "2 Kings 17:6"
+     ],
+     "note": "in Halah",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       6,
+       17,
+       6
+      ]
+     ],
+     "place": "abf176f",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:6",
+     "refs": [
+      "2 Kings 17:6"
+     ],
+     "note": "and in the cities of the Medes",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       6,
+       17,
+       6
+      ]
+     ],
+     "place": "ad2fadf",
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "resettled",
+   "title": "Foreigners settled in Samaria",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "2 Kings 17:24",
+   "intro": "Assyria brings peoples from five places to live in the cities of Samaria.",
+   "timeline": [
+    "ASSYR-15"
+   ],
+   "steps": [
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "From Babylon",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a217d18",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "to the cities of Samaria",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a041bb3",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "From Cuthah",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a538831",
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "to Samaria",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a041bb3",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "From Avva",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a4b500d",
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "to Samaria",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a041bb3",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "From Hamath",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "ac62cbc",
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "to Samaria",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a041bb3",
+     "enemy": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "From Sepharvaim",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a282c15",
+     "enemy": true,
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 17:24",
+     "refs": [
+      "2 Kings 17:24"
+     ],
+     "note": "to Samaria",
+     "ch": [
+      [
+       "2Ki",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "a041bb3",
+     "enemy": true
+    }
+   ]
+  },
+  {
+   "id": "judah-exile",
+   "title": "Judah carried away to Babylon",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "2 Kings 24–25; Daniel 1",
+   "intro": "The route is schematic: travellers followed the Euphrates rather than crossing the desert.",
+   "timeline": [
+    "BABYLON-10",
+    "BABYLON-12",
+    "BABYLON-14"
+   ],
+   "steps": [
+    {
+     "ref": "Daniel 1:1–6",
+     "refs": [
+      "Daniel 1:1–6"
+     ],
+     "note": "Daniel and others taken in Jehoiakim’s third year",
+     "ch": [
+      [
+       "Dan",
+       1,
+       1,
+       1,
+       6
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Daniel 1:1–6",
+     "refs": [
+      "Daniel 1:1–6"
+     ],
+     "note": "They serve in the king’s court in Babylon",
+     "ch": [
+      [
+       "Dan",
+       1,
+       1,
+       1,
+       6
+      ]
+     ],
+     "place": "a217d18"
+    },
+    {
+     "ref": "2 Kings 24:14–16",
+     "refs": [
+      "2 Kings 24:14–16"
+     ],
+     "note": "Jehoiachin and ten thousand captives",
+     "ch": [
+      [
+       "2Ki",
+       24,
+       14,
+       24,
+       16
+      ]
+     ],
+     "place": "a15257a",
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 24:15",
+     "refs": [
+      "2 Kings 24:15"
+     ],
+     "note": "are carried to Babylon",
+     "ch": [
+      [
+       "2Ki",
+       24,
+       15,
+       24,
+       15
+      ]
+     ],
+     "place": "a217d18"
+    },
+    {
+     "ref": "2 Kings 25:11",
+     "refs": [
+      "2 Kings 25:11"
+     ],
+     "note": "The rest of the people after the city burns",
+     "ch": [
+      [
+       "2Ki",
+       25,
+       11,
+       25,
+       11
+      ]
+     ],
+     "place": "a15257a",
+     "jump": true
+    },
+    {
+     "ref": "2 Kings 25:11",
+     "refs": [
+      "2 Kings 25:11"
+     ],
+     "note": "are carried away to Babylon",
+     "ch": [
+      [
+       "2Ki",
+       25,
+       11,
+       25,
+       11
+      ]
+     ],
+     "place": "a217d18"
+    }
+   ]
+  },
+  {
+   "id": "flight-egypt",
+   "title": "The remnant flees to Egypt",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "Jeremiah 41–43",
+   "intro": "After Gedaliah is murdered, the remnant takes Jeremiah to Egypt.",
+   "timeline": [
+    "BABYLON-16"
+   ],
+   "steps": [
+    {
+     "ref": "Jeremiah 41:1–3",
+     "refs": [
+      "Jeremiah 41:1–3"
+     ],
+     "note": "Gedaliah is murdered at Mizpah",
+     "ch": [
+      [
+       "Jer",
+       41,
+       1,
+       41,
+       3
+      ]
+     ],
+     "place": "a736f6c"
+    },
+    {
+     "ref": "Jeremiah 41:12",
+     "refs": [
+      "Jeremiah 41:12"
+     ],
+     "note": "The captives are freed at the great pool in Gibeon",
+     "ch": [
+      [
+       "Jer",
+       41,
+       12,
+       41,
+       12
+      ]
+     ],
+     "place": "aede336"
+    },
+    {
+     "ref": "Jeremiah 41:17",
+     "refs": [
+      "Jeremiah 41:17"
+     ],
+     "note": "They stop at Geruth Chimham near Bethlehem",
+     "ch": [
+      [
+       "Jer",
+       41,
+       17,
+       41,
+       17
+      ]
+     ],
+     "place": "a1c28f1"
+    },
+    {
+     "ref": "Jeremiah 43:7",
+     "refs": [
+      "Jeremiah 43:7"
+     ],
+     "note": "They go into Egypt as far as Tahpanhes",
+     "ch": [
+      [
+       "Jer",
+       43,
+       7,
+       43,
+       7
+      ]
+     ],
+     "place": "adb008c"
+    }
+   ]
+  },
+  {
+   "id": "return",
+   "title": "The return from exile",
+   "kind": "tribes",
+   "testament": "OT",
+   "span": "Ezra 1–8; Nehemiah 2",
+   "intro": "The exiles return under Zerubbabel, then Ezra; Nehemiah comes from Susa.",
+   "timeline": [
+    "PERSIAN-10",
+    "PERSIAN-21",
+    "PERSIAN-24"
+   ],
+   "steps": [
+    {
+     "ref": "Ezra 1:11; 2:1",
+     "refs": [
+      "Ezra 1:11",
+      "Ezra 2:1"
+     ],
+     "note": "The first exiles leave Babylon",
+     "ch": [
+      [
+       "Ezr",
+       1,
+       11,
+       1,
+       11
+      ],
+      [
+       "Ezr",
+       2,
+       1,
+       2,
+       1
+      ]
+     ],
+     "place": "a217d18"
+    },
+    {
+     "ref": "Ezra 3:1–2",
+     "refs": [
+      "Ezra 3:1–2"
+     ],
+     "note": "The altar is rebuilt in Jerusalem",
+     "ch": [
+      [
+       "Ezr",
+       3,
+       1,
+       3,
+       2
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Ezra 8:15–31",
+     "refs": [
+      "Ezra 8:15–31"
+     ],
+     "note": "Ezra gathers the people by the river Ahava",
+     "ch": [
+      [
+       "Ezr",
+       8,
+       15,
+       8,
+       31
+      ]
+     ],
+     "place": "a6c3859",
+     "jump": true
+    },
+    {
+     "ref": "Ezra 8:32",
+     "refs": [
+      "Ezra 8:32"
+     ],
+     "note": "Ezra arrives in Jerusalem",
+     "ch": [
+      [
+       "Ezr",
+       8,
+       32,
+       8,
+       32
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Nehemiah 1:1; 2:1–8",
+     "refs": [
+      "Nehemiah 1:1",
+      "Nehemiah 2:1–8"
+     ],
+     "note": "Nehemiah, cupbearer at Susa",
+     "ch": [
+      [
+       "Neh",
+       1,
+       1,
+       1,
+       1
+      ],
+      [
+       "Neh",
+       2,
+       1,
+       2,
+       8
+      ]
+     ],
+     "place": "a033b84",
+     "jump": true
+    },
+    {
+     "ref": "Nehemiah 2:11",
+     "refs": [
+      "Nehemiah 2:11"
+     ],
+     "note": "Nehemiah arrives and inspects the walls",
+     "ch": [
+      [
+       "Neh",
+       2,
+       11,
+       2,
+       11
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "nativity",
+   "title": "Birth and childhood of Jesus",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Matthew 2; Luke 1–2",
+   "intro": "A harmony of Matthew and Luke.",
+   "timeline": [
+    "NT_DET-1",
+    "NT_DET-3"
+   ],
+   "steps": [
+    {
+     "ref": "Luke 1:26–27",
+     "refs": [
+      "Luke 1:26–27"
+     ],
+     "note": "The Annunciation at Nazareth",
+     "ch": [
+      [
+       "Luk",
+       1,
+       26,
+       1,
+       27
+      ]
+     ],
+     "place": "af5884f"
+    },
+    {
+     "ref": "Luke 2:4–7",
+     "refs": [
+      "Luke 2:4–7"
+     ],
+     "note": "Jesus is born in Bethlehem",
+     "ch": [
+      [
+       "Luk",
+       2,
+       4,
+       2,
+       7
+      ]
+     ],
+     "place": "a112427"
+    },
+    {
+     "ref": "Luke 2:22",
+     "refs": [
+      "Luke 2:22"
+     ],
+     "note": "The Presentation in the Temple",
+     "ch": [
+      [
+       "Luk",
+       2,
+       22,
+       2,
+       22
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Matthew 2:13–15",
+     "refs": [
+      "Matthew 2:13–15"
+     ],
+     "note": "The flight into Egypt",
+     "ch": [
+      [
+       "Mat",
+       2,
+       13,
+       2,
+       15
+      ]
+     ],
+     "place": "af301ca"
+    },
+    {
+     "ref": "Matthew 2:23",
+     "refs": [
+      "Matthew 2:23"
+     ],
+     "note": "The family settles in Nazareth",
+     "ch": [
+      [
+       "Mat",
+       2,
+       23,
+       2,
+       23
+      ]
+     ],
+     "place": "af5884f"
+    },
+    {
+     "ref": "Luke 2:41–49",
+     "refs": [
+      "Luke 2:41–49"
+     ],
+     "note": "The boy Jesus in the Temple",
+     "ch": [
+      [
+       "Luk",
+       2,
+       41,
+       2,
+       49
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Luke 2:51",
+     "refs": [
+      "Luke 2:51"
+     ],
+     "note": "He returns to Nazareth",
+     "ch": [
+      [
+       "Luk",
+       2,
+       51,
+       2,
+       51
+      ]
+     ],
+     "place": "af5884f"
+    }
+   ]
+  },
+  {
+   "id": "ministry",
+   "title": "The ministry of Jesus",
+   "kind": "people",
+   "testament": "NT",
+   "span": "The four Gospels",
+   "intro": "The order follows a common harmony; the Gospels arrange some events differently.",
+   "timeline": [
+    "NT_DET-1",
+    "NT_DET-5"
+   ],
+   "steps": [
+    {
+     "ref": "Mark 1:9",
+     "refs": [
+      "Mark 1:9"
+     ],
+     "note": "Jesus comes from Nazareth",
+     "ch": [
+      [
+       "Mar",
+       1,
+       9,
+       1,
+       9
+      ]
+     ],
+     "place": "af5884f"
+    },
+    {
+     "ref": "John 1:28",
+     "refs": [
+      "John 1:28"
+     ],
+     "note": "Baptism at Bethany beyond the Jordan",
+     "ch": [
+      [
+       "Joh",
+       1,
+       28,
+       1,
+       28
+      ]
+     ],
+     "place": "a6e060d"
+    },
+    {
+     "ref": "John 2:1–11",
+     "refs": [
+      "John 2:1–11"
+     ],
+     "note": "Water made wine at Cana",
+     "ch": [
+      [
+       "Joh",
+       2,
+       1,
+       2,
+       11
+      ]
+     ],
+     "place": "a031bda"
+    },
+    {
+     "ref": "John 2:12",
+     "refs": [
+      "John 2:12"
+     ],
+     "note": "A short stay at Capernaum",
+     "ch": [
+      [
+       "Joh",
+       2,
+       12,
+       2,
+       12
+      ]
+     ],
+     "place": "af2161c"
+    },
+    {
+     "ref": "John 2:13–16",
+     "refs": [
+      "John 2:13–16"
+     ],
+     "note": "The Temple cleansed at Passover",
+     "ch": [
+      [
+       "Joh",
+       2,
+       13,
+       2,
+       16
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "John 4:5–7",
+     "refs": [
+      "John 4:5–7"
+     ],
+     "note": "The Samaritan woman at Sychar",
+     "ch": [
+      [
+       "Joh",
+       4,
+       5,
+       4,
+       7
+      ]
+     ],
+     "place": "a27b472"
+    },
+    {
+     "ref": "John 4:46",
+     "refs": [
+      "John 4:46"
+     ],
+     "note": "The official’s son healed, from Cana",
+     "ch": [
+      [
+       "Joh",
+       4,
+       46,
+       4,
+       46
+      ]
+     ],
+     "place": "a031bda"
+    },
+    {
+     "ref": "Luke 4:16–30",
+     "refs": [
+      "Luke 4:16–30"
+     ],
+     "note": "Rejected in the synagogue at Nazareth",
+     "ch": [
+      [
+       "Luk",
+       4,
+       16,
+       4,
+       30
+      ]
+     ],
+     "place": "af5884f"
+    },
+    {
+     "ref": "Luke 4:31",
+     "refs": [
+      "Luke 4:31"
+     ],
+     "note": "Teaching and healing at Capernaum",
+     "ch": [
+      [
+       "Luk",
+       4,
+       31,
+       4,
+       31
+      ]
+     ],
+     "place": "af2161c"
+    },
+    {
+     "ref": "Luke 7:11–15",
+     "refs": [
+      "Luke 7:11–15"
+     ],
+     "note": "The widow’s son raised at Nain",
+     "ch": [
+      [
+       "Luk",
+       7,
+       11,
+       7,
+       15
+      ]
+     ],
+     "place": "aee679c"
+    },
+    {
+     "ref": "Luke 9:10–17",
+     "refs": [
+      "Luke 9:10–17"
+     ],
+     "note": "The five thousand fed near Bethsaida",
+     "ch": [
+      [
+       "Luk",
+       9,
+       10,
+       9,
+       17
+      ]
+     ],
+     "place": "a91b732"
+    },
+    {
+     "ref": "Mark 7:24–30",
+     "refs": [
+      "Mark 7:24–30"
+     ],
+     "note": "The Syrophoenician woman near Tyre",
+     "ch": [
+      [
+       "Mar",
+       7,
+       24,
+       7,
+       30
+      ]
+     ],
+     "place": "a160272"
+    },
+    {
+     "ref": "Matthew 16:13–16",
+     "refs": [
+      "Matthew 16:13–16"
+     ],
+     "note": "Peter’s confession at Caesarea Philippi",
+     "ch": [
+      [
+       "Mat",
+       16,
+       13,
+       16,
+       16
+      ]
+     ],
+     "place": "ab7bf48"
+    },
+    {
+     "ref": "Matthew 17:1–2",
+     "refs": [
+      "Matthew 17:1–2"
+     ],
+     "note": "The Transfiguration (traditionally Mount Tabor)",
+     "ch": [
+      [
+       "Mat",
+       17,
+       1,
+       17,
+       2
+      ]
+     ],
+     "place": "acd63ee"
+    },
+    {
+     "ref": "Matthew 17:24",
+     "refs": [
+      "Matthew 17:24"
+     ],
+     "note": "The Temple tax at Capernaum",
+     "ch": [
+      [
+       "Mat",
+       17,
+       24,
+       17,
+       24
+      ]
+     ],
+     "place": "af2161c"
+    },
+    {
+     "ref": "Luke 19:1–10",
+     "refs": [
+      "Luke 19:1–10"
+     ],
+     "note": "Zacchaeus at Jericho",
+     "ch": [
+      [
+       "Luk",
+       19,
+       1,
+       19,
+       10
+      ]
+     ],
+     "place": "aaf03fa"
+    },
+    {
+     "ref": "John 12:1",
+     "refs": [
+      "John 12:1"
+     ],
+     "note": "Supper at Bethany",
+     "ch": [
+      [
+       "Joh",
+       12,
+       1,
+       12,
+       1
+      ]
+     ],
+     "place": "a4f35bc"
+    },
+    {
+     "ref": "Matthew 21:10",
+     "refs": [
+      "Matthew 21:10"
+     ],
+     "note": "He enters Jerusalem",
+     "ch": [
+      [
+       "Mat",
+       21,
+       10,
+       21,
+       10
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "passion",
+   "title": "Holy Week and the Resurrection",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Matthew 21 – Acts 1",
+   "intro": "Jerusalem and its surroundings. Zoom in to separate nearby places.",
+   "timeline": [
+    "NT_DET-8"
+   ],
+   "steps": [
+    {
+     "ref": "John 12:1–3",
+     "refs": [
+      "John 12:1–3"
+     ],
+     "note": "Mary anoints Jesus at Bethany",
+     "ch": [
+      [
+       "Joh",
+       12,
+       1,
+       12,
+       3
+      ]
+     ],
+     "place": "a4f35bc"
+    },
+    {
+     "ref": "Matthew 21:1–2",
+     "refs": [
+      "Matthew 21:1–2"
+     ],
+     "note": "The colt is brought from Bethphage",
+     "ch": [
+      [
+       "Mat",
+       21,
+       1,
+       21,
+       2
+      ]
+     ],
+     "place": "abff59d"
+    },
+    {
+     "ref": "Matthew 21:10–12",
+     "refs": [
+      "Matthew 21:10–12"
+     ],
+     "note": "The entry into Jerusalem",
+     "ch": [
+      [
+       "Mat",
+       21,
+       10,
+       21,
+       12
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Matthew 24:3",
+     "refs": [
+      "Matthew 24:3"
+     ],
+     "note": "Teaching on the Mount of Olives",
+     "ch": [
+      [
+       "Mat",
+       24,
+       3,
+       24,
+       3
+      ]
+     ],
+     "place": "ac2c4c5"
+    },
+    {
+     "ref": "Matthew 26:36",
+     "refs": [
+      "Matthew 26:36"
+     ],
+     "note": "The agony in Gethsemane",
+     "ch": [
+      [
+       "Mat",
+       26,
+       36,
+       26,
+       36
+      ]
+     ],
+     "place": "a42418f"
+    },
+    {
+     "ref": "John 19:17–18",
+     "refs": [
+      "John 19:17–18"
+     ],
+     "note": "The Crucifixion at Golgotha",
+     "ch": [
+      [
+       "Joh",
+       19,
+       17,
+       19,
+       18
+      ]
+     ],
+     "place": "a631d35"
+    },
+    {
+     "ref": "Luke 24:13–31",
+     "refs": [
+      "Luke 24:13–31"
+     ],
+     "note": "The risen Christ at Emmaus",
+     "ch": [
+      [
+       "Luk",
+       24,
+       13,
+       24,
+       31
+      ]
+     ],
+     "place": "ae7274b"
+    },
+    {
+     "ref": "Luke 24:33–36",
+     "refs": [
+      "Luke 24:33–36"
+     ],
+     "note": "He appears to the disciples in Jerusalem",
+     "ch": [
+      [
+       "Luk",
+       24,
+       33,
+       24,
+       36
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Acts 1:9–12",
+     "refs": [
+      "Acts 1:9–12"
+     ],
+     "note": "The Ascension from the Mount of Olives",
+     "ch": [
+      [
+       "Act",
+       1,
+       9,
+       1,
+       12
+      ]
+     ],
+     "place": "ac2c4c5"
+    }
+   ]
+  },
+  {
+   "id": "philip",
+   "title": "Philip the evangelist",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 8",
+   "intro": "Scattered by persecution, Philip preaches in Samaria and along the coast.",
+   "timeline": [
+    "NT_DET-10"
+   ],
+   "steps": [
+    {
+     "ref": "Acts 8:1",
+     "refs": [
+      "Acts 8:1"
+     ],
+     "note": "Persecution scatters the church from Jerusalem",
+     "ch": [
+      [
+       "Act",
+       8,
+       1,
+       8,
+       1
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Acts 8:5–8",
+     "refs": [
+      "Acts 8:5–8"
+     ],
+     "note": "Philip preaches Christ in Samaria",
+     "ch": [
+      [
+       "Act",
+       8,
+       5,
+       8,
+       8
+      ]
+     ],
+     "place": "a041bb3"
+    },
+    {
+     "ref": "Acts 8:26–39",
+     "refs": [
+      "Acts 8:26–39"
+     ],
+     "note": "The Ethiopian is baptized on the road to Gaza",
+     "ch": [
+      [
+       "Act",
+       8,
+       26,
+       8,
+       39
+      ]
+     ],
+     "place": "aa8edd2"
+    },
+    {
+     "ref": "Acts 8:40",
+     "refs": [
+      "Acts 8:40"
+     ],
+     "note": "Philip appears at Azotus",
+     "ch": [
+      [
+       "Act",
+       8,
+       40,
+       8,
+       40
+      ]
+     ],
+     "place": "a30c937"
+    },
+    {
+     "ref": "Acts 8:40",
+     "refs": [
+      "Acts 8:40"
+     ],
+     "note": "He preaches all the way to Caesarea",
+     "ch": [
+      [
+       "Act",
+       8,
+       40,
+       8,
+       40
+      ]
+     ],
+     "place": "a58735e"
+    }
+   ]
+  },
+  {
+   "id": "peter",
+   "title": "Peter goes to Cornelius",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 9–11",
+   "intro": "Peter travels down to the coast and opens the door to the Gentiles.",
+   "timeline": [],
+   "steps": [
+    {
+     "ref": "Acts 9:32",
+     "refs": [
+      "Acts 9:32"
+     ],
+     "note": "Peter travels from Jerusalem",
+     "ch": [
+      [
+       "Act",
+       9,
+       32,
+       9,
+       32
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Acts 9:32–35",
+     "refs": [
+      "Acts 9:32–35"
+     ],
+     "note": "Aeneas healed at Lydda",
+     "ch": [
+      [
+       "Act",
+       9,
+       32,
+       9,
+       35
+      ]
+     ],
+     "place": "a2c5cc7"
+    },
+    {
+     "ref": "Acts 9:36–43",
+     "refs": [
+      "Acts 9:36–43"
+     ],
+     "note": "Tabitha raised; the vision at Joppa",
+     "ch": [
+      [
+       "Act",
+       9,
+       36,
+       9,
+       43
+      ]
+     ],
+     "place": "ae023a9"
+    },
+    {
+     "ref": "Acts 10:24–48",
+     "refs": [
+      "Acts 10:24–48"
+     ],
+     "note": "Cornelius’s household receives the Spirit at Caesarea",
+     "ch": [
+      [
+       "Act",
+       10,
+       24,
+       10,
+       48
+      ]
+     ],
+     "place": "a58735e"
+    },
+    {
+     "ref": "Acts 11:2–18",
+     "refs": [
+      "Acts 11:2–18"
+     ],
+     "note": "Peter explains himself in Jerusalem",
+     "ch": [
+      [
+       "Act",
+       11,
+       2,
+       11,
+       18
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "saul",
+   "title": "Saul’s conversion and early years",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 9–11; Galatians 1",
+   "intro": "From persecutor to apostle, ending in Antioch.",
+   "timeline": [
+    "NT_DET-9",
+    "NT_DET-11",
+    "NT_DET-12"
+   ],
+   "steps": [
+    {
+     "ref": "Acts 9:1–2",
+     "refs": [
+      "Acts 9:1–2"
+     ],
+     "note": "Saul sets out from Jerusalem",
+     "ch": [
+      [
+       "Act",
+       9,
+       1,
+       9,
+       2
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Acts 9:3–8",
+     "refs": [
+      "Acts 9:3–8"
+     ],
+     "note": "The light on the road to Damascus",
+     "ch": [
+      [
+       "Act",
+       9,
+       3,
+       9,
+       8
+      ]
+     ],
+     "place": "a69c1d4"
+    },
+    {
+     "ref": "Galatians 1:17",
+     "refs": [
+      "Galatians 1:17"
+     ],
+     "note": "He goes away into Arabia",
+     "ch": [
+      [
+       "Gal",
+       1,
+       17,
+       1,
+       17
+      ]
+     ],
+     "place": "a0f4ea8"
+    },
+    {
+     "ref": "Galatians 1:17",
+     "refs": [
+      "Galatians 1:17"
+     ],
+     "note": "He returns to Damascus",
+     "ch": [
+      [
+       "Gal",
+       1,
+       17,
+       1,
+       17
+      ]
+     ],
+     "place": "a69c1d4"
+    },
+    {
+     "ref": "Acts 9:26–28",
+     "refs": [
+      "Acts 9:26–28"
+     ],
+     "note": "Barnabas brings him to the apostles",
+     "ch": [
+      [
+       "Act",
+       9,
+       26,
+       9,
+       28
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Acts 9:30",
+     "refs": [
+      "Acts 9:30"
+     ],
+     "note": "The brothers take him down to Caesarea",
+     "ch": [
+      [
+       "Act",
+       9,
+       30,
+       9,
+       30
+      ]
+     ],
+     "place": "a58735e"
+    },
+    {
+     "ref": "Acts 9:30",
+     "refs": [
+      "Acts 9:30"
+     ],
+     "note": "He is sent on to Tarsus",
+     "ch": [
+      [
+       "Act",
+       9,
+       30,
+       9,
+       30
+      ]
+     ],
+     "place": "a666ea0"
+    },
+    {
+     "ref": "Acts 11:25–26",
+     "refs": [
+      "Acts 11:25–26"
+     ],
+     "note": "Barnabas brings him to Antioch",
+     "ch": [
+      [
+       "Act",
+       11,
+       25,
+       11,
+       26
+      ]
+     ],
+     "place": "ae41ab4"
+    }
+   ]
+  },
+  {
+   "id": "paul1",
+   "title": "Paul’s first journey",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 13–14",
+   "intro": "With Barnabas through Cyprus and southern Galatia.",
+   "timeline": [
+    "NT_DET-15"
+   ],
+   "steps": [
+    {
+     "ref": "Acts 13:1–3",
+     "refs": [
+      "Acts 13:1–3"
+     ],
+     "note": "Barnabas and Saul are sent out from Antioch",
+     "ch": [
+      [
+       "Act",
+       13,
+       1,
+       13,
+       3
+      ]
+     ],
+     "place": "ae41ab4"
+    },
+    {
+     "ref": "Acts 13:4",
+     "refs": [
+      "Acts 13:4"
+     ],
+     "note": "Down to the port of Seleucia",
+     "ch": [
+      [
+       "Act",
+       13,
+       4,
+       13,
+       4
+      ]
+     ],
+     "place": "a6d306d"
+    },
+    {
+     "ref": "Acts 13:5",
+     "refs": [
+      "Acts 13:5"
+     ],
+     "note": "Preaching in the synagogues of Salamis",
+     "ch": [
+      [
+       "Act",
+       13,
+       5,
+       13,
+       5
+      ]
+     ],
+     "place": "afa863b",
+     "sea": true
+    },
+    {
+     "ref": "Acts 13:6–12",
+     "refs": [
+      "Acts 13:6–12"
+     ],
+     "note": "The proconsul believes at Paphos",
+     "ch": [
+      [
+       "Act",
+       13,
+       6,
+       13,
+       12
+      ]
+     ],
+     "place": "a314765"
+    },
+    {
+     "ref": "Acts 13:13",
+     "refs": [
+      "Acts 13:13"
+     ],
+     "note": "John Mark leaves them at Perga",
+     "ch": [
+      [
+       "Act",
+       13,
+       13,
+       13,
+       13
+      ]
+     ],
+     "place": "aff04b8",
+     "sea": true
+    },
+    {
+     "ref": "Acts 13:14–48",
+     "refs": [
+      "Acts 13:14–48"
+     ],
+     "note": "The sermon at Antioch in Pisidia",
+     "ch": [
+      [
+       "Act",
+       13,
+       14,
+       13,
+       48
+      ]
+     ],
+     "place": "a6c704a"
+    },
+    {
+     "ref": "Acts 13:51",
+     "refs": [
+      "Acts 13:51"
+     ],
+     "note": "Iconium",
+     "ch": [
+      [
+       "Act",
+       13,
+       51,
+       13,
+       51
+      ]
+     ],
+     "place": "ae425aa"
+    },
+    {
+     "ref": "Acts 14:8–19",
+     "refs": [
+      "Acts 14:8–19"
+     ],
+     "note": "A lame man healed; Paul stoned at Lystra",
+     "ch": [
+      [
+       "Act",
+       14,
+       8,
+       14,
+       19
+      ]
+     ],
+     "place": "af0719d"
+    },
+    {
+     "ref": "Acts 14:20–21",
+     "refs": [
+      "Acts 14:20–21"
+     ],
+     "note": "Many disciples made at Derbe",
+     "ch": [
+      [
+       "Act",
+       14,
+       20,
+       14,
+       21
+      ]
+     ],
+     "place": "aa401a9"
+    },
+    {
+     "ref": "Acts 14:21",
+     "refs": [
+      "Acts 14:21"
+     ],
+     "note": "Back through Lystra",
+     "ch": [
+      [
+       "Act",
+       14,
+       21,
+       14,
+       21
+      ]
+     ],
+     "place": "af0719d"
+    },
+    {
+     "ref": "Acts 14:21",
+     "refs": [
+      "Acts 14:21"
+     ],
+     "note": "and Iconium",
+     "ch": [
+      [
+       "Act",
+       14,
+       21,
+       14,
+       21
+      ]
+     ],
+     "place": "ae425aa"
+    },
+    {
+     "ref": "Acts 14:21–23",
+     "refs": [
+      "Acts 14:21–23"
+     ],
+     "note": "and Antioch, appointing elders",
+     "ch": [
+      [
+       "Act",
+       14,
+       21,
+       14,
+       23
+      ]
+     ],
+     "place": "a6c704a"
+    },
+    {
+     "ref": "Acts 14:25",
+     "refs": [
+      "Acts 14:25"
+     ],
+     "note": "The word preached in Perga",
+     "ch": [
+      [
+       "Act",
+       14,
+       25,
+       14,
+       25
+      ]
+     ],
+     "place": "aff04b8"
+    },
+    {
+     "ref": "Acts 14:25",
+     "refs": [
+      "Acts 14:25"
+     ],
+     "note": "Down to Attalia",
+     "ch": [
+      [
+       "Act",
+       14,
+       25,
+       14,
+       25
+      ]
+     ],
+     "place": "ac744c1"
+    },
+    {
+     "ref": "Acts 14:26–27",
+     "refs": [
+      "Acts 14:26–27"
+     ],
+     "note": "They sail back to Antioch",
+     "ch": [
+      [
+       "Act",
+       14,
+       26,
+       14,
+       27
+      ]
+     ],
+     "place": "ae41ab4",
+     "sea": true
+    }
+   ]
+  },
+  {
+   "id": "paul2",
+   "title": "Paul’s second journey",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 15:36 – 18:22",
+   "intro": "With Silas, and later Timothy and Luke, into Europe.",
+   "timeline": [
+    "NT_DET-17"
+   ],
+   "steps": [
+    {
+     "ref": "Acts 15:36–40",
+     "refs": [
+      "Acts 15:36–40"
+     ],
+     "note": "Paul and Silas leave Antioch",
+     "ch": [
+      [
+       "Act",
+       15,
+       36,
+       15,
+       40
+      ]
+     ],
+     "place": "ae41ab4"
+    },
+    {
+     "ref": "Acts 16:1",
+     "refs": [
+      "Acts 16:1"
+     ],
+     "note": "Derbe",
+     "ch": [
+      [
+       "Act",
+       16,
+       1,
+       16,
+       1
+      ]
+     ],
+     "place": "aa401a9"
+    },
+    {
+     "ref": "Acts 16:1–3",
+     "refs": [
+      "Acts 16:1–3"
+     ],
+     "note": "Timothy joins them at Lystra",
+     "ch": [
+      [
+       "Act",
+       16,
+       1,
+       16,
+       3
+      ]
+     ],
+     "place": "af0719d"
+    },
+    {
+     "ref": "Acts 16:8–10",
+     "refs": [
+      "Acts 16:8–10"
+     ],
+     "note": "The vision of the man of Macedonia at Troas",
+     "ch": [
+      [
+       "Act",
+       16,
+       8,
+       16,
+       10
+      ]
+     ],
+     "place": "a91c509"
+    },
+    {
+     "ref": "Acts 16:11",
+     "refs": [
+      "Acts 16:11"
+     ],
+     "note": "A straight course to Samothrace",
+     "ch": [
+      [
+       "Act",
+       16,
+       11,
+       16,
+       11
+      ]
+     ],
+     "place": "a68750d",
+     "sea": true
+    },
+    {
+     "ref": "Acts 16:11",
+     "refs": [
+      "Acts 16:11"
+     ],
+     "note": "Landing at Neapolis",
+     "ch": [
+      [
+       "Act",
+       16,
+       11,
+       16,
+       11
+      ]
+     ],
+     "place": "a6a7150",
+     "sea": true
+    },
+    {
+     "ref": "Acts 16:12–40",
+     "refs": [
+      "Acts 16:12–40"
+     ],
+     "note": "Lydia, the jailer, and the church at Philippi",
+     "ch": [
+      [
+       "Act",
+       16,
+       12,
+       16,
+       40
+      ]
+     ],
+     "place": "a49e1d0"
+    },
+    {
+     "ref": "Acts 17:1",
+     "refs": [
+      "Acts 17:1"
+     ],
+     "note": "Through Amphipolis",
+     "ch": [
+      [
+       "Act",
+       17,
+       1,
+       17,
+       1
+      ]
+     ],
+     "place": "a4bdea7"
+    },
+    {
+     "ref": "Acts 17:1",
+     "refs": [
+      "Acts 17:1"
+     ],
+     "note": "and Apollonia",
+     "ch": [
+      [
+       "Act",
+       17,
+       1,
+       17,
+       1
+      ]
+     ],
+     "place": "ab20df9"
+    },
+    {
+     "ref": "Acts 17:1–9",
+     "refs": [
+      "Acts 17:1–9"
+     ],
+     "note": "Three sabbaths in Thessalonica",
+     "ch": [
+      [
+       "Act",
+       17,
+       1,
+       17,
+       9
+      ]
+     ],
+     "place": "afa9d8e"
+    },
+    {
+     "ref": "Acts 17:10–12",
+     "refs": [
+      "Acts 17:10–12"
+     ],
+     "note": "The Bereans search the Scriptures",
+     "ch": [
+      [
+       "Act",
+       17,
+       10,
+       17,
+       12
+      ]
+     ],
+     "place": "a62fe31"
+    },
+    {
+     "ref": "Acts 17:15–34",
+     "refs": [
+      "Acts 17:15–34"
+     ],
+     "note": "The Areopagus address at Athens",
+     "ch": [
+      [
+       "Act",
+       17,
+       15,
+       17,
+       34
+      ]
+     ],
+     "place": "a1fe6e7",
+     "sea": true
+    },
+    {
+     "ref": "Acts 18:1–11",
+     "refs": [
+      "Acts 18:1–11"
+     ],
+     "note": "Eighteen months at Corinth",
+     "ch": [
+      [
+       "Act",
+       18,
+       1,
+       18,
+       11
+      ]
+     ],
+     "place": "a6f437a"
+    },
+    {
+     "ref": "Acts 18:18",
+     "refs": [
+      "Acts 18:18"
+     ],
+     "note": "Paul cuts his hair at Cenchreae",
+     "ch": [
+      [
+       "Act",
+       18,
+       18,
+       18,
+       18
+      ]
+     ],
+     "place": "aa31dd3"
+    },
+    {
+     "ref": "Acts 18:19–21",
+     "refs": [
+      "Acts 18:19–21"
+     ],
+     "note": "A brief stop at Ephesus",
+     "ch": [
+      [
+       "Act",
+       18,
+       19,
+       18,
+       21
+      ]
+     ],
+     "place": "a5feb15",
+     "sea": true
+    },
+    {
+     "ref": "Acts 18:22",
+     "refs": [
+      "Acts 18:22"
+     ],
+     "note": "Landing at Caesarea",
+     "ch": [
+      [
+       "Act",
+       18,
+       22,
+       18,
+       22
+      ]
+     ],
+     "place": "a58735e",
+     "sea": true
+    },
+    {
+     "ref": "Acts 18:22",
+     "refs": [
+      "Acts 18:22"
+     ],
+     "note": "He goes up and greets the church",
+     "ch": [
+      [
+       "Act",
+       18,
+       22,
+       18,
+       22
+      ]
+     ],
+     "place": "a15257a"
+    },
+    {
+     "ref": "Acts 18:22",
+     "refs": [
+      "Acts 18:22"
+     ],
+     "note": "He returns to Antioch",
+     "ch": [
+      [
+       "Act",
+       18,
+       22,
+       18,
+       22
+      ]
+     ],
+     "place": "ae41ab4"
+    }
+   ]
+  },
+  {
+   "id": "paul3",
+   "title": "Paul’s third journey",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 18:23 – 21:17",
+   "intro": "Through Galatia to Ephesus, Macedonia and Greece, then back to Jerusalem.",
+   "timeline": [
+    "NT_DET-21"
+   ],
+   "steps": [
+    {
+     "ref": "Acts 18:23",
+     "refs": [
+      "Acts 18:23"
+     ],
+     "note": "Paul sets out from Antioch",
+     "ch": [
+      [
+       "Act",
+       18,
+       23,
+       18,
+       23
+      ]
+     ],
+     "place": "ae41ab4"
+    },
+    {
+     "ref": "Acts 18:23",
+     "refs": [
+      "Acts 18:23"
+     ],
+     "note": "Strengthening the disciples in Galatia",
+     "ch": [
+      [
+       "Act",
+       18,
+       23,
+       18,
+       23
+      ]
+     ],
+     "place": "a0f440a"
+    },
+    {
+     "ref": "Acts 18:23",
+     "refs": [
+      "Acts 18:23"
+     ],
+     "note": "and Phrygia",
+     "ch": [
+      [
+       "Act",
+       18,
+       23,
+       18,
+       23
+      ]
+     ],
+     "place": "ab8ae56"
+    },
+    {
+     "ref": "Acts 19:1–20",
+     "refs": [
+      "Acts 19:1–20"
+     ],
+     "note": "More than two years at Ephesus",
+     "ch": [
+      [
+       "Act",
+       19,
+       1,
+       19,
+       20
+      ]
+     ],
+     "place": "a5feb15"
+    },
+    {
+     "ref": "Acts 20:1",
+     "refs": [
+      "Acts 20:1"
+     ],
+     "note": "On to Macedonia (Philippi shown)",
+     "ch": [
+      [
+       "Act",
+       20,
+       1,
+       20,
+       1
+      ]
+     ],
+     "place": "a49e1d0"
+    },
+    {
+     "ref": "Acts 20:2–3",
+     "refs": [
+      "Acts 20:2–3"
+     ],
+     "note": "Three months in Greece (probably Corinth)",
+     "ch": [
+      [
+       "Act",
+       20,
+       2,
+       20,
+       3
+      ]
+     ],
+     "place": "a6f437a"
+    },
+    {
+     "ref": "Acts 20:6",
+     "refs": [
+      "Acts 20:6"
+     ],
+     "note": "Unleavened Bread at Philippi",
+     "ch": [
+      [
+       "Act",
+       20,
+       6,
+       20,
+       6
+      ]
+     ],
+     "place": "a49e1d0"
+    },
+    {
+     "ref": "Acts 20:6–12",
+     "refs": [
+      "Acts 20:6–12"
+     ],
+     "note": "Eutychus raised at Troas",
+     "ch": [
+      [
+       "Act",
+       20,
+       6,
+       20,
+       12
+      ]
+     ],
+     "place": "a91c509",
+     "sea": true
+    },
+    {
+     "ref": "Acts 20:13–14",
+     "refs": [
+      "Acts 20:13–14"
+     ],
+     "note": "Paul walks to Assos",
+     "ch": [
+      [
+       "Act",
+       20,
+       13,
+       20,
+       14
+      ]
+     ],
+     "place": "a0a2ca7"
+    },
+    {
+     "ref": "Acts 20:14",
+     "refs": [
+      "Acts 20:14"
+     ],
+     "note": "Mitylene",
+     "ch": [
+      [
+       "Act",
+       20,
+       14,
+       20,
+       14
+      ]
+     ],
+     "place": "a33910d",
+     "sea": true
+    },
+    {
+     "ref": "Acts 20:15",
+     "refs": [
+      "Acts 20:15"
+     ],
+     "note": "Off Chios",
+     "ch": [
+      [
+       "Act",
+       20,
+       15,
+       20,
+       15
+      ]
+     ],
+     "place": "a4c2c75",
+     "sea": true
+    },
+    {
+     "ref": "Acts 20:15",
+     "refs": [
+      "Acts 20:15"
+     ],
+     "note": "Samos",
+     "ch": [
+      [
+       "Act",
+       20,
+       15,
+       20,
+       15
+      ]
+     ],
+     "place": "acf6ec0",
+     "sea": true
+    },
+    {
+     "ref": "Acts 20:15–38",
+     "refs": [
+      "Acts 20:15–38"
+     ],
+     "note": "Farewell to the Ephesian elders at Miletus",
+     "ch": [
+      [
+       "Act",
+       20,
+       15,
+       20,
+       38
+      ]
+     ],
+     "place": "a55027d",
+     "sea": true
+    },
+    {
+     "ref": "Acts 21:1",
+     "refs": [
+      "Acts 21:1"
+     ],
+     "note": "Cos",
+     "ch": [
+      [
+       "Act",
+       21,
+       1,
+       21,
+       1
+      ]
+     ],
+     "place": "a398e5d",
+     "sea": true
+    },
+    {
+     "ref": "Acts 21:1",
+     "refs": [
+      "Acts 21:1"
+     ],
+     "note": "Rhodes",
+     "ch": [
+      [
+       "Act",
+       21,
+       1,
+       21,
+       1
+      ]
+     ],
+     "place": "a4218ee",
+     "sea": true
+    },
+    {
+     "ref": "Acts 21:1",
+     "refs": [
+      "Acts 21:1"
+     ],
+     "note": "Patara",
+     "ch": [
+      [
+       "Act",
+       21,
+       1,
+       21,
+       1
+      ]
+     ],
+     "place": "ade301b",
+     "sea": true
+    },
+    {
+     "ref": "Acts 21:3–6",
+     "refs": [
+      "Acts 21:3–6"
+     ],
+     "note": "Seven days with the disciples at Tyre",
+     "ch": [
+      [
+       "Act",
+       21,
+       3,
+       21,
+       6
+      ]
+     ],
+     "place": "a160272",
+     "sea": true
+    },
+    {
+     "ref": "Acts 21:7",
+     "refs": [
+      "Acts 21:7"
+     ],
+     "note": "Ptolemais",
+     "ch": [
+      [
+       "Act",
+       21,
+       7,
+       21,
+       7
+      ]
+     ],
+     "place": "abc2af0",
+     "sea": true
+    },
+    {
+     "ref": "Acts 21:8–14",
+     "refs": [
+      "Acts 21:8–14"
+     ],
+     "note": "Agabus prophesies at Caesarea",
+     "ch": [
+      [
+       "Act",
+       21,
+       8,
+       21,
+       14
+      ]
+     ],
+     "place": "a58735e"
+    },
+    {
+     "ref": "Acts 21:15–17",
+     "refs": [
+      "Acts 21:15–17"
+     ],
+     "note": "Arrival in Jerusalem",
+     "ch": [
+      [
+       "Act",
+       21,
+       15,
+       21,
+       17
+      ]
+     ],
+     "place": "a15257a"
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "title": "Paul’s voyage to Rome",
+   "kind": "people",
+   "testament": "NT",
+   "span": "Acts 27–28",
+   "intro": "A prisoner’s voyage, shipwreck on Malta, and arrival in Rome.",
+   "timeline": [
+    "NT_DET-30",
+    "NT_DET-28",
+    "NT_DET-31"
+   ],
+   "steps": [
+    {
+     "ref": "Acts 27:1–2",
+     "refs": [
+      "Acts 27:1–2"
+     ],
+     "note": "Paul is handed over and sails from Caesarea",
+     "ch": [
+      [
+       "Act",
+       27,
+       1,
+       27,
+       2
+      ]
+     ],
+     "place": "a58735e"
+    },
+    {
+     "ref": "Acts 27:3",
+     "refs": [
+      "Acts 27:3"
+     ],
+     "note": "Friends care for him at Sidon",
+     "ch": [
+      [
+       "Act",
+       27,
+       3,
+       27,
+       3
+      ]
+     ],
+     "place": "a98e4d7",
+     "sea": true
+    },
+    {
+     "ref": "Acts 27:5–6",
+     "refs": [
+      "Acts 27:5–6"
+     ],
+     "note": "A ship of Alexandria at Myra",
+     "ch": [
+      [
+       "Act",
+       27,
+       5,
+       27,
+       6
+      ]
+     ],
+     "place": "aa4b3e2",
+     "sea": true
+    },
+    {
+     "ref": "Acts 27:7",
+     "refs": [
+      "Acts 27:7"
+     ],
+     "note": "Slowly off Cnidus",
+     "ch": [
+      [
+       "Act",
+       27,
+       7,
+       27,
+       7
+      ]
+     ],
+     "place": "ab793ce",
+     "sea": true
+    },
+    {
+     "ref": "Acts 27:7",
+     "refs": [
+      "Acts 27:7"
+     ],
+     "note": "Under the lee of Crete, off Salmone",
+     "ch": [
+      [
+       "Act",
+       27,
+       7,
+       27,
+       7
+      ]
+     ],
+     "place": "a1c44ea",
+     "sea": true
+    },
+    {
+     "ref": "Acts 27:8–12",
+     "refs": [
+      "Acts 27:8–12"
+     ],
+     "note": "Paul warns them at Fair Havens",
+     "ch": [
+      [
+       "Act",
+       27,
+       8,
+       27,
+       12
+      ]
+     ],
+     "place": "aae626a",
+     "sea": true
+    },
+    {
+     "ref": "Acts 27:41 – 28:10",
+     "refs": [
+      "Acts 27:41 – 28:10"
+     ],
+     "note": "Shipwreck and winter on Malta",
+     "ch": [
+      [
+       "Act",
+       27,
+       41,
+       28,
+       10
+      ]
+     ],
+     "place": "a57835d",
+     "sea": true
+    },
+    {
+     "ref": "Acts 28:12",
+     "refs": [
+      "Acts 28:12"
+     ],
+     "note": "Three days at Syracuse",
+     "ch": [
+      [
+       "Act",
+       28,
+       12,
+       28,
+       12
+      ]
+     ],
+     "place": "a1e3697",
+     "sea": true
+    },
+    {
+     "ref": "Acts 28:13",
+     "refs": [
+      "Acts 28:13"
+     ],
+     "note": "Rhegium",
+     "ch": [
+      [
+       "Act",
+       28,
+       13,
+       28,
+       13
+      ]
+     ],
+     "place": "a63bb26",
+     "sea": true
+    },
+    {
+     "ref": "Acts 28:13–14",
+     "refs": [
+      "Acts 28:13–14"
+     ],
+     "note": "Brothers welcome them at Puteoli",
+     "ch": [
+      [
+       "Act",
+       28,
+       13,
+       28,
+       14
+      ]
+     ],
+     "place": "a4488e9",
+     "sea": true
+    },
+    {
+     "ref": "Acts 28:15",
+     "refs": [
+      "Acts 28:15"
+     ],
+     "note": "Believers meet him at the Forum of Appius",
+     "ch": [
+      [
+       "Act",
+       28,
+       15,
+       28,
+       15
+      ]
+     ],
+     "place": "a121d5e"
+    },
+    {
+     "ref": "Acts 28:15",
+     "refs": [
+      "Acts 28:15"
+     ],
+     "note": "and the Three Taverns",
+     "ch": [
+      [
+       "Act",
+       28,
+       15,
+       28,
+       15
+      ]
+     ],
+     "place": "afef438"
+    },
+    {
+     "ref": "Acts 28:16–31",
+     "refs": [
+      "Acts 28:16–31"
+     ],
+     "note": "Two years under guard in Rome",
+     "ch": [
+      [
+       "Act",
+       28,
+       16,
+       28,
+       31
+      ]
+     ],
+     "place": "afc8e7a"
+    }
+   ]
+  }
+ ]
+}

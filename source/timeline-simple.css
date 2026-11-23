@@ -1,0 +1,19 @@
+/* Simple timeline: three view tabs, search and zoom above the chart, notes below. */
+#bible-timeline-dialog .bt-mode-tabs,#bible-timeline-dialog #bt-mode-status,#bible-timeline-dialog .bt-sidebar,
+#bible-timeline-dialog #bt-earlier,#bible-timeline-dialog #bt-later,#bible-timeline-dialog .bt-range,
+#bible-timeline-dialog .bt-chart-help,#bible-timeline-dialog .bt-footer,#bible-timeline-dialog .bt-display-settings,
+#bible-timeline-dialog .bt-heading .section-label,#bible-timeline-dialog #bt-intro{display:none!important}
+#bible-timeline-dialog .bt-layout{grid-template-columns:minmax(0,1fr)!important}
+#bible-timeline-dialog .bt-heading{padding:12px 20px 10px;align-items:center}
+#bible-timeline-dialog #bt-title{margin:0}
+.tl-views{display:flex;gap:4px;padding:0 20px;border-bottom:1px solid var(--line);background:var(--paper);flex:none}
+.tl-views button{font:inherit;font-size:14px;padding:10px 16px;border:0;border-bottom:3px solid transparent;background:transparent;color:var(--muted);border-radius:0;margin-bottom:-1px;cursor:pointer}
+.tl-views button:hover{color:var(--ink)}
+.tl-views button[aria-selected="true"]{color:var(--ink);font-weight:600;border-bottom-color:var(--green)}
+#bible-timeline-dialog .bt-toolbar{justify-content:flex-start}
+#bible-timeline-dialog #bt-year-form{margin-left:auto}
+.tl-find{flex:1 1 220px;max-width:340px}
+.tl-find input{width:100%;box-sizing:border-box}
+@media (max-width:700px){.tl-views{padding:0 8px}.tl-views button{padding:9px 10px;font-size:13px}#bible-timeline-dialog #bt-year-form{margin-left:0}}
+#bible-timeline-dialog .bt-sticky-axis{height:86px}
+#bible-timeline-dialog .bt-dating{margin:6px 0 12px;padding:8px 12px;border-left:2px solid var(--gold);background:rgba(120,151,118,.10);border-radius:3px;font-size:14px;line-height:1.5;max-width:70ch}

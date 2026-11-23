@@ -1,0 +1,38 @@
+/* BEGIN SCRIPTORIUM TIMELINE LAYOUT — one line per entry */
+@media(min-width:541px){
+#bible-timeline-dialog:not(.bt-reading-notes):not(.bt-manuscripts) .bt-chart-wrap{flex:1 1 auto;height:auto;min-height:300px}
+#bible-timeline-dialog:not(.bt-reading-notes):not(.bt-manuscripts) .bt-detail{min-height:120px;max-height:240px}
+}
+.bt-period{fill:var(--soft);stroke:var(--line);stroke-width:1}
+.bt-period-alt{fill:var(--paper)}
+.bt-period-label{fill:var(--green);font-weight:600;letter-spacing:.2px}
+.bt-group-band{fill:var(--soft);stroke:var(--line);stroke-width:1}
+.bt-group-label{cursor:pointer}
+.bt-group-label:hover .bt-group-band{fill:var(--paper)}
+.bt-gantt-row .bt-row,.bt-gantt-row .bt-row-alt{fill-opacity:.55}
+.bt-gantt-row:hover .bt-row,.bt-gantt-row:hover .bt-row-alt{fill:var(--soft);fill-opacity:1}
+.bt-row-chosen{fill:var(--gold);fill-opacity:.18}
+.bt-row-date{fill:var(--muted);font-variant-numeric:tabular-nums}
+.bt-row-title{fill:var(--ink);font-weight:500}
+.bt-row-title-chosen{font-weight:700}
+.bt-chosen-row rect[rx]{stroke:var(--ink);stroke-width:1.2}
+.bt-uncertain{stroke:var(--ink);stroke-width:1;stroke-dasharray:3 2;fill-opacity:.4}
+.bt-point{stroke:var(--white);stroke-width:1}
+.bt-cut{fill:none;stroke:var(--white);stroke-width:2}
+#bible-timeline-dialog .bt-scripture{margin:10px 0 4px}
+#bible-timeline-dialog .bt-scripture h4{margin:0 0 6px;font:600 12px/1.4 var(--sans);letter-spacing:.8px;text-transform:uppercase;color:var(--green)}
+#bible-timeline-dialog .bt-quote{margin:0 0 8px;padding:8px 14px;border-left:3px solid var(--gold);background:var(--soft);border-radius:0 6px 6px 0;font:italic 15px/1.6 var(--serif,Georgia,serif);color:var(--ink)}
+#bible-timeline-dialog .bt-detail .bt-quote p{font:inherit;margin:2px 0}
+#bible-timeline-dialog .bt-quote sup{font:600 10px var(--sans);color:var(--muted);margin-right:2px;font-style:normal}
+#bible-timeline-dialog .bt-quote-cite{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-top:4px;font:normal 12px/1.4 var(--sans);color:var(--muted)}
+#bible-timeline-dialog .bt-quote-cite button{padding:3px 8px;font-size:12px}
+#bible-timeline-dialog .bt-event .bt-event-scripture{color:var(--green)}
+#bible-timeline-dialog .bt-navigation button:disabled{opacity:.35;cursor:not-allowed}
+#bt-axis .bt-period{cursor:pointer}
+#bt-axis .bt-period-label{pointer-events:none}
+#bt-axis .bt-period:hover{fill:var(--gold);fill-opacity:.25}
+#bt-chart{cursor:grab}
+#bt-chart.bt-dragging{cursor:grabbing;user-select:none}
+#bt-chart:not(.bt-dragging) .bt-gantt-row{cursor:pointer}
+#bt-here{white-space:nowrap}
+/* END SCRIPTORIUM TIMELINE LAYOUT */
