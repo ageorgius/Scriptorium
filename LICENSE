@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-This licence covers the code written for this repository (the .js, .css, .py,
-.ps1, .sh and .cmd files). The data files keep the terms of their sources; see
-NOTICE.md. Scriptorium itself, on the Releases page, is shared with its
-author's permission and is not covered by this licence.

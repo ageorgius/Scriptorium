@@ -1,6 +1,6 @@
 # Notices for the data in this repository
 
-The code is under the MIT licence (see LICENSE). The data files come from these sources and keep their terms.
+The MIT licence in LICENSE covers the code written for this repository (the .js, .css, .py, .ps1, .sh and .cmd files). The data files come from these sources and keep their terms. Scriptorium itself, on the Releases page, is shared with its author's permission and is not covered by the MIT licence.
 
 ## Divinum Officium (Missal and Breviary texts)
 `source/liturgy-1962.json`, `source/liturgy-propers.json`, `source/breviary.json` are built from the Divinum Officium data files (https://github.com/DivinumOfficium/divinum-officium), under this licence:
